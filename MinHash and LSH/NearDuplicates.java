@@ -9,7 +9,7 @@ public class NearDuplicates {
 
 	public static void main(String[] args) {
 		
-		String[] dupes = nearDuplicateDetector("/Users/charlesglenn/Desktop/535pa2/F16PA2/",400,0.9,"space-0.txt",16);
+		String[] dupes = nearDuplicateDetector("space",400,0.9,"space-0.txt",16);
 		for (String dupe : dupes) { System.out.println(dupe); }
 
 		
