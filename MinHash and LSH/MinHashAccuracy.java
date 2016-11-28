@@ -16,7 +16,7 @@ public class MinHashAccuracy {
 			for (int j=0;j<eta.length;j++) {
 				
 				System.out.println("	" + "Error threshold: "+ eta[j]);
-				accuracy("/Users/charlesglenn/Desktop/535pa2/space/",perms[i],eta[j]);
+				accuracy("space",perms[i],eta[j]);
 				
 				
 			}
