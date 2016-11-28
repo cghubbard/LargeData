@@ -12,4 +12,4 @@ Performs a topic-sensitive crawling of **wikipeida** according to the input key 
 ### PageRank
 Runs PageRank on the input graph.
 ### WikiTennisRanker
-Ouputs to the console PageRank statistics for the graph described by **WikiTennis.txt**.
+Ouputs to the console PageRank statistics for the graph described by **wikiTennis.txt**.
