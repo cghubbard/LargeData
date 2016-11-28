@@ -6,7 +6,7 @@
 public class MinHashTime {
 
 	public static void main(String[] args) {
-		timer("/Users/charlesglenn/Desktop/535pa2/space/", 600);
+		timer("space", 600);
 
 	}
 	
