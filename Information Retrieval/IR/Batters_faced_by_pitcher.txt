@@ -1,0 +1,4 @@
+In baseball statistics, Batters Faced by Pitcher (BFP), also known as Total 
+Batters Faced (TBF), is the number of batters who made a plate appearance 
+before the pitcher in a game or in a season. For a given game, the number 
+of plate appearances for an offense is 3×(Innings) + (Runs scored) + (Runners 

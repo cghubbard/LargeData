@@ -1,0 +1,34 @@
+In softball and baseball statistics, on-base percentage (OBP; sometimes 
+referred to as on-base average/OBA, as the statistic is rarely presented 
+as a true percentage) is a measure of how often a batter reaches base for 
+any reason other than a fielding error, fielder's choice, dropped/uncaught 
+third strike, fielder's obstruction, or catcher's interference (the latter 
+two are ignored as times-on-base (TOB). OBP is added to slugging average 
+to determine on-base plus slugging (OPS). It first became an official MLB 
+statistic in 1984. The on-base percentage of all batters faced by one pitcher 
+or team is referred to as on-base against. Traditionally, players with 
+the best on-base percentages bat as leadoff hitter, unless they are power 
+hitters, who traditionally bat slightly lower in the batting order. The 
+league average for on-base percentage in Major League Baseball has varied 
+considerably over time; at its peak in the late 1990s, it was around .340, 
+whereas it was typically .300 during the dead-ball era. On-base percentage 
+can also vary quite considerably from player to player. The record for 
+the highest career OBP by a hitter, based on over 3000 plate appearances, 
+is .482 by Ted Williams. The lowest is by Bill Bergen, who had an OBP of 
+.194. On-base percentage is calculated using this formula: where NOTE: 
+Sacrifice flies were not counted as an official statistic until 1954. Before 
+that time, all sacrifices were counted as sacrifice hits (SH), which included 
+both sacrifice flies and bunts. Sacrifice bunts (sacrifice hits since 1954), 
+which would lower a batter's on-base percentage, are not included in the 
+calculation for on-base percentage, as bunting is an offensive strategy – 
+often dictated by the manager – the use of which does not necessarily reflect 
+on the batter's ability and should not be used to penalize him. For calculations 
+of OBP before 1954, or where sacrifice flies are not explicitly listed, 
+the number of sacrifice flies should be assumed to be zero. It is possible 
+for a player's on-base percentage to be lower than his batting average 
+(H/AB). This is because sacrifice flies are counted for the purposes of 
+OBP, but not batting average. For example, a player who has 2 hits in 6 
+at-bats plus a sacrifice fly has batting average of .333, but an OBP .286. 
+The player who experienced this phenomenon with the most number of at-bats 
+over a full season was Ernie Bowman. In 1963, with over 125 at-bats, Bowman 
+had a batting average of .184 and an on-base percentage of .181. bold is 

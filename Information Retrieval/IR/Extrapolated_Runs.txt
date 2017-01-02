@@ -1,0 +1,47 @@
+Extrapolated Runs (XR) is a baseball statistic invented by sabermetrician 
+Jim Furtado to estimate the number of runs a hitter contributes to his 
+team. XR measures essentially the same thing as Bill James' Runs Created, 
+but it is a linear weights formula that assigns a run value to each event, 
+rather than a multiplicative formula like James' creation. According to 
+Furtado, Extrapolated Runs was inspired by Paul Johnson's Estimated Runs 
+Produced (ERP) formula, which was published in James' 1985 Baseball Abstract. 
+Furtado found that Johnson's method, when written a different way, was 
+essentially a linear weights formula (something James apparently did not 
+recognize at the time, given his very public disdain for linear run estimators). 
+ERP was almost as accurate as RC at measuring team runs, it did not succumb 
+to RC's infamous problems at the individual level, and its values stacked 
+up well when compared to Pete Palmer's linear weights formula, even though 
+the two methods were developed in entirely different ways. For these reasons, 
+Furtado believed that linear estimators had more promise than was originally 
+thought, and he set out to develop his own. After much trial and error 
+(some of which involved borrowing concepts and weights from other linear 
+formulas), Furtado eventually found a set of weights that best fit his 
+sample (every Major League Baseball season from 1955 to 1997). He unveiled 
+the formula in the 1999 Big Bad Baseball Annual: "Extrapolated Runs was 
+developed for use with seasons from 1955 to the present. I came up with 
+three versions of the formula. The three formulas are: "As you can see, 
+calculating XR requires only addition and multiplication. Its simplicity 
+of design is one of its greatest attributes. Unlike a lot of the other 
+methods, you don't need to know team totals, actual runs, league figures 
+or anything else. You just plug the stats into the formula and you are 
+all set. "Another of XR attributes is that the formula is pretty much context 
+neutral. Other than park effects, the only remaining residue of context 
+is due to the inclusion of IBB, GIDP and SF. Although I could have removed 
+them from the full version, I felt that the inclusion of these terms was 
+important since my research showed there was a strong correlation between 
+the IBB, SF and GIDP opportunities that players face. I also felt, like 
+Bill James, that these statistics do tell us something valuable about players. 
+Of course, I knew some people might not agree with me. For them, I created 
+two other versions. "XR also accounts for just about every out. James correctly 
+understands that the more outs an individual player consumes the less valuable 
+his positive contributions are. Since XR will be used as the base of the 
+Extrapolated Win method, I thought it was important to include as many 
+outs as possible in the formula. "Another nice thing about XR is that if 
+you add up all the players' Extrapolated Runs, you'll have the team totals. 
+That's a benefit of using a linear equation." Along with Palmer's Linear 
+Weights, XR is the most accurate of the linear run estimators, in terms 
+of predicting team runs scored. And unlike James' RC, it doesn't artificially 
+inflate the runs produced by individual players who combine high OBPs and 
+SLGs. It is also much easier to calculate than Base Runs. However, like 
+any linear formula, there is no guarantee that it will work outside of 
+the context in which it was developed (in this case, seasons from 1955 

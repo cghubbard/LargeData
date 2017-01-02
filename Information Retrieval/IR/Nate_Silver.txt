@@ -1,0 +1,444 @@
+Nathaniel Read "Nate" Silver (born January 13, 1978) is an American statistician 
+and writer who analyzes baseball (see sabermetrics) and elections (see 
+psephology). He is the editor-in-chief of ESPN's FiveThirtyEight and a 
+Special Correspondent for ABC News. Silver first gained public recognition 
+for developing PECOTA,[3] a system for forecasting the performance and 
+career development of Major League Baseball players, which he sold to and 
+then managed for Baseball Prospectus from 2003 to 2009.[4] After Silver 
+successfully called the outcomes in 49 of the 50 states in the 2008 U.S. 
+Presidential election, he was named one of The World's 100 Most Influential 
+People by Time in 2009.[5] In 2010, the FiveThirtyEight blog was licensed 
+for publication by The New York Times.[6][7] In 2012 and 2013, FiveThirtyEight 
+won Webby Awards as the "Best Political Blog" from the International Academy 
+of Digital Arts and Sciences. In the 2012 United States presidential election, 
+Silver correctly predicted the winner of all 50 states and the District 
+of Columbia.[8] In July 2013, FiveThirtyEight was sold to ESPN, and Silver 
+became its Editor in Chief.[9] The ESPN-owned FiveThirtyEight launched 
+on March 17, 2014. The site focused on a broad range of subjects under 
+the rubric of "data journalism".[10] Silver's book, The Signal and the 
+Noise, was published in September 2012. It subsequently reached The New 
+York Times best seller list for nonfiction, and was named by Amazon.com 
+as the No. 1 best nonfiction book of 2012.[11] The Signal and the Noise 
+won the 2013 Phi Beta Kappa Award in Science.[12] The book has been translated 
+into nine languages: Chinese (separate editions in traditional and simplified 
+characters), Czech, German, Italian, Polish, Portuguese, Spanish, Russian, 
+and Romanian. Having earned a bachelor's degree from The University of 
+Chicago in 2000, Silver has since been awarded four honorary doctoral degrees: 
+from Ripon College (2013), The New School (2013), The University of Leuven 
+(2013), and Amherst College (2014). Silver was born in East Lansing, Michigan, 
+the son of Sally (née Thrun), a community activist, and Brian David Silver, 
+a former chair of the political science department at Michigan State University.[13][14] 
+Silver's mother's family, of English and German descent, includes several 
+distinguished men and women, including his maternal great-grandfather, 
+Harmon Lewis, who was president of the Alcoa Steamship Company, Inc.[15] 
+Silver has described himself as "half-Jewish".[15][16] Silver showed a 
+proficiency in math from a young age.[17] According to journalist William 
+Hageman, "Silver caught the baseball bug when he was 6.... It was 1984, 
+the year the Detroit Tigers won the World Series. The Tigers became his 
+team and baseball his sport. And if there's anything that goes hand in 
+glove with baseball, it's numbers, another of Silver's childhood interests 
+("It's always more interesting to apply it to batting averages than algebra 
+class").[18] As a student at East Lansing High School, in 1996 Silver won 
+first place in the State of Michigan in the 49th annual John S. Knight 
+Scholarship Contest for senior high school debaters.[19] Silver first showed 
+his journalism skills as a writer and opinion page editor for The Portrait, 
+East Lansing High School's student newspaper, from 1993–1996.[20] In 2000, 
+Silver graduated with Honors with a Bachelor of Arts degree in economics 
+from the University of Chicago. He also wrote for the Chicago Weekly News 
+and the Chicago Maroon. He spent his third year at the London School of 
+Economics.[21] After college graduation in 2000, Silver worked for three 
+and a half years as a transfer pricing consultant with KPMG in Chicago. 
+When asked in 2009, "What is your biggest regret in life?" Silver responded, 
+"Spending four years of my life at a job I didn't like".[22] While employed 
+at KPMG, Silver continued to nurture his lifelong interest in baseball 
+and statistics, and on the side he began to work on his PECOTA system for 
+projecting player performance and careers. He quit his job at KPMG in April 
+2004 and for a time earned his living mainly by playing online poker.[23] 
+In 2003, Silver became a writer for Baseball Prospectus (BP), after having 
+sold PECOTA to BP in return for a partnership interest. After resigning 
+from KPMG in 2004, he took the position of Executive Vice-President, later 
+renamed Managing Partner of BP. Silver further developed PECOTA and wrote 
+a weekly column under the heading "Lies, Damned Lies". He applied sabermetric 
+techniques to a broad range of topics including forecasting the performance 
+of individual players, the economics of baseball, metrics for the valuation 
+of players, and developing an Elo rating system for Major League baseball.[24] 
+Between 2003 and 2009, Silver co-authored the Baseball Prospectus annual 
+book of Major League Baseball forecasts,[25] as well as other books, including 
+Mind Game: How the Boston Red Sox Got Smart, Won a World Series, and Created 
+a New Blueprint for Winning,[26] Baseball Between the Numbers,[27] and 
+It Ain't Over 'til It's Over: The Baseball Prospectus Pennant Race Book.[28] 
+He contributed articles about baseball to ESPN.com, Sports Illustrated, 
+Slate, the New York Sun, and The New York Times.[29] Silver authored more 
+than 200 articles for Baseball Prospectus.[30] PECOTA (Player Empirical 
+Comparison and Optimization Test Algorithm) is a statistical system that 
+projects the future performance of hitters and pitchers. It is designed 
+primarily for two uses: fans interested in fantasy baseball, and professionals 
+in the baseball business trying to predict the performance and valuation 
+of major league players. Unlike most other baseball projection systems, 
+PECOTA relies on matching a given current player to a set of "comparable" 
+players whose past performance can serve as a guide to how the given current 
+player is likely to perform in the future. Unlike most other such systems, 
+PECOTA also calculates a range of probable performance levels rather than 
+a single predicted value on a given measure such as earned run average 
+or batting average. PECOTA projections were first published by Baseball 
+Prospectus in the 2003 edition of its annual book as well as online by 
+BaseballProspectus.com. Silver produced the PECOTA forecasts for each Major 
+League Baseball season from 2003 through 2009.[4] On November 1, 2007, 
+while still employed by Baseball Prospectus, Silver began publishing a 
+diary under the pseudonym "Poblano" on the progressive political blog Daily 
+Kos.[31] Silver set out to analyze quantitative aspects of the political 
+game to enlighten a broader audience. Silver reports that "he was stranded 
+in a New Orleans airport when the idea of FiveThirtyEight.com came to him. 
+'I was just frustrated with the analysis. ... I saw a lot of discussion 
+about strategy that was not all that sophisticated, especially when it 
+came to quantitative things like polls and demographics'".[32] His forecasts 
+of the 2008 United States presidential primary elections drew a lot of 
+attention, including being cited by The New York Times Op-Ed columnist 
+William Kristol.[33] On March 7, 2008, while still writing as "Poblano," 
+Silver established his own blog, FiveThirtyEight.com. Often colloquially 
+referred to as just 538, the website takes its name from the number of 
+electors in the United States electoral college.[34] On May 30, 2008, Poblano 
+revealed his identity to FiveThirtyEight.com readers.[35] On June 1, 2008, 
+Silver published a two-page Op-Ed article in the New York Post outlining 
+the rationale underlying his focus on the statistical aspects of politics.[36] 
+He first appeared on national television on CNN's American Morning on June 
+13, 2008.[37] Silver described his partisan orientation as follows in the 
+FAQ on his website: "My state [Illinois] has non-partisan registration, 
+so I am not registered as anything. I vote for Democratic candidates the 
+majority of the time (though by no means always). This year, I have been 
+a supporter of Barack Obama".[38] With respect to the impartiality of his 
+electoral projections, Silver stated, "Are [my] results biased toward [my] 
+preferred candidates? I hope not, but that is for you to decide. I have 
+tried to disclose as much about my methodology as possible".[38] Shortly 
+after the November 4 election, ESPN writer Jim Caple observed, "Forget 
+Cole Hamels and the Phillies. No one in baseball had a more impressive 
+fall than Nate Silver.... [R]ight now Silver is exhausted. He barely slept 
+the last couple weeks of the campaign—'By the end, it was full-time plus'—and 
+for that matter, he says he couldn't have kept it up had the campaign lasted 
+two days longer. Plus, he has his Baseball Prospectus duties. 'We write 
+our [Baseball Prospectus 2009] book from now through the first of the year,' 
+[Silver] said. 'I have a week to relax and then it gets just as busy again. 
+In February 2009 I will just have to find an island in the Caribbean and 
+throw my BlackBerry in the ocean'".[39] Later in November 2008, Silver 
+signed a contract with Penguin Group USA to write two books, reportedly 
+for a $700,000 advance.[40] Silver was invited to be a speaker at TED 2009 
+in February 2009,[41] and keynote speaker at the 2009 South by Southwest 
+(SXSW) Interactive conference (March 2009).[42] While maintaining his FiveThirtyEight.com 
+website, in January 2009 Silver began a monthly feature column, "The Data", 
+in Esquire[43] as well as contributed occasional articles to other media 
+such as The New York Times[44] and the Wall Street Journal.[45] He also 
+tried his luck in the 2009 World Series of Poker.[46] The success of his 
+FiveThirtyEight.com blog marked the effective end of Silver's career as 
+baseball analyst, though he continued to devote some attention to sports 
+statistics and sports economics in his blog. In March 2009, he stepped 
+down as Managing Partner of Baseball Prospectus and handed over responsibility 
+for producing future PECOTA projections to other Baseball Prospectus staff 
+members.[4] In April 2009, he appeared as an analyst on ESPN's Baseball 
+Tonight. After March 2009, he published only two "Lies, Damned Lies" columns 
+on BaseballProspectus.com. In November 2009, ESPN introduced a new Soccer 
+Power Index (SPi),[47] designed by Nate Silver, for predicting the outcome 
+of the 2010 FIFA World Cup.[48] He published a post-mortem after the tournament, 
+comparing his predictions to those of alternative rating systems.[49] In 
+April 2010, in an assignment for New York magazine, Silver created a quantitative 
+index of "The Most Livable Neighborhoods in New York".[50] On June 3, 2010, 
+Silver announced on FiveThirtyEight.com, In the near future, the blog will 
+"re-launch" under a NYTimes.com domain. It will retain its own identity 
+(akin to other Times blogs like DealBook), but will be organized under 
+the News:Politics section. Once this occurs, content will no longer be 
+posted at FiveThirtyEight.com on an ongoing basis, and the blog will re-direct 
+to the new URL. In addition, I will be contributing content to the print 
+edition of The New York Times, and to the Sunday Magazine. The partnership 
+agreement, which is structured as a license, has a term of three years.[6][51] 
+The New York Times "FiveThirtyEight: Nate Silver's Political Calculus" 
+commenced on August 25, 2010, with the publication of "New Forecast Shows 
+Democrats Losing 6 to 7 Senate Seats".[52] From that date the blog focused 
+almost exclusively on forecasting the outcomes of the 2010 U.S. Senate 
+and U.S. House of Representatives elections as well as state gubernatorial 
+contests. Silver's Times Sunday Magazine feature first appeared on November 
+19, 2010, under the heading "Go Figure".[53] It was later titled "Acts 
+of Mild Subversion".[54] While blogging for The Times, Silver also worked 
+on his book about prediction, which was published in September 2012. At 
+that time, Silver began to drop hints that after 2012 he would turn his 
+attention to matters other than detailed statistical forecasting of elections. 
+As reported in New York magazine: " 'I view my role now as providing more 
+of a macro-level skepticism, rather than saying this poll is good or this 
+poll is evil,' he says. And in four [years], he might be even more macro, 
+as he turns his forecasting talents to other fields. 'I’m 97 percent sure 
+that the FiveThirtyEight model will exist in 2016,' he says, 'but it could 
+be someone else who’s running it or licensing it.'"[55] During the last 
+year of FiveThirtyEight's license to The Times, it drew a very large volume 
+of online traffic to the paper: The Times does not release traffic figures, 
+but a spokesperson said yesterday that Silver’s blog provided a significant—and 
+significantly growing, over the past year—percentage of Times pageviews. 
+This fall, visits to the Times’ political coverage (including FiveThirtyEight) 
+have increased, both absolutely and as a percentage of site visits. But 
+FiveThirtyEight’s growth is staggering: where earlier this year, somewhere 
+between 10 and 20 percent of politics visits included a stop at FiveThirtyEight, 
+last week that figure was 71 percent. But Silver’s blog has buoyed more 
+than just the politics coverage, becoming a significant traffic-driver 
+for the site as a whole. Earlier this year, approximately 1 percent of 
+visits to the New York Times included FiveThirtyEight. Last week, that 
+number was 13 percent. Yesterday, it was 20 percent. That is, one in five 
+visitors to the sixth-most-trafficked U.S. news site took a look at Silver’s 
+blog.[56] In an online chat session a week after the 2012 election Silver 
+commented: "As tempting as it might be to pull a Jim Brown/Sandy Koufax 
+and just mic-drop/retire from elections forecasting, I expect that we'll 
+be making forecasts in 2014 and 2016. Midterm elections can be dreadfully 
+boring, unfortunately. But the 2016 G.O.P. primary seems almost certain 
+to be epic."[57] In late November 2012, Times executive editor Jill Abramson 
+declared her wish to keep Silver and his blog: "We would love to have Nate 
+continue to be part of the New York Times family, and to expand on what 
+he does", she said. "We know he began in sports anyway, so it is not an 
+exclusively political product. I am excited to talk to Nate when he finishes 
+his book tour about ways to expand that kind of reporting."[58] On July 
+22, 2013, ESPN announced that it had acquired ownership of the FiveThirtyEight 
+website and brand, and that "Silver will serve as editor-in-chief of the 
+site and will build a team of journalists, editors, analysts and contributors 
+in the coming months."[59] The New York Times public editor Margaret Sullivan 
+wrote upon Silver's decision to leave for ESPN: I don’t think Nate Silver 
+ever really fit into the Times culture and I think he was aware of that. 
+He was, in a word, disruptive. Much like the Brad Pitt character in the 
+movie “Moneyball” disrupted the old model of how to scout baseball players, 
+Nate disrupted the traditional model of how to cover politics.[60] She 
+added, "A number of traditional and well-respected Times journalists disliked 
+his work."[61] Later, Sullivan wrote in The Times that "I don’t feel so 
+good about not being able to investigate every complaint from every individual 
+reader fully, or about making some misjudgments in individual posts — my 
+Nate Silver commentary, among others, has probably been off-base...".[62] 
+New York magazine reported that executive editor Jill Abramson "put on 
+a full-court press" to keep Silver at The Times and that "for Abramson, 
+Silver was a tentpole attraction for her favorite subject, national politics, 
+and brought the kind of buzz she thought valuable", but the company's CEO 
+and President Mark Thompson "confirmed that keeping Silver was not at the 
+top of his agenda". The article stated that "the major reason Silver left 
+was because he felt it was Thompson who had not committed to building his 
+franchise. The mixed signals from Thompson and Abramson—his lack of enthusiasm 
+for committing resources to Silver, her desire to keep a major star—frustrated 
+Silver and his lawyer".[63] When FiveThirtyEight was relaunched under ESPN's 
+ownership on March 17, 2014, Silver outlined the scope of topics that would 
+be covered under the rubric of "data journalism":[10] We’ve expanded our 
+staff from two full-time journalists to 20 and counting. Few of them will 
+focus on politics exclusively; instead, our coverage will span five major 
+subject areas — politics, economics, science, life and sports. Our team 
+also has a broad set of skills and experience in methods that fall under 
+the rubric of data journalism. These include statistical analysis, but 
+also data visualization, computer programming and data-literate reporting. 
+So in addition to written stories, we’ll have interactive graphics and 
+features. Within a couple of months we’ll launch a podcast, and we’ll be 
+collaborating with ESPN Films and Grantland to produce original documentary 
+films. In March 2008, Silver established his blog FiveThirtyEight.com, 
+in which he developed a system for tracking polls and forecasting the outcome 
+of the 2008 general election. At the same time, he continued making forecasts 
+of the 2008 Democratic primary elections. That several of his forecasts 
+based on demographic analysis proved to be substantially more accurate 
+than those of the professional pollsters gained visibility and professional 
+credibility for "Poblano," the pseudonym that Silver was then using.[64] 
+After the North Carolina and Indiana primaries on May 6, the popularity 
+of FiveThirtyEight.com surged. Silver recalls the scenario: 'I know the 
+polls show it's really tight in NC, but we think Obama is going to win 
+by thirteen, fourteen points, and he did. ... Any time you make a prediction 
+like that people give you probably too much credit for it.... But after 
+that [Silver's and the website's popularity] started to really take off. 
+It's pretty nonlinear, once you get one mention in the mainstream media, 
+other people [quickly follow suit]'".[65] As a CNET reporter wrote on election 
+eve, "Even though Silver launched the site as recently as March, its straightforward 
+approach, daring predictions, and short but impressive track record has 
+put it on the map of political sites to follow. The Washington Post featured 
+Silver in its 14th annual election prediction contest this year, and he'll 
+be reporting on Tuesday night's results with Dan Rather on HDNet".[66] 
+Silver's final 2008 presidential election forecast accurately predicted 
+the winner of 49 of the 50 states as well as the District of Columbia (missing 
+only the prediction for Indiana). As his model predicted, the races in 
+Missouri and North Carolina were particularly close. He also correctly 
+predicted the winners of every U.S. Senate race. The accuracy of his predictions 
+won him further acclaim, including abroad,[67] and added to his reputation 
+as a leading political prognosticator.[68] Barack Obama's 2008 presidential 
+campaign signed off on a proposal to share all of its private polling with 
+Silver. After signing a confidentiality agreement, Silver was granted access 
+to hundreds of polls the campaign had conducted.[69][70] Shortly after 
+FiveThirtyEight relocated to The New York Times, Silver introduced his 
+prediction models for the 2010 elections to the U.S. Senate, the U.S. House 
+of Representatives, and state governorships. Each of these models relied 
+initially on a combination of electoral history, demographics, and polling. 
+Silver eventually published detailed forecasts and analyses of the results 
+for all three sets of elections. He correctly predicted the winner in 34 
+of the 37 contested Senate races. His 2010 congressional mid-term predictions 
+were not as accurate as those made in 2008, but were still within the reported 
+confidence interval. Silver predicted a Republican pickup of 54 seats in 
+the House of Representatives; the GOP won 63 seats. Of the 37 gubernatorial 
+races, FiveThirtyEight correctly predicted the winner of 36.[71] Although 
+throughout 2011 Silver devoted a lot of attention on his blog to the 2012 
+Republican party primaries, his first effort to handicap the 2012 Presidential 
+general election appeared as the cover story in The New York Times Magazine 
+a year prior to the election: "Is Obama Toast? Handicapping the 2012 Election".[72] 
+Accompanying the online release of this article, Silver also published 
+"Choose Obama's Re-Election Adventure", an interactive toy that allowed 
+readers to predict the outcome of the election based on their assumptions 
+about three variables: President Obama's favorability ratings, the rate 
+of GDP growth, and how conservative the Republican opponent would be.[73] 
+This analysis stimulated a lot of critical discussion.[74] While publishing 
+numerous stories on the Republican primary elections, in mid-February 2012 
+Silver reprised and updated his previous Magazine story with another one, 
+"What Obama Should Do Next".[75] This story painted a more optimistic picture 
+of President Obama's re-election chances. A companion article on his FiveThirtyEight 
+blog, "The Fundamentals Now Favor Obama", explained how the model and the 
+facts on the ground had changed between November and February.[76] Silver 
+published the first iteration of his 2012 general election forecasts on 
+June 7, 2012. According to the model, at that time Barack Obama was projected 
+to win 291 electoral votes—21 more than the 270 required for a majority. 
+Obama then had an estimated 61.8% chance of winning a majority.[77] On 
+the morning of the November 6, 2012, presidential election, the final update 
+of Silver's model at 10:10 A.M. gave President Barack Obama a 90.9% chance 
+of winning a majority of the 538 electoral votes.[78] Both in summary tables 
+and in an electoral map, Silver forecast the winner of each state. At the 
+conclusion of that day, when Mitt Romney had conceded to Barack Obama, 
+Silver's model had correctly predicted the winner of every one of the 50 
+states and the District of Columbia.[79][80] Silver, along with at least 
+three[81] academic-based analysts—Drew Linzer,[82] Simon Jackman,[83] and 
+Josh Putnam[84]—who also aggregated polls from multiple pollsters—thus 
+was not only broadly correct about the election outcome, but also specifically 
+predicted the outcomes for the nine swing states.[85] In contrast, individual 
+pollsters were less successful. For example, Rasmussen Reports "missed 
+on six of its nine swing-state polls".[86][87][88] Silver's team at FiveThirtyEight 
+projected that Donald Trump had a 46% chance of claiming victory in the 
+Iowa primaries while Ted Cruz had a 39% chance of winning.[89] The FiveThirtyEight 
+team predicted that Hillary Clinton had a 71% chance to win the 2016 United 
+States presidential election.[90] while other major forecasters had predicted 
+Clinton to win with at least an 85% to 99% probability.[91][92] Donald 
+Trump won the election. FiveThirtyEight projected a much higher chance 
+of Donald Trump winning the presidency than other pollsters,[91] a projection 
+which was criticized by Ryan Grim of the Huffington Post as "unskewing" 
+too much in favor of Trump.[93] The Signal and The Noise was published 
+in the United States on September 27, 2012. It reached the New York Times 
+Best Sellers List as #12 for non-fiction hardback books after its first 
+week in print. It dropped to #20 in the second week, before rising to #13 
+in the third, and remaining on the non-fiction hardback top 15 list for 
+the following 13 weeks, with a highest weekly ranking of #4.[94] Sales 
+increased after the election on November 6, jumping 800% and becoming the 
+second best seller on Amazon.com.[95] The book describes methods of mathematical 
+model building using probability and statistics. Silver takes a big-picture 
+approach to using statistical tools, combining sources of unique data (e.g., 
+timing a minor league ball player's fastball using a radar gun), with historical 
+data and principles of sound statistical analysis; Silver argues that many 
+of these are violated by many pollsters and pundits who nonetheless have 
+important media roles. Case studies in the book include baseball, elections, 
+climate change, the financial crash, poker, and weather forecasting. These 
+different topics illustrate different statistical principles. As a reviewer 
+in The New York Times notes: "It’s largely about evaluating predictions 
+in a variety of fields, from finance to weather to epidemiology. We learn 
+about a handful of successes: when, for instance, meteorologists predict 
+a hurricane’s landfall 72 hours in advance.... But mostly we learn about 
+failures. It turns out we’re not even close to predicting the next catastrophic 
+earthquake or the spread of the next killer bird flu, despite the enormous 
+amounts of brainpower trained on these questions in the past few decades".[96] 
+Silver's self-unmasking at the end of May 2008 brought him a lot of publicity 
+focused on his combined skill as both baseball statistician-forecaster 
+and political statistician-forecaster, including articles about him in 
+the Wall Street Journal,[97] Newsweek,[98] Science News,[99][100] and his 
+hometown Lansing State Journal.[101] In early June he began to cross-post 
+his daily "Today's Polls" updates on "The Plank" in The New Republic.[102] 
+Also, Rasmussen Reports began to use the FiveThirtyEight.com poll averages 
+for its own tracking of the 2008 state-by-state races.[103] In 2009 through 
+2012, Silver appeared as a political analyst on MSNBC,[104] CNN[105] and 
+Bloomberg Television,[106][107] PBS,[108] NPR,[109] Democracy Now!,[110] 
+The Charlie Rose Show,[111] ABC News,[112] and Current TV.[113] Silver 
+also appeared on the The Colbert Report (October 7, 2008 and November 5, 
+2012),[114] The Daily Show (October 17, 2012 and November 7, 2012),[115] 
+and Real Time with Bill Maher (October 26, 2012).[116] That Silver accurately 
+predicted the outcome of the 2012 presidential race, in the face of numerous 
+public attacks on his forecasts by critics, inspired many articles in the 
+press, ranging from Gizmodo,[117] to online and mainstream newspapers,[118] 
+news and commentary magazines,[119] business media,[120] trade journals,[121] 
+media about media,[122] and Scientific American,[123] as well as a feature 
+interview on The Today Show,[124] a return appearance on The Daily Show,[125] 
+and an appearance on Morning Joe.[126] Silver's first appearance on ABC 
+News as Editor-in-Chief of the new FiveThirtyEight.com was on George Stephanopoulos's 
+This Week on November 3, 2013.[127] Silver has been criticized for inaccurate 
+predictions. In January 2010, journalist and blogger Colby Cosh criticized 
+Silver's performance during the Massachusetts special Senate election, 
+saying he was "still arguing as late as Thursday afternoon that Coakley 
+was the clear favourite; he changed his mind at midnight that evening and 
+acknowledged that Scott Brown had a puncher’s chance."[165] (Brown won 
+the election.) Silver's quantitative focus on polling data, without insight 
+from experience in political organizing or journalism, has been a recurring 
+critique from experienced commentators. Huffington Post columnist Geoffrey 
+Dunn described Silver as someone who "has never organized a precinct in 
+his life, much less walked one, pontificating about the dynamics in the 
+electoral processes as if he actually understood them."[166] Considerable 
+criticism during the 2012 elections came from political conservatives, 
+who argued that Silver's election projections were politically biased against 
+Mitt Romney, the Republican candidate for President.[167] For example, 
+Silver was accused of applying a double standard to his treatment of Rasmussen 
+Reports polls, such as a 2010 analysis asserting a statistical bias in 
+its methodology.[168] Mendy Finkel of Daily Caller wrote that "Silver rigged 
+his entire pollster ratings for the sole purpose of lowering Rasmussen's 
+rank".[169] Josh Jordan wrote in National Review that Silver clearly favored 
+Obama and adjusted the weight he gave polls "based on what [he] think[s] 
+of the pollster and the results and not based on what is actually inside 
+the poll".[170] On MSNBC's Morning Joe, host Joe Scarborough stated that 
+Silver's prediction that day of a 73.6% chance of a win for Obama greatly 
+exceeded the confidence of the Obama campaign itself, which Scarborough 
+equated to that of the Romney campaign, both believing "they have a 50.1 
+percent chance of winning", and calling Silver an "ideologue" and a "joke". 
+Silver responded with the offer of a $1,000 wager (for charity) over the 
+outcome of the election. The New York Times public editor Margaret Sullivan, 
+while defending Silver's analysis, characterized the wager as "a bad idea" 
+as it gave the appearance of a partisan motive for Silver, and "inappropriate" 
+for someone perceived as a Times journalist (although Silver was not a 
+member of the newspaper's staff).[171][172] After a post-election appearance 
+by Silver on Joe Scarborough's Morning Joe, Scarborough published what 
+he called a "(semi) apology," in which he concluded: I won’t apologize 
+to Mr. Silver for predicting an outcome that I had also been predicting 
+for a year. But I do need to tell Nate I’m sorry for leaning in too hard 
+and lumping him with pollsters whose methodology is as rigorous as the 
+Simpsons’ strip mall physician, Dr. Nick. For those sins (and a multitude 
+of others that I’m sure I don’t even know about), I am sorry. Politics 
+is a messy sport. And just as ball players who drink beer and eat fried 
+chicken in dugouts across America can screw up the smartest sabermetrician’s 
+forecast, Nate Silver’s formula is sure to let his fervent admirers down 
+from time to time. But judging from what I saw of him this morning, Nate 
+is a grounded guy who admits as much in his book. I was too tough on him 
+and there’s a 84.398264% chance I will be less dismissive of his good work 
+in the future".[173] Silver's nondisclosure of the details of his analytical 
+model has resulted in some skepticism. Washington Post journalist Ezra 
+Klein wrote: "There are good criticisms to make of Silver's model, not 
+the least of which is that, while Silver is almost tediously detailed about 
+what's going on in the model, he won’t give out the code, and without the 
+code, we can't say with certainty how the model works."[174] Colby Cosh 
+wrote that the model "is proprietary and irreproducible. That last feature 
+makes it unwise to use Silver's model as a straw stand-in for "science", 
+as if the model had been fully specified in a peer-reviewed journal".[175] 
+On August 13, 2014, Silver was criticized for comparing his own experience 
+of being arrested with those of journalists and members of the public during 
+protests and riots in response to the shooting of Michael Brown in Ferguson, 
+Missouri [176][177][178] In a series of eight consecutive postings to Twitter, 
+Silver recounted a story of being arrested but later placating officers 
+with the words "sorry guys, was just stressed out and having a rough day 
+... my bad!", after which he was given back his burrito to eat in his cell 
+and received a ride home from officers.[176][178] Silver later publicly 
+apologized, describing his posts as being "misguided and naive".[177] In 
+a 2012 interview with Charlie Rose he stated, "I'd say I am somewhere in-between 
+being a libertarian and a liberal. So if I were to vote it would be kind 
+of a Gary Johnson versus Mitt Romney decision, I suppose."[179] Silver 
+is a grandnephew of geologists Caswell Silver and Leon Silver.[180] Silver 
+is openly gay.[181] "I've always felt like something of an outsider. I've 
+always had friends, but I've always come from an outside point of view. 
+I think that's important. If you grow up gay, or in a household that's 
+agnostic, when most people are religious, then from the get-go, you are 
+saying that there are things that the majority of society believes that 
+I don't believe," he told an interviewer in 2012.[182] "When asked what 
+made you feel more of a misfit, being gay or being a geek, he replied, 
+'Probably the numbers stuff since I had that from when I was six.'"[182] 
+When asked in 2008 if he had noticed people looking at him as a "gay icon," 
+he responded, "I've started to notice it a little bit, although so far 
+it seems like I'm more a subject of geek affection than gay affection".[183] 
+Silver discussed his sexuality in the context of growing up in East Lansing, 
+in an article about the Supreme Court ruling Obergefell v. Hodges in favor 
+of recognizing same-sex marriage on the date of its announcement. He analysed 
+the speed of the change of public sentiment, pointing out that the change 
+over only several decades has been palpable to the current generations.[184] 
+Silver has long been interested in fantasy baseball, especially Scoresheet 
+Baseball. While in college he served as an expert on Scoresheet Baseball 
+for BaseballHQ.[185] When he took up political writing, Silver abandoned 
+his blog, The Burrito Bracket,[186] in which he ran a one-and-done competition 
+among the taquerias in his Wicker Park neighborhood in Chicago.[187] Silver 

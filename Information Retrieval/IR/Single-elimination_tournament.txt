@@ -1,0 +1,132 @@
+A single-elimination tournament—also called an Olympic system tournament, 
+a knockout (or, knock-out), single penetration, or sudden death tournament—is 
+a type of elimination tournament where the loser of each bracket is immediately 
+eliminated from winning the championship or first prize in the event. This 
+does not always mean that the defeated competitor will not participate 
+further in the tournament; in some such tournaments, consolation or "classification" 
+contests are subsequently held among those already defeated to determine 
+the awarding of lesser places, for example, a Third place playoff. Where 
+more than two competitors can play in each match, such as in a shootout 
+poker tournament, players are removed when they can no longer play until 
+one player remains from the group. This player moves on to the next round. 
+Some competitions are held with a pure single-elimination tournament system. 
+Others have many phases, with the last being a single-elimination final 
+stage called playoffs. In English, the round in which only eight competitors 
+remain is generally called the quarterfinal round; this is followed by 
+the semifinal round, in which only four are left, the two winners of which 
+then meet in the final or championship round. The round before the quarterfinals 
+is sometimes called the "round of sixteen", "Last Sixteen", or (in South 
+Asia) "pre-quarterfinals"; in some other languages "eighth-finals" is used. 
+Earlier rounds are typically numbered counting forwards from the first 
+round, or by the number of remaining competitors. If some competitors get 
+a bye, the round at which they enter may be named the "first" round, with 
+the earlier matches called a "preliminary" round, or "play-in games". Examples 
+of the names given to rounds in various generic conventions and specific 
+competitions: 4th round (Wimbledon[3]) Notes: The final three rounds of 
+the 2014 Australian Open – Women's Singles knock-out tournament: When matches 
+are held to determine places or prizes lower than first and second (the 
+loser of the final-round match gaining the latter position), these typically 
+include a match between the losers of the semifinal matches called Third 
+place playoff, the winner therein placing third and the loser fourth. Many 
+Olympic single-elimination tournaments feature the bronze medal match if 
+they do not award bronze medals to both losing semifinalists. The FIFA 
+World Cup has long featured the third place match, though the UEFA Euro 
+has not held one since the 1980 edition. Sometimes, contests are also held 
+among the losers of the quarterfinal matches to determine fifth to eighth 
+places – this is most commonly encountered in the Olympic Games, with the 
+exception of boxing, where both fighters are deemed to be third place. 
+In one scenario, two "consolation semifinal" matches may be conducted, 
+with the winners of these then facing off to determine fifth and sixth 
+places and the losers playing for seventh and eighth; those are used often 
+in qualifying tournaments where only the top five teams advance to the 
+next round; or some method of ranking the four quarterfinal losers might 
+be employed, in which case only one round of additional matches would be 
+held among them, the two highest-ranked therein then playing for fifth 
+and sixth places and the two lowest for seventh and eighth. The number 
+of distinct ways of arranging a single-elimination tournament (as an abstract 
+structure, prior to seeding the players into the tournament) is given by 
+the Wedderburn–Etherington numbers.[5] Thus, for instance, there are three 
+different arrangements for five players: However, the number of arrangements 
+grows quickly for larger numbers of players and not all of them are commonly 
+used. Opponents may be allocated randomly (such as in the FA Cup); however, 
+since the "luck of the draw" may result in the highest-rated competitors 
+being scheduled to face each other early in the competition, seeding is 
+often used to prevent this. Brackets are set up so that the top two seeds 
+could not possibly meet until the final round (should both advance that 
+far), none of the top four can meet prior to the semifinals, and so on. 
+If no seeding is used, the tournament is called a random knockout tournament. 
+One version of seeding is where brackets are set up so that the quarterfinal 
+pairings (barring any upsets) would be the 1 seed vs. the 8 seed, 2 vs. 
+7, 3 vs. 6 and 4 vs. 5; however, this is not the procedure that is followed 
+in most tennis tournaments, where the 1 and 2 seeds are placed in separate 
+brackets, but then the 3 and 4 seeds are assigned to their brackets randomly, 
+and so too are seeds 5 through 8, and so on. This may result in some brackets 
+consisting of stronger players than other brackets, and since only the 
+top 32 players are seeded at all in Tennis Grand Slam tournaments, it is 
+conceivable that the 33rd-best player in a 128-player field could end up 
+playing the top seed in the first round. A good example of this occurring 
+was when World No. 33 Florian Mayer was drawn against (and eventually defeated 
+by) then-World No. 1 Novak Djokovic in the first round of the 2013 Wimbledon 
+Championships,[6] in what was also a rematch of a quarterfinal from the 
+previous year.[7] While this may seem unfair to a casual observer, it should 
+be pointed out that rankings of tennis players are generated by computers, 
+and players tend to change ranking positions very gradually, so that a 
+more equitable method of determining the pairings might result in many 
+of the same head-to-head matchups being repeated over and over again in 
+successive tournaments. Sometimes the remaining competitors in a single-elimination 
+tournament will be "re-seeded" so that the highest surviving seed is made 
+to play the lowest surviving seed in the next round, the second-highest 
+plays the second-lowest, etc. This may be done after each round, or only 
+at selected intervals. In American team sports, for example, the MLS, NFL 
+and WNBA employ this tactic, but the NBA does not (and neither does the 
+NCAA college basketball tournament). MLB does not have enough teams (10) 
+in its playoff tournament where re-seeding would make a large difference 
+in the matchups; (MLS and NFL are at the minimum, which is six from each 
+conference [or league in MLB] for a total of 12). The NBA's format calls 
+for the winner of the first-round series between the first and eighth seeds 
+(within each of the two conferences the league has) to face the winner 
+of the first-round series between the fourth and fifth seeds in the next 
+round, even if one or more of the top three seeds had been upset in their 
+first-round series; critics have claimed that this gives a team fighting 
+for the fifth and sixth seeding positions near the end of the regular season 
+an incentive to tank (deliberately lose) games, so as to finish sixth and 
+thus avoid a possible matchup with the top seed until one round later. 
+In some situations, a seeding restriction may be implemented; from 1975 
+until 1989 in the NFL, and from 1994 until 2011 in MLB there was a rule 
+where at the conference or league semifinal, should the top seed and last 
+seed (wild card) be from the same division, they could not play each other; 
+in that case, the top seed plays the worst division champion; the second-best 
+division champion plays the wild card team. This is due to the scheduling 
+employed for the regular season, in which a team faces any given divisional 
+opponent more often than any given non-divisional opponent – the tournament 
+favors matchups that took place fewer times in the regular season (or did 
+not take place, in some cases).[citation needed] In international fencing 
+competitions, it is common to have a group stage. Participants are divided 
+in groups of 6–7 fencers who play a round-robin tournament, and a ranking 
+is calculated from the consolidated group results. Single elimination is 
+seeded from this ranking. The single-elimination format enables a relatively 
+large number of competitors to participate. There are no "dead" matches 
+(perhaps excluding "classification" matches), and no matches where one 
+competitor has more to play for than the other. The format is less suited 
+to games where draws are frequent. In chess, each fixture in a single-elimination 
+tournament must be played over multiple matches, because draws are common, 
+and because white has an advantage over black. In association football, 
+games ending in a draw may be settled in extra time and eventually by a 
+penalty shootout or by replaying the fixture. Another perceived disadvantage 
+is that most competitors are eliminated after relatively few games. Variations 
+such as the double-elimination tournament allow competitors a single loss 
+while remaining eligible for overall victory. In a random knockout tournament 
+(single-elimination without any seeding), awarding the second place to 
+the loser of the final is unjustified: any of the competitors knocked out 
+by the tournament winner might have been the second strongest one, but 
+they never got the chance to play against the losing finalist. In general, 
+it is only fair to use a single-elimination tournament to determine first 
+place. To fairly determine lower places requires some form of round-robin 
+in which each player/team gets the opportunity to face every other player/team. 
+Also, if the competitors' performance is variable, that is, it depends 
+on a small, varying factor in addition to the actual strength of the competitors, 
+then not only will it become less likely that the strongest competitor 
+actually wins the tournament, in addition the seeding done by the tournament 
+organizers will play a major part in deciding the winner.[8] As a random 
+factor is always present in a real-world competition, this might easily 
+cause accusations of unfairness. Variations of the single-elimination tournament 

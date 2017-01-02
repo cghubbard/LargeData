@@ -1,0 +1,47 @@
+Base runs (BsR) is a baseball statistic invented by sabermetrician David 
+Smyth to estimate the number of runs a team "should have" scored given 
+their component offensive statistics, as well as the number of runs a hitter 
+or pitcher creates or allows. It measures essentially the same thing as 
+Bill James' runs created, but as sabermetrician Tom M. Tango points out, 
+base runs models the reality of the run-scoring process "significantly 
+better than any other run estimator". Base runs has multiple variations, 
+but all take the form[1] Smyth detailed the following forms of the statistic: 
+The simplest, uses only the most common batting statistics[2] A = H + BB 
+- HR B = (1.4 * TB - .6 * H - 3 * HR + .1 * BB) * 1.02 C = AB - H D = HR 
+An offshoot includes significantly more batting statistics[3] A = H + BB 
++ HBP - HR - .5 * IBB B = (1.4 * TB - .6 * H - 3 * HR + .1 * (BB + HBP 
+- IBB) + .9 * (SB - CS - GIDP)) * 1.1 C = AB - H + CS + GIDP D = HR A third 
+formula uses pitching statistics[4] A = H + BB - HR B = (1.4 * (1.12 * 
+H + 4 * HR) - .6 * H - 3 * HR + .1 * BB) * 1.1 C = 3 * IP D = HR Other 
+sabermetricians have developed their own formulas using Smyth's general 
+form, mainly by tinkering with the B factor. Because the base runs statistic 
+attempts to model the team run scoring process, a formula cannot be applied 
+directly to an individual player's statistics. Doing this would result 
+in a run estimate for an entire team that puts out the individual's statistics. 
+A workaround for this issue is to find the team's base runs with the player 
+in the lineup and the team's base runs with a replacement level player 
+in the lineup.[5] The difference between these values approximates the 
+individual's base runs statistic. Base runs was primarily designed to provide 
+an accurate model of the run scoring process at the Major League Baseball 
+level, and it accomplishes that goal: in recent seasons, base runs has 
+the lowest RMSE of any of the major run estimation methods. In addition, 
+its accuracy holds up in even the most extreme of circumstances and leagues. 
+For instance, when a solo home run is hit, base runs will correctly predict 
+one run having been scored by the batting team. By contrast, when runs 
+created assesses a solo HR, it predicts four runs to be scored; likewise, 
+most linear weights-based formulas will predict a number close to 1.4 runs 
+having been scored on a solo HR. This is because each of these models were 
+developed to fit the sample of a 162-game MLB season; they work well when 
+applied to that sample, of course, but are inaccurate when taken out of 
+the environment for which they were designed. Base runs, on the other hand, 
+can be applied to any sample at any level of baseball (provided it is possible 
+to calculate the B multiplier), because it models the way the game of baseball 
+operates, and not just for a 162-game season at the highest professional 
+level. This means that base runs can be applied to high school or even 
+little league statistics. From the TangoTiger wiki "Base runs adheres to 
+more of the fundamental constraints on run scoring than most other run 
+estimators, but it is by no means perfectly compliant. Some examples of 
+shortcomings: One avenue for possible improvement in the model is the scoring 
+rate estimator B/(B + C). There is no deep theory behind this construct--it 
+was chosen because it worked empirically. It is possible that a better 
+score rate estimator could be developed, although it would most likely 

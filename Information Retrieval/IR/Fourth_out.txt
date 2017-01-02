@@ -1,0 +1,102 @@
+In baseball, the fourth out is a legal out made by the defense after three 
+outs in a half-inning already have been made. According to the rules, the 
+third out does not cause the ball to become dead; if the fielders make 
+a subsequent out that prevents a run from scoring, this out will supersede 
+the apparent third out, thus becoming the recorded third out.[1] For statistical 
+purposes, the apparent third out is "undone" and the fourth out's result 
+is recorded instead. With the advent of video replay appeals, a new rationale 
+for making extra out(s) has emerged - insurance against a prior out being 
+undone on appeal. These fourth out situations are not the same as four 
+strikeouts in an inning. The motivation for making a fourth out is to nullify 
+a scored run, by either putting out the runner who had scored (on appeal, 
+if the player failed to tag up after a catch) or putting out an additional 
+runner who is forced to advance. No run may score on an inning-ending play 
+in which the third out is a force out or on the batter before he reaches 
+first base. Put in other words, force outs count before runs are scored. 
+It is common that a runner reaches home plate a moment before the third 
+out is made by force out. Such a case is routine; the runner doesn't score 
+but is counted as left on base. It is also common that the third out might 
+come on a non-force tag out after another runner reaches home plate. By 
+extension of these two rules, the "fourth out" covers the case where the 
+third out is not a force out, but a subsequent out is. Since the force 
+out counts before the run scores, it must also count before the third out. 
+Apparently there are no known MLB examples of a fourth out changing places 
+with a prior out and thereby cancelling a run. The situations where a fourth 
+out may be recognized are exceedingly rare, but some hypothetical examples, 
+and two real examples where the fourth out rule did come into play, are 
+noted below: Suppose three runners are on base with two outs, and the batter 
+hits the ball within the field of play for an apparent hit. Two important 
+facts are required: All three runners cross home plate safely, but the 
+runner who was at first misses second base while rounding the bases. After 
+the runner from first has come around to score, the batter is then thrown 
+out trying to stretch a bases-clearing double into a triple. The apparent 
+play is that 3 runners have scored on an apparent double, with the batter 
+out advancing. RULING: The fielders have a viable appeal play at second 
+base. If the defensive team is alert enough and understand the rules regarding 
+fourth outs, the defensive team may make a live ball appeal that the runner 
+who was initially at first base missed second base. If such an appeal is 
+made, the runner from first base is out on a force out, because he failed 
+to touch his force base (second base). As a result. This rule merely places 
+the occurrence of the force out before any tag play when it ends the inning. 
+Suppose there are runners on second and third base with two outs, and the 
+batter hits a ground ball to third base. The runner from third scores, 
+but the runner from second base is tagged out for the third out. Since 
+the runner from third reached home plate before the third out was recorded, 
+and the third out was not a force out or on the batter-runner before reaching 
+first base, we seem to have three outs and a run scored. However, suppose 
+that the batter-runner fell down on his way to first base and was injured, 
+unable to walk (or that, having seen the runner tagged out, turned around 
+and headed for the dugout before reaching first base). Then suppose that 
+the fielders throw to first or tag the batter out. Since no run can score 
+if the last out is made on the batter before he reaches first base, this 
+fourth out prevents a run from scoring. Thus the runner from third is marked 
+as left on base and his apparent run does not count; the runner from second 
+is also left on base and his out is nullified; the batter-runner is out, 
+which now becomes the actual third out.[citation needed] There are runners 
+at first and third with two outs. The runners are attempting to steal on 
+the pitch. The batter grounds to the shortstop. The runner from third base 
+reaches home; then, the shortstop tags the runner who has rounded second 
+(third out). The shortstop then throws to first base, which beats the batter-runner 
+for the fourth out. The fourth out is on the batter before he reaches first 
+base, so it replaces the apparent third out and nullifies the run.[citation 
+needed] On April 12, 2009, in the top of the second inning in a game between 
+the Los Angeles Dodgers and the Arizona Diamondbacks, the Dodgers scored 
+a run because the Diamondbacks failed to record a fourth out. With one 
+out and Juan Pierre on second base and Andre Ethier on third base, Dodgers 
+pitcher Randy Wolf hit a line drive that was caught by Diamondbacks pitcher 
+Dan Haren. Both Pierre and Ethier broke on contact without tagging up from 
+their respective bases, and Haren, noticing this, threw the ball to Diamondbacks 
+second baseman Felipe Lopez, who tagged out Pierre, but not until after 
+Ethier crossed home plate. Upon tagging out Pierre, the Diamondbacks left 
+the field, thinking that the inning was over and the run did not count. 
+However, because Lopez tagged out Pierre rather than stepping on the second 
+base bag to double off Pierre, the play was treated as a rundown and time 
+play, rather than a force play, which would have ended the inning and canceled 
+Ethier's crossing of home plate. After all of the Diamondbacks players 
+had left fair territory, Dodgers bench coach Bob Schaefer informed manager 
+Joe Torre of what was then Rule 7.10 (now Rule 5.09(c))[2] regarding fourth 
+outs, and Torre went to home plate umpire Larry Vanover to alert him of 
+the rule and situation. Vanover then discussed the situation with crew 
+chief Charlie Reliford, and Dodgers were awarded the run before the bottom 
+of the second inning began.[3] Since all of the Diamondbacks players had 
+left fair territory, nobody could appeal that Ethier had not tagged up. 
+If the Diamondbacks had launched an appeal play at third base before leaving 
+the field, Ethier's failure to tag from third base would have become the 
+actual third out of the inning and the run would not have scored, and this 
+out would have taken precedence because it would have erased the run.[4] 
+On April 18, 2014, in the bottom of the second inning of a game between 
+the New York Mets and the Atlanta Braves, the Braves squelched an incipient 
+Mets offensive threat by recording an "insurance" fourth out that anticipated 
+a potential video replay appeal by Mets manager Terry Collins. With two 
+out and Lucas Duda on at first base, Mets catcher Travis d'Arnaud grounded 
+softly to the right side and, attempting to beat the throw by Braves second 
+baseman Dan Uggla to first baseman Freddie Freeman, was ruled out on an 
+extremely close play at first place. With three outs recorded, however, 
+Freeman spotted Duda, who was originally on first, attempting to reach 
+third and threw the ball across the diamond to third baseman Chris Johnson, 
+who successfully tagged Duda out before he could reach third base. Moments 
+later, Collins, who had emerged from the dugout to appeal the out at first 
+(replays shown to the television audience revealed that d'Arnaud was actually 
+safe at first and that Collins could have won this appeal) was forced to 
+retreat back to the dugout without challenging when he realized that by 
+Freeman and Johnson's recording of a fourth out on Duda, the Braves had 

@@ -1,0 +1,5 @@
+Infielders Coaches Note: Pos = Position; G = Games played; AB = At bats; 
+H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in 
+Note: Pitchers' hitting stats are not included above. Note: G = Games played; 
+AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs 
+batted in Note: Pitchers' hitting stats are not included above. 2002 Major 

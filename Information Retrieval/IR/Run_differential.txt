@@ -1,0 +1,15 @@
+In baseball, run differential is the subtraction of runs scored for a team 
+and runs allowed by a team. The run differential is positive if a team 
+scores more runs than allowed, while it is negative if a team allows more 
+runs than scored for. Run differential can be used to predict the expected 
+win total for a team. The differences in records between close games and 
+blowout games can deviate the actual win–loss record from expected record 
+based on run differential.[1] The best run differential in a MLB season 
+is +411, set by the New York Yankees in 1939 in which they scored 967 runs 
+and allowed 556 runs.[2] The worst run differential is the Cleveland Spiders 
+in 1899 at −723 (529 runs scored, 1252 runs allowed).[3] The highest run 
+differential in a single game in major league history is 29, when the Chicago 
+Colts (now the Cubs) beat the Louisville Colonels 36–7 on June 29, 1897, 
+and the record in modern history is 27, when the Texas Rangers beat the 
+Baltimore Orioles 30–3 on August 22, 2007. The biggest run differential 
+in a shutout is 22, when the Cleveland Indians defeated the New York Yankees 

@@ -1,0 +1,25 @@
+In the sport of baseball, a baserunner is said to be in scoring position 
+when he is on second or third base. The distinction between being on first 
+base and second or third base is that a runner on first can usually only 
+score if the batter hits an extra-base hit, while a runner on second or 
+third can score on a single. This is also known as "ducks on the pond". 
+Runners left in scoring position refers to the number of runners on second 
+or third base at the end of an inning and is an inverse measure of a team's 
+offensive efficiency. Many of baseball's "small ball" or "one run" tactics 
+center on attempts to move a runner on first base into scoring position. 
+Such tactics were dominant in the 1890s and the dead-ball era, when extra-base 
+hits were relatively rare. Batting average with runners in scoring position 
+(abbreviated BA/RISP or BA/RSP) is a baseball statistic derived by dividing 
+a players hits with runners in scoring positions by his at bats with runners 
+in scoring position. BA/RISP is often used as an indicator of clutch ability, 
+as a hit with a runner on second base or third will likely score the runner 
+and is thus considered a clutch situation. Recently, however, the statistic 
+has been replaced with Win Probability Added, considered to be a better 
+measure of clutch ability. A variation to this statistic is called Batting 
+Average with two outs and Runners in Scoring Position, which is also calculated 
+by dividing a players' hits with runners on second or third by his at bats 
+in this situation. A hit is more likely to score at least one or two runs-depending 
+on the speed of the runner, the strength of the outfielder's arm, the number 
+of runners in scoring position, etc.-because the runners will be going 
+on contact—that is, they run once the batter hits the ball. But if the 
+batter records an out, then the inning ends with those runners left on 

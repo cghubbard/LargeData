@@ -1,0 +1,128 @@
+In baseball, a save (abbreviated SV or S) is credited to a pitcher who 
+finishes a game for the winning team under certain prescribed circumstances, 
+described below. The number of saves, or percentage of save opportunities 
+successfully converted, is an oft-cited statistic of relief pitchers, particularly 
+those in the closer role. It became an official Major League Baseball (MLB) 
+statistic in 1969.[1] Mariano Rivera is MLB's all-time leader in regular 
+season saves with 652. The term save was being used as far back as 1952.[2] 
+Executives Jim Toomey of the St. Louis Cardinals, Allan Roth of the Los 
+Angeles Dodgers and Irv Kaze of the Pittsburgh Pirates awarded saves to 
+pitchers that finished winning games but were not credited with the win, 
+regardless of the margin of victory. The statistic went largely unnoticed. 
+A formula with more criteria for saves was invented in 1960 by baseball 
+writer Jerome Holtzman.[3] He felt that the existing statistics at the 
+time, earned run average (ERA) and win–loss record (W-L), did not sufficiently 
+measure a reliever's effectiveness. ERA does not account for inherited 
+runners a reliever allows to score, and W-L record does not account for 
+relievers protecting leads. Elroy Face of the Pittsburgh Pirates was 18–1 
+in 1959; however, Holtzman wrote that in 10 of the 18 wins, Face allowed 
+the tying or lead run but got the win when the Pirates offense regained 
+the lead.[1][note 1] Holtzman felt that Face was more effective the previous 
+year when he was 5–2. When Holtzman presented the idea to J. G. Taylor 
+Spink, publisher of The Sporting News, "[Spink] gave [Holtzman] a $100 
+bonus. Maybe it was $200." Holtzman recorded the unofficial save statistic 
+in The Sporting News weekly for nine years before it became official in 
+1969. In conjunction with publishing the statistic, The Sporting News in 
+1960 also introduced the Fireman of the Year Award, which was awarded based 
+on a combination of saves and wins.[1][6] The save became an official MLB 
+statistic in 1969.[1] It was MLB's first new major statistic since the 
+run batted in was added in 1920.[1] Bill Singer is credited with recording 
+the first official save when he pitched three shutout innings in relief 
+of Don Drysdale in the Los Angeles Dodgers' 3–2 Opening Day victory over 
+the Cincinnati Reds at Crosley Field on April 7 of that year.[7][8] In 
+baseball statistics, the term save is used to indicate the successful maintenance 
+of a lead by a relief pitcher, usually the closer, until the end of the 
+game. A save is a statistic credited to a relief pitcher, as set forth 
+in Rule 10.19 of the Official Rules of Major League Baseball. That rule 
+states the official scorer shall credit a pitcher with a save when such 
+pitcher meets all four of the following conditions:[9] If a relief pitcher 
+satisfies all of the criteria for a save, except he does not finish the 
+game, he will often be credited with a hold (which is not an officially 
+recognized statistic by Major League Baseball). A blown save (abbreviated 
+BSV, BS or B) is charged to a pitcher who enters a game in a situation 
+which permits him to earn a save (a save situation or save opportunity), 
+but who instead allows the tying run to score. Note that if the tying run 
+was scored by a runner who was already on base when the new pitcher entered 
+the game, that new pitcher will be charged with a blown save even though 
+the run will not be charged to the new pitcher, but rather to the pitcher 
+who allowed that runner to reach base. If the reliever allows the tying 
+or leading run, but the reliever's team wins the game, the reliever wins 
+the game. Due to this definition, a pitcher cannot blow multiple saves 
+in a game unless he has multiple save opportunities, a situation only possible 
+when a pitcher temporarily switches defensive positions. The blown save 
+was introduced by the Rolaids Relief Man Award in 1988.[10] A pitcher who 
+enters the game in a save situation and does not finish the game—but his 
+team still leading—is not charged with a save opportunity. Save percentage 
+is the ratio of saves to save opportunities.[11] In 1974, tougher criteria 
+were adopted for saves where the tying run had to be on base or at the 
+plate when the reliever entered to qualify for a save (unless he pitched 
+three innings).[12] This addressed saves such as Ron Taylor's in a 20–6 
+New York Mets win over the Atlanta Braves.[13][14] The rule was relaxed 
+in 1975 to credit a save when a reliever pitches at least one inning with 
+no more than a three-run lead, or comes in with runners on base but the 
+tying run on deck.[15] In 2000, Rolaids started recording a tough save 
+when a pitcher enters a save situation with the potential tying run already 
+on base, but still earns the save.[12] As Francisco Rodríguez pursued the 
+single-season saves record in 2008, Baseball Prospectus member Joe Sheehan, 
+Sports Illustrated writer Tom Verducci, and The New York Sun writer Tim 
+Marchman wrote that Rodríguez's save total was enhanced by the number of 
+opportunities his team presented, allowing him to amass one particular 
+statistic. They thought that Rodríguez on his record-breaking march was 
+less effective than in prior years.[16][17][18] Sheehan offered that saves 
+did not account for a pitcher's proficiency at preventing runs nor did 
+it reflect leads that were not preserved.[16] Bradford Doolittle of The 
+Kansas City Star wrote, "[The closer] is the only example in sports of 
+a statistic creating a job." He decried the best relievers pitching fewer 
+innings starting in the 1980s with their workload being reduced from two- 
+to one-inning outings while less efficient pitchers were pitching those 
+innings instead.[19] ESPN.com columnist Jim Caple has argued that the save 
+statistic has turned the closer position into "the most overrated position 
+in sports".[20] Caple and others contend that using one's best reliever 
+in situations such as a three-run lead in the ninth—when a team will almost 
+certainly win even with a lesser pitcher—is foolish, and that using a closer 
+in the traditional fireman role exemplified by pitchers such as Goose Gossage 
+is far wiser. (A "fireman" situation is men on base in a tied or close 
+game, hence a reliever ending such a threat is "putting out the fire.")[20][21] 
+Firemen frequently pitched two- or three-inning outings to earn saves. 
+The modern closer, reduced to a one-inning role, is available to pitch 
+more save opportunities. In the past, a reliever pitching three innings 
+one game would be unavailable to pitch the next game.[22] Gossage had more 
+saves of at least two innings than saves where he pitched one inning or 
+less.[23] "The times I did a one-inning save, I felt guilty about it. It's 
+like it was too easy", said Gossage.[24] ESPN.com wrote that saves have 
+not been determined to be "a special, repeatable skill—rather than simply 
+a function of opportunities".[25] It also noted that blown saves are "non-qualitative", 
+pointing out that the two career leaders in blown saves—Gossage (112) and 
+Rollie Fingers (109)—were both inducted into the Baseball Hall of Fame.[25] 
+Fran Zimniuch in Fireman: The Evolution of the Closer in Baseball wrote, 
+"But you have to be a great relief pitcher to blow that many saves. Clearly, 
+[Gossage] saved many, many more than he did not save."[26] More than half 
+of Gossage's and Finger's blown saves came in tough save situations, where 
+the tying run was on base when the pitcher entered. In nearly half of their 
+blown tough saves, they entered the game in the sixth or seventh inning. 
+Multiple-inning outings provide more chances for a reliever to blow a save. 
+The pitchers need to get out of the initial situation and pitch additional 
+innings with more chances to lose the lead. A study by the Baseball Hall 
+of Fame[note 2] found modern closers were put into fewer tough save situations 
+compared to past relievers.[note 3] The modern closer also earned significantly 
+more "easy saves", defined as saves starting the ninth inning with more 
+than a one-run lead.[note 4][12] The study offered "praise to the combatants 
+who faced more danger for more innings."[12] On September 3, 2002, the 
+Texas Rangers won 7-1 over the Baltimore Orioles as Joaquín Benoit pitched 
+a seven-inning save, the longest save since it became an official statistic 
+in 1969.[27][note 5] Benoit relieved Todd Van Poppel (who entered the game 
+in the first inning after starter Aaron Myette was ejected for throwing 
+at Melvin Mora) at the start of the third inning, and finished the game 
+while allowing just one hit. The official scorer credited the win to Van 
+Poppel and not Benoit, a decision that was also supported by Texas manager 
+Jerry Narron.[30] On August 22, 2007, Wes Littleton earned a save with 
+the largest winning margin ever, pitching the last three innings of a 30–3 
+Texas Rangers victory win over the Baltimore Orioles. Littleton entered 
+the game with a 14–3 lead, and the final 27-run differential broke the 
+previous record for a save by eight runs. The New York Times noted that 
+"there are the preposterous saves, of which Littleton's now stands out 
+as No. 1."[31] On October 29, 2014, Madison Bumgarner of San Francisco 
+Giants recorded the longest save in World Series history, pitching five 
+scoreless innings of relief in a Game 7 3-2 victory over Kansas City Royals.[32] 
+The statistic was formally introduced in 1969,[1] although research has 
+identified saves earned prior to that point.[33] Listed are the Major League 

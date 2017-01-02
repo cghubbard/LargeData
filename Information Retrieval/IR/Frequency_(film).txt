@@ -1,0 +1,111 @@
+Frequency is a 2000 American science fiction thriller drama film. It was 
+co-produced and directed by Gregory Hoblit and written and co-produced 
+by Toby Emmerich. The film stars Dennis Quaid and Jim Caviezel as father 
+and son, Frank and John Sullivan respectively. It was filmed in Toronto 
+and New York City. The film gained mostly favorable reviews following its 
+release via DVD format on October 31, 2000.[2] In October 1969, firefighter 
+Frank Sullivan (Quaid) dies in a warehouse fire, leaving behind his wife 
+Julia (Elizabeth Mitchell) and six-year-old son John. Thirty years later, 
+in 1999, John (Caviezel), now an NYPD detective, is dumped by his girlfriend 
+Samantha for refusing to move out of his father's house. John's childhood 
+friend Gordo (Noah Emmerich) finds a Heathkit single-sideband ham radio 
+that once belonged to Frank, but fails to get it working. The night before 
+the anniversary of his father's death, John is surprised to find the radio 
+broadcasting during an occurrence of the aurora borealis and has a brief 
+conversation with another man concerning the 1969 World Series, which John 
+is able to recount in specific detail. Eventually, he realizes that the 
+other man is Frank and tries to warn him of his impending death. The next 
+day, while attempting to rescue a young girl, Frank heeds his son's warning 
+and manages to escape the warehouse. That evening, the two reconnect and 
+learn a great deal about each other's lives. Subsequently, John begins 
+to notice major changes in the present: Julia no longer lives at her current 
+address, Samantha doesn't recognize him, and he learns that Frank died 
+in 1989 from lung cancer. His boss, Sgt. Satch DeLeon (Andre Braugher), 
+assigns him to investigate the "Nightingale", a serial killer who murdered 
+three nurses in the 1960s. However, John discovers that the Nightingale 
+is now connected to ten murders, including that of his mother two weeks 
+after Frank's supposed death. Overwhelmed with guilt for the new murders, 
+John persuades his father to help him prevent these crimes from occurring. 
+Frank manages to save the first victim, but when he tries to rescue the 
+second, the Nightingale subdues him and steals his driver's license, which 
+he plants to frame Frank for the murder. When Frank shares his experience 
+with his son, John instructs his father to wrap his wallet in plastic and 
+hide it somewhere in the house. Using the preserved fingerprints from the 
+wallet, John identifies the Nightingale as Jack Shepard (Shawn Doyle), 
+a former detective who, in the original timeline, died from a medical error 
+the same night Frank died. Since Julia didn't leave the hospital early 
+after learning of Frank's death, she was able to save Shepard's life. Meanwhile, 
+Frank is approached by then-Detective Satch DeLeon, who tries to arrest 
+him on suspicion of murder. In the resulting struggle, the radio is knocked 
+over and sustains damage, shutting it off. While awaiting questioning, 
+Frank activates the precinct's fire sprinkler system, escapes, and breaks 
+into Shepard's apartment, where he finds jewelry taken from the victims. 
+Shepard catches Frank in the act and pursues him, ending with a fight underwater 
+where Shepard seemingly drowns. Frank fixes the radio, but while talking 
+both he and John are attacked by the 1969 and 1999 versions of Shepard. 
+Using a shotgun, Frank manages to blow off Shepard's right hand in 1969, 
+causing Shepherd's hand to disappear in 1999 just as he's about to kill 
+John. The timeline rapidly fixes itself in 1999 and an elderly Frank kills 
+Shepard and embraces his son. The film concludes with a baseball game including 
+John, Samantha (now his wife), John's young son, Frank, Julia, Satch and 
+Gordo, who's now wealthy on account of having invested in Yahoo! on John's 
+advice. The film was greenlighted for production on January 21, 1999, although 
+the script had been around much longer.[3] Sylvester Stallone was rumored 
+to be taking the role of Frank Sullivan in 1997, but fell out of the deal 
+after a dispute over his fee.[4][5] Renny Harlin was rumored to be director 
+on the film.[4][5] Gregory Hoblit first read the script in November 1997, 
+eighteen months after his father's death. In a 2000 interview shortly after 
+the American release of Frequency, he described the film as "high risk" 
+since the project had already been passed among several directors, including 
+one of note who had twice the budget Hoblit was given.[6] In the same interview, 
+he described the difficulty he had finding the two leads. Hoblit realized 
+he needed an "experienced actor" to portray Frank Sullivan, and thus settled 
+on Dennis Quaid.[6] Frequency received generally positive reviews. Based 
+on 123 reviews collected by the film review aggregator Rotten Tomatoes, 
+the film has a 70% Approval Rating (Fresh) with the consensus as "a tight 
+blend of surprises and suspense [that] keeps audiences spellbound".[7] 
+Roger Ebert called the film's plot "contrived", yet gave the film a favorable 
+review. He also pointed out similarities with the films The Sixth Sense 
+and Ghost.[8] David Armstrong, of the San Francisco Chronicle, praised 
+the moments in the film when John and Frank Sullivan talked to each other 
+over the ham radio but criticized the "unintentionally funny climax". He 
+also praised actor Shawn Doyle's performance as the Nightingale killer, 
+calling him "convincingly creepy".[9] Todd McCarthy of Variety magazine 
+said despite Dennis Quaid and James Caviezel's physical separation in the 
+film, they formed a "palpable bond that [gave] the picture its tensile 
+strength".[10] McCarthy noted that screenwriter Toby Emmerich's "bold leap 
+into reconfiguring the past" created "agreeable surprises" and an "infinite 
+number of possibilities" to the plot's direction. He added, however, that 
+the serial killer subplot was "desperately familiar".[10] James Berardinelli 
+gave the film two stars out of four, criticizing the "coincidence-laden 
+climax" but wrote that "poor writing [did] not demand subpar acting", praising 
+Frequency's "few nice performances".[11] The American Radio Relay League 
+assisted in some of the technical aspects in the film, but some ham radio 
+operators who saw the movie criticized some of the details; for one thing, 
+operating a station without a license is a federal offense (something that 
+John, a police officer, should have known). Another problem was the use 
+of a Heathkit SB-301 receiver used as a transceiver (transmitter/receiver 
+combination in one box); Heathkit did make them in the same style of the 
+SB-301 receiver, the SB-100 and later SB-101 and SB-102 models.[12] Also, 
+one character says "almost no one uses ham radio anymore"; in fact, the 
+number of licensed ham radio operators has been climbing in the 21st century 
+to new all-time highs, with nearly 750,000 licensed amateurs in the US 
+alone. Another technical aspect that brought some complaints from hams 
+was the way the conversation between son and father went from a PTT-style 
+to full duplex/hands-free and hi-fidelity; this is impossible with any 
+single-sideband modulation-type transmitter/receiver or transceiver. Overall, 
+real ham operators, which includes numerous broadcast engineers and other 
+professionals, liked the movie and the way amateur radio was portrayed 
+in the movie. Frequency made $68,106,245 worldwide and was released in 
+2,631 theaters in the United States.[13] Frequency was nominated for the 
+Hugo Award for Best Dramatic Presentation, but ultimately lost out to Crouching 
+Tiger, Hidden Dragon. The film's ending song, "When You Come Back to Me 
+Again", was nominated for a Golden Globe Award.[14] Written by Jenny Yates 
+and Garth Brooks (performed only by Brooks), the song failed to win, losing 
+out to "Things Have Changed" from Wonder Boys. Frequency was released on 
+VHS on April 3 2001 and on DVD on October 31, 2001. It was later released 
+on Blu-ray on July 10, 2012.[15][16][17] In November 2014, it was reported 
+that Supernatural showrunner Jeremy Carver was in talks to produce a new 
+television series adaptation/reboot based on the film for television network 
+NBC. The film's writer Toby Emmerich is attached to serve as a producer 
+for the series.[18] NBC passed on it, and a pilot was ordered at The CW 

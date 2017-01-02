@@ -1,0 +1,12 @@
+Ultimate Zone Rating (UZR) is a sabermetric statistic used to measure fielding. 
+It compares the event that actually happened (hit/out/error) to data on 
+similarly hit balls in the past to determine how much better or worse the 
+fielder did than the "average" player. UZR divides a baseball field into 
+multiple zones and assigns individual fielders responsibility for those 
+zones.[1] UZR calculations are provided at Fangraphs by Mitchel Lichtman. 
+Proponents of the statistic advise that defense is best judged over three-year 
+spans, as a given year contains a relatively small sample and can result 
+in large statistical swings.[2] Former Major League Baseball shortstop 
+David Eckstein says "a lot of defense is putting yourself in the right 
+position to make plays." Josh Stein, San Diego Padres director of baseball 
+operations, said UZR "can be skewed if the player is not starting from 

@@ -1,0 +1,19 @@
+Isolated Power or ISO is a sabermetric baseball statistic which aims to 
+measure a batter's raw power. The formula is slugging percentage minus 
+batting average. I S O = S L G − A V G {\displaystyle ISO=SLG-AVG} = ( 
+1 B ) + ( 2 × 2 B ) + ( 3 × 3 B ) + ( 4 × H R ) A B − H A B {\displaystyle 
+={\frac {({\mathit {1B}})+(2\times {\mathit {2B}})+(3\times {\mathit {3B}})+(4\times 
+{\mathit {HR}})}{AB}}-{\frac {H}{AB}}} = ( 1 B ) + ( 2 × 2 B ) + ( 3 × 
+3 B ) + ( 4 × H R ) − ( 1 B + 2 B + 3 B + H R ) A B {\displaystyle ={\frac 
+{({\mathit {1B}})+(2\times {\mathit {2B}})+(3\times {\mathit {3B}})+(4\times 
+{\mathit {HR}})-({\mathit {1B}}+{\mathit {2B}}+{\mathit {3B}}+{\mathit 
+{HR}})}{AB}}} = ( 2 B ) + ( 2 × 3 B ) + ( 3 × H R ) A B {\displaystyle 
+={\frac {({\mathit {2B}})+(2\times {\mathit {3B}})+(3\times {\mathit {HR}})}{AB}}} 
+The final result measures how many extra bases a player averages per at 
+bat. A player who hits only singles would thus have an ISO of 0. The maximum 
+ISO is 3.000, and could only be attained by hitting a home run in every 
+at-bat. Power hitters ordinarily have an ISO between .240 and .300. The 
+term "Isolated Power" was coined by Bill James, but the concept dates back 
+to Branch Rickey and his statistician Allan Roth.[1] There are uncertain 
+memories that it was called "power percentage" by Rickey/Roth, and while 
+rare, that has led to that name being used in some circles over the past 

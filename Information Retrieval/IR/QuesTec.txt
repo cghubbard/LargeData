@@ -1,0 +1,49 @@
+QuesTec is a digital media company that pioneered virtual replay from real-time 
+measurement data for baseball and tennis. Years before competitors introduced 
+similar products, QuesTec had established a reputation for accuracy and 
+reliability. Although originally based on internally developed technology, 
+in 1998 QuesTec moved to tracking technology provided by engineers at the 
+Atlantic Aerospace Electronics Corporation (now a division of L-3 Communications). 
+QuesTec is best known for its Umpire Information System (UIS), used by 
+Major League Baseball for the purpose of providing feedback and evaluation 
+of Major League umpires. The QuesTec company, based out of Deer Park, New 
+York, has been mostly involved in television replay and graphics throughout 
+its history. In 2001, however, the company signed a 5-year contract with 
+Major League Baseball to use its pitch tracking technology as a means to 
+review the performance of home plate umpires during baseball games. The 
+contract continued through the 2008 season through annual extensions. The 
+UIS consists of four cameras placed around a ballpark that feed into a 
+computer network and record the locations of pitches throughout the course 
+of a game. Two of the cameras are located high in the stands above the 
+1st and 3rd base lines to track the trajectory of each pitch. The other 
+two are located at field level and record the stance of the batter so the 
+top and bottom of the strike zone can be set. Computer software then generates 
+CDs that umpires and MLB executives can review and learn from. These CDs 
+include video of the pitches as well as graphic representations of their 
+locations plus feedback on the umpires' accuracy. The UIS was featured 
+in a 2002 segment of Scientific American Frontiers called "Baseball Tech" 
+When first introduced, controversy over the Umpire Information System quickly 
+developed as umpires and players alike voiced concern over the system's 
+accuracy and the fact that limited deployment (6 parks in the first year) 
+might not guarantee uniform umpiring in the remaining parks. In its early 
+trial period, baseball analysts questioned whether QuesTec was producing 
+the consistency in umpiring that was supposed to occur.[1] A report by 
+a QuesTec operator a year later suggested that the system still needed 
+to be tweaked.[2] The controversy was fueled, in part, by several attempts 
+by the World Umpires Association (WUA) to have the system removed through 
+legal action, culminating in a dispute filed with the National Labor Relations 
+Board (NLRB). Meanwhile, a more hands-on approach was taken by former Arizona 
+Diamondbacks pitcher Curt Schilling; Schilling used a bat to smash one 
+of QuesTec's field cameras after being told by an umpire that he wanted 
+to call some of his pitches strikes, but QuesTec made him call them balls, 
+an act that led to a fine for the pitcher. The NLRB grievance was dropped 
+by the WUA as part of the contract negotiations with MLB after the 2005 
+season, ending the legal challenges to the system. As the UIS controversy 
+died down and the statistics accumulated, it became clear that the UIS 
+was accomplishing its basic goals of narrowing the strike zone closer to 
+the width of the plate and returning both lower and higher strikes that 
+were typically not called before the system was introduced.[3] In addition, 
+the claims that the system would "ruin the game" have not been fulfilled, 
+as both pitching and hitting statistics in "QuesTec ballparks" have been 
+consistent with comparable statistics for non-QuesTec parks, and players 
+have adapted to the changes brought by the system. As of the end of the 

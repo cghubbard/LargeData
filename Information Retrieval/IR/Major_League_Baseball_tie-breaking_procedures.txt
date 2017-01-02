@@ -1,0 +1,42 @@
+Because inclusion in the Major League Baseball postseason is based upon 
+the teams' regular-season records, procedures exist to break ties between 
+teams. One-game tiebreakers are played between teams tied for a division 
+championship or a league's second wildcard berth. These games are to be 
+played the day after the season is scheduled to end. Home-field advantage 
+is determined using the rules listed below ("Breaking Ties Without Playoff 
+Games"). From the implementation of the wildcard in 1994 to the end of 
+the 2011 season, a different rule was in place. Two teams tied for a division 
+did not play a tiebreaker if their records were better than all non-division 
+winners in their league. Instead, such a tie was broken using the rules 
+listed below ("Breaking Ties Without Playoff Games"). This scenario happened 
+in the 2001 Major League Baseball season when the Houston Astros and St. 
+Louis Cardinals tied for first place in the National League Central. The 
+Astros were awarded the division title by virtue of a better head-to-head 
+record against the Cardinals, while St. Louis received the wildcard berth. 
+With, however, the adoption of a second wildcard berth and a wildcard game 
+beginning in the 2012 season, the non-division winner with the best record 
+in the league faces possible elimination on the first day of the postseason. 
+As a result, the tie-breaking rules were changed so that two teams tied 
+for a division championship must play a tie- breaking game even if both 
+teams have already qualified for the postseason. The team losing the tie-breaking 
+game will now qualify for a wildcard berth only if its regular-season record 
+is among the league's two best records for non-division-winners. If that 
+team is tied for the second wild-card spot, a second tie-breaking game 
+would then be played. If, on the other hand, two teams are tied for the 
+first wildcard slot, no tie-breaking game is played. Rather, the two teams 
+simply play against each other in the wildcard game, with home-field advantage 
+awarded using tie-breaking rules described in the next section. If two 
+champions from separate divisions have the same record, the tiebreaking 
+procedure listed above is used to determine postseason seeding. No additional 
+games are played. Tied teams are designated as A, B, C, and D. Choice for 
+one of these designations is first given to the team winning the tie-breakers 
+(listed below). While A is usually the "best" designation, there are some 
+scenarios where C has a different path to the postseason. If a division 
+title is up for grabs, then those divisional teams will select from the 
+first designations (A, B,...). On Day 1, A will host B and C will host 
+D (if there is no fourth team, C will be considered to have won this game). 
+Games on Day 2 may occur as follows: The order in which teams pick their 
+designations (A, B, C, D) will be determined by the following 5-step tie-breaking 
+system. If there is a tie for both wild card and division title spots, 
+then the first designations will match teams competing for their division 
+title. If at any given step some, but not all, teams remain tied, then 

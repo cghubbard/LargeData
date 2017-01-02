@@ -1,0 +1,520 @@
+KDKA (1020 kHz AM) is a Class A (clear channel) radio station, owned and 
+operated by CBS Radio and licensed to Pittsburgh, Pennsylvania. Its studios 
+are located at the combined CBS Radio Pittsburgh facility in the Foster 
+Plaza on Holiday Drive in Green Tree, and its transmitter site is at Allison 
+Park. The station's programming is also carried over KDKA-FM's 93.7 HD2 
+digital subchannel.[2] KDKA features a News/Talk format. Operating with 
+a transmitter power output of 50,000 watts, the station can be heard during 
+daylight hours throughout central and western Pennsylvania, along with 
+portions of the adjacent states of Ohio, West Virginia and New York, plus 
+the Canadian province of Ontario. Its nighttime signal covers much of eastern 
+North America. KDKA has described itself as the "Pioneer Broadcasting Station 
+of the World",[3] and traces its beginning — initially using the temporarily 
+assigned "special amateur" call sign of 8ZZ — to its broadcast of the 1920 
+Harding-Cox presidential election results on the evening of November 2, 
+1920. Although KDKA's history has been extensively reviewed, there are 
+some inconsistencies between accounts, leading one researcher to note: 
+"While the KDKA story is often recounted, the details tend to vary slightly 
+both in the secondary source material and in the published recollections 
+of the participants, including differences in the chronology of events 
+and the relative importance of the parties involved."[4] KDKA's establishment 
+was an outgrowth of the post-World War I efforts of the Westinghouse Electric 
+and Manufacturing Company of East Pittsburgh, Pennsylvania to expand its 
+commercial operations in the radio industry. During the war Westinghouse 
+received government contracts to develop radio transmitters and receivers 
+for military use, using recently developed vacuum tube equipment that was 
+capable of audio communication, in contrast to the earlier spark gap transmitters, 
+which could only be used to transmit the dots-and-dashes of Morse code. 
+At the time of the entry of the United States into World War I in April 
+1917, the government ordered all civilian radio stations off the air. However, 
+during the conflict Westinghouse received permission to operate research 
+radio transmitters located at its East Pittsburgh plant and at the home 
+of one of its lead engineers, Frank Conrad, in nearby Wilkinsburg.[5] With 
+the end of the war, the government contracts were canceled. However Westinghouse 
+moved aggressively to establish itself as a national and international 
+provider of radio communication. Its primary competitor in this effort 
+was the Radio Corporation of America (RCA), which had recently been formed 
+as a subsidiary by Westinghouse's arch rival, the General Electric Company 
+of Schenectady, New York, using the assets of the Marconi Company of America. 
+The effort to establish Westinghouse's radio industry presence was led 
+by company vice president H. P. Davis.[6] In order to strengthen the company's 
+patent position, especially related to receivers, he spearheaded the purchase 
+of the International Radio Telegraph Company, primarily to gain control 
+of a "heterodyne" patent originally issued to Reginald Fessenden, and also 
+arranged for the purchase of the commercial rights to the regenerative 
+and superheterodyne patents held by Edwin Howard Armstrong. However, because 
+of the competitive advantage RCA had in international and marine communications, 
+initially there appeared to be limited opportunities available to Westinghouse.[7] 
+Although it would gain its fame as a broadcasting station, KDKA actually 
+originated as part of a project to establish private radiotelegraph links 
+between Westinghouse's East Pittsburgh factory and its other facilities, 
+to avoid the business expense of paying for telegraph and telephone lines. 
+In September 1920, a newspaper report noted that "a new high-power station, 
+to operate under a special or commercial license, is being installed at 
+the Westinghouse plant in East Pittsburgh. It will be used to establish 
+communication between the East Pittsburgh plant and the company branch 
+factories at Cleveland, O., Newark, N. J., and Springfield, Mass., where 
+similar outfits will be employed."[8] An application, signed by H. P. Davis, 
+was submitted to the Eighth District Radio Inspector, S. W. Edwards in 
+Detroit, who forwarded it to Washington, and on October 27, 1920 Westinghouse 
+was issued a Limited Commercial station license, serial #174, with the 
+identifying call letters of KDKA.[9] This Limited Commercial grant was 
+consistent with the standard practice being followed at this time, for 
+licenses issued to companies engaging in private radio communication. Neither 
+KDKA's original application, nor the resulting license, mentioned broadcasting, 
+only that the station was to be used for radiotelegraphic communication 
+with stations located at the Westinghouse facilities in Cleveland, Newark 
+and Springfield, plus station WCG in Brooklyn, New York, which was operated 
+by the recently acquired International Radio Telegraph.[10] At this time, 
+radio stations in the United States were regulated by the Department of 
+Commerce's Bureau of Navigation. Beginning with the introduction of licensing 
+in late 1912, the standard practice had been to assign call letters starting 
+with "W" to radio stations in the eastern United States. However, KDKA 
+happened to receive its assignment during a short period during which land 
+stations were being issued call letters from a sequential block of "K" 
+call letters that had been previously been assigned only to ship stations. 
+Although the original policy was restored a few months later, KDKA was 
+permitted to keep its non-standard call sign.[11] Shortly after beginning 
+the process of setting up KDKA to be used for point-to-point communication, 
+a series of events occurred which resulted in it also becoming a broadcasting 
+station, which would overshadow its original role. Prior to World War I, 
+Frank Conrad had operated an experimental radiotelegraph station, with 
+the callsign 8XK.[12] Following the war, the U.S. government again allowed 
+the operation of civilian radio stations, and Conrad revived 8XK, which 
+was located in a detached two-story garage at his residence. He used the 
+knowledge gained during the wartime period to upgrade his station to begin 
+making audio transmissions, and became well known among radio amateurs 
+for his experimental activities.[13] On October 17, 1919 Conrad made the 
+first of what would become a semi-regular series of entertainment broadcasts.[14] 
+During this time the Joseph Horne department store ran daily full-page 
+advertisements in the Pittsburgh papers, and, in its September 23, 1920 
+placement, stated that the store had started selling "Amateur Wireless 
+Sets" for "$10 upwards".[15] Six days later, the store's September 29 installment 
+included a small notice titled "Air Concert 'Picked Up' By Radio Here", 
+which noted that its demonstration set had been used to receive one of 
+the Conrad broadcasts.[16] H. P. Davis saw this advertisement and immediately 
+recognized the "limitless opportunity" of adding radio receivers to the 
+lines of appliances sold to the general public by Westinghouse,[17] and 
+in order to create demand for the receivers, he decided that Westinghouse 
+should provide regular programming as an incentive for persons considering 
+a purchase. Davis held a staff meeting with his "radio cabinet" and asked 
+them to have a station operational in time to broadcast the presidential 
+and local election returns on November 2, 1920. Election return broadcasts 
+had been a tradition since shortly after the development of radio, although 
+due to technical limitations initially they could only be done using Morse 
+code, which greatly limited the potential audiences.[18] Following the 
+development of vacuum-tube transmitters that made audio transmissions possible, 
+the first spoken-word election night broadcast was made on November 7, 
+1916 by the DeForest Radio Telephone and Telegraph Company's station, 2XG, 
+located in the Highbridge section of New York City, in conjunction with 
+the New York American, announcing the results of the Wilson-Hughes presidential 
+election.[19] On August 31, 1920, the Detroit News, whose "Detroit News 
+Radiophone" began making daily broadcasts on August 20, had broadcast local 
+primary election results.[20] Westinghouse's preparations included the 
+construction of a shack and antenna system on the roof of the nine story 
+K Building at the East Pittsburgh Works in Turtle Creek, Pennsylvania.[21] 
+Frank Conrad had originally planned to broadcast the election results over 
+8XK, in cooperation with the American Radio Relay League, but shifted his 
+efforts to help with the Westinghouse broadcast. He and Donald G. Little 
+had primary responsibility for constructing a 100 watt vacuum-tube transmitter. 
+A telephoned temporary authorization was received to operate under the 
+call sign of 8ZZ.[22] (The first "Z" in this call sign indicated it was 
+a "Special Amateur" grant,[23] which was a classification that permitted 
+the use of transmitting frequencies other than the congested 200 meter 
+(1500 kHz) standard amateur wavelength.) Although the pre-broadcast publicity 
+and contemporary accounts stated that 8ZZ was the call sign used for the 
+election night broadcast — for example, in 1922 L. R. Krumm, Westinghouse's 
+Superintendent of Radio Operations, referred to Westinghouse's "station 
+at East Pittsburgh, now known as KDKA, the matured successor of 8ZZ"[24] 
+— later reviews, including a 1930 re-creation of the original broadcast, 
+often incorrectly state that the KDKA call sign was used during the debut 
+broadcast.[25] Extensive regional publicity by Westinghouse heralded the 
+upcoming broadcast, both among technically knowledgeable amateur radio 
+enthusiasts, plus, through the organization of public listening sites, 
+toward a more general audience of potential future radio receiver purchasers. 
+Promotional announcements described the offering as a joint effort between 
+Westinghouse and its International Radio Telegraph subsidiary,[26] and 
+A. E. Braun, an International Radio Telegraph officer who was also the 
+president of the Pittsburgh Sun, made the arrangements for his newspaper 
+to provide election results to the station.[27] In the days before November 
+2nd a series of test transmissions were made to check the equipment. The 
+announcer for the election night broadcast was a publicity department staff 
+member, Leo Rosenberg. Frank Conrad stood by at his home station,[28] ready 
+to take over using his 8XK transmitter if the East Pittsburgh transmitter 
+failed, but the effort was successful, with one newspaper report noting 
+that: "The returns by wireless telephone, which were transmitted from the 
+Westinghouse international radio station at East Pittsburgh, were exceptionally 
+clear and distinct. The service was utilized by many amateurs to entertain 
+gatherings at their various stations. Between announcements of the returns 
+radiophone music was transmitted, which added much to the entertainment."[29] 
+This Westinghouse broadcast was not unique — that evening at least two 
+other stations made audio transmissions of election returns, one a temporary 
+arrangement made by the Saint Louis Post-Dispatch in conjunction with W. 
+E. Woods of the Benwoods Company, "manufacturers and distributors of wireless 
+outfits",[30] and the other a broadcast by the Detroit News' "Detroit News 
+Radiophone" station.[31] And although later station publicity proclaimed 
+that Westinghouse's election night broadcast "was a national sensation, 
+acclaimed by newspapers all over the country",[32] a comprehensive review 
+of contemporary newspapers determined that reports, although positive, 
+actually appeared only in a few local papers, thus it "was not an immediate 
+'sensation' and that the fame of this event developed over time with later 
+celebratory accounts".[33] However, KDKA would eventually gain national 
+prominence once it began to offer an extensive range of programming. After 
+initially operating under the call sign 8ZZ — apparently for just a few 
+days, although the chronology is not completely clear — the station switched 
+to identifying itself as KDKA. Through the next month semiweekly broadcasts 
+were made,[34] until December 21, when the station embarked on an ambitious 
+daily schedule,[35][36] initially for about an hour each evening. (Reflecting 
+the December launch, the January 1, 1922 debut issue of Westinghouse's 
+Radio Broadcasting News included the reference "Fifty-fourth week broadcasting".)[37] 
+KDKA soon gained a reputation as one of the premier broadcasting stations 
+in the nation. On August 1, 1921 the transmitter was upgraded from 100 
+to 500 watts, and two months later saw an additional doubling, to 1,000 
+watts.[34] The election night broadcast was transmitted on a wavelength 
+of 550 meters (545 kHz). Later publicity stated that KDKA was now broadcasting 
+on 330 meters (909 kHz), and in the fall of 1921 all the Westinghouse broadcasting 
+stations began using 360 meters (833 kHz). In the United States there were 
+no formal standards defining a broadcasting station until December 1, 1921, 
+when the Department of Commerce issued a regulation specifying that stations 
+making broadcasts intended for the general public now had to hold a Limited 
+Commercial license that authorized operation on 360 or 485 meters (833 
+or 619 kHz).[38] KDKA was one of a small number of stations that already 
+met this standard at the time of its adoption, as its second year-long 
+license, issued November 7, 1921, included the notation "360 meters for 
+general broadcasting" in addition to continuing the point-to-point service 
+authorization.[39] Encouraged by the success of KDKA, by the end of 1921 
+Westinghouse established stations in three additional major population 
+centers, including WJZ in Newark, New Jersey (now WABC in New York City), 
+WBZ, originally in Springfield, Massachusetts (now Boston), and KYW, originally 
+in Chicago, Illinois (now Philadelphia). As a pioneer in radio broadcasting, 
+KDKA struggled in particular with studio acoustics, especially for large 
+groups of performers. An early attempt to broadcast a concert by Westinghouse 
+employees from a local auditorium found that the sensitive microphones 
+picked up echoes from the walls, causing severe distortion. Moving the 
+performers outdoors eliminated the echoing, so a tent was erected on the 
+building roof, and for a time concerts were performed from this location. 
+Eventually the tent was blown down in a storm, so it was moved indoors, 
+where it was found the tent material helped deaden the echoes. This lead 
+to modern studio design, including walls covered with noise-absorbing material, 
+initially "monks cloth" (which turned out to be a fancy name for burlap).[40] 
+Early programming often featured live musical performances by a band composed 
+of Westinghouse employees. The station provided its first remote broadcast 
+on January 2, 1921, airing a religious service from Calvary Episcopal Church. 
+The Calvary services soon became a regular Sunday evening offering, and 
+were continued until 1962.[41] On January 15, 1921, at 8 p.m., KDKA broadcast 
+a speech on European relief by Herbert Hoover from the Duquesne Club in 
+Pittsburgh, that was carried ten miles (sixteen kilometers) by a telephone 
+line connection to Westinghouse's East Pittsburgh Works.[42] On July 2, 
+1921, an announcer repeated the ringside commentary, sent by telegraph, 
+from the Jack Dempsey - Georges Carpentier fight in New Jersey.[43] On 
+August 21, 1921, KDKA became the first radio station to broadcast a major 
+league professional baseball game, when announcer Harold W. Arlin called 
+the Pittsburgh Pirates-Philadelphia Phillies game from Forbes Field.[44] 
+In the fall of that year, the station became the first to broadcast a college 
+football game. In 1922, KDKA hosted political humorist Will Rogers in his 
+first radio appearance. Initially KDKA had to share its 360 meter assignment 
+with the other broadcasting stations that were established in the region, 
+until May 15, 1923, when the Department of Commerce expanded the broadcasting 
+frequency assignments into a band from 550 to 1350 kHz. Under this new 
+plan 920 kHz was exclusively allocated to Pittsburgh, and KDKA was granted 
+sole use of this frequency. In 1923, KDKA began simulcasting its broadcasts 
+on shortwave, and for a while used this as a link for transmitting its 
+programs for rebroadcast by station KFHX in Hastings, Nebraska, as part 
+of an unsuccessful experiment to use shortwave signals instead of telephone 
+lines to establish network connections.[45] The original financing plan, 
+of using the revenues from radio receiver sales to pay station costs, proved 
+to be insufficient for a number of reasons. Additional expenses included 
+the requirement to pay royalties to musical composers, plus the fact that, 
+unlike the amateur Westinghouse Company staff performers, professional 
+acts started to expect to be paid in something more tangible than publicity. 
+On the revenue side, Westinghouse found that it didn't have the near-monopoly 
+for selling vacuum-tube receivers that it expected it had gotten through 
+the purchase of the commercial rights to the Armstrong regenerative patent. 
+Armstrong had previously sold "amateur and experimental" rights to around 
+17 small firms, which also began selling receivers to the general public. 
+Westinghouse sued on the grounds that this went beyond their rights, but 
+lost, which resulted in the formation of a series of major competitors, 
+including Crosley and Zenith.[46] Running over-the-air commercials was 
+an obvious financing alternative, but initially Westinghouse officials 
+were soundly against the idea, contending that it would destroy the listening 
+experience. In 1922 J. C. McQuiston, from the Westinghouse Department of 
+Publicity, declared that "if advertising were permitted, it goes without 
+saying that all the good work that has been done in giving valuable information 
+and pleasant entertainment for the people would be destroyed".[47] In 1922, 
+H. P. Davis suggested that the best solution was "five or six large, well-located 
+and powerful stations" which "could be licensed, protected and organized... 
+and that it would become a matter of such public value, that endowments 
+or Federal subsidies would be possible which would assist those responsible 
+for the service to carry it on and to continue the development and research 
+required to get the most value out of it."[48] However, in 1928 he stated 
+that he had realized "from the beginning" that advertising would be the 
+ultimate financing solution.[49] Westinghouse, along with RCA and General 
+Electric, was a co-founder in 1926 of the National Broadcasting Company 
+(NBC), which created two national radio networks: the NBC Red Network and 
+the NBC Blue Network. KDKA became affiliated with the Blue network, and 
+with this change began selling airtime: up until now, the station had been 
+commercial-free. KDKA played popular music and advertisers began sponsoring 
+special radio programs like The Philco Hour, The Maxwell House Hour and 
+The Wrigley Party. A general frequency reassignment under the provisions 
+of newly formed Federal Radio Commission's General Order 40, effective 
+November 11, 1928, led to KDKA being assigned to the "clear channel" frequency 
+of 980 kHz. On January 1, 1929, the station inaugurated new studio facilities 
+located in the William Penn Hotel,[50] and on June 26 relocated its Master 
+Control facilities to the hotel.[51] In 1932, as a result of antitrust 
+proceedings, Westinghouse had to divest its 40% ownership stake of RCA 
+and 20% ownership in NBC.[52] At 7 a.m on November 2, 1934, the station's 
+14th birthday, KDKA inaugurated new studios in the Grant Building.[53] 
+The William Penn Hotel studios later became the home of WCAE. In the 1930s, 
+KDKA began the long-running (1932–1980) Uncle Ed Shaughency show. The station 
+played popular big band and jazz music every morning as well as hosting 
+the KDKA Farm Hour. From 1941 to 1959, the Farm Hour was built around farm 
+reports along with music by Slim Bryant and his Wildcats, who eventually 
+became the top local country music act in the Pittsburgh area. Special 
+programming included ongoing coverage of the 1936 St. Patrick's Day flood 
+that submerged downtown Pittsburgh as far as Wood Street. A final frequency 
+change took place in March 1941, under the provisions of the North American 
+Regional Broadcasting Agreement, as KDKA's clear channel assignment was 
+shifted from 980 to 1020 kHz. In 1943 NBC was compelled by the U.S. government 
+to divest itself of one of its two networks, which resulted in it selling 
+the Blue network (which became the American Broadcasting Company). Prior 
+to the sale KDKA swapped affiliations with KQV to become affiliated with 
+the NBC-Red network.[54] Also during this period, in 1942 it gained a sister 
+station, W75P, on the then-new FM band, which later became KDKA-FM, changing 
+to WPNT in 1979. This station was sold by Westinghouse in 1984, and is 
+now WLTJ. In 1946, KDKA provided live coverage of the inauguration of David 
+L. Lawrence as Pittsburgh Mayor, as well as the presidential and gubernatorial 
+inaugurations. By the end of the decade, the musical and comedy team of 
+Buzz Aston and Bill Hinds, billed as "Buzz & Bill", aired. In the 1950s, 
+Ed Shaughency was moved from mornings to the afternoon, losing his partner, 
+Rainbow (Elmer Walters) in the process. Impressed with the success Rege 
+Cordic was having at WWSW, KDKA hired him away, and Cordic started his 
+KDKA run on Labor Day, 1954. The Cordic & Company morning show, featuring 
+a team of bright and innovative personalities, was a pioneer of today's 
+"morning team" radio format, but in an unconventional way. Cordic and his 
+group played a small amount of music, but primarily provided entertainment 
+through skits, including recurring characters such as "Louie The Garbageman" 
+and space alien "Omicron". Cordic's crew included Karl Hardman and Bob 
+Trow, later known for portraying "Bob Dog" on Mister Rogers' Neighborhood. 
+The 1950s saw a shift to more local programming, as the national radio 
+shows were moving to television. Art Pallan, hired away from WWSW, and 
+Bob Tracey became household names, playing the popular music of the day. 
+For some years announcer Sterling Yates, also a musician, played hip, progressive 
+jazz on a Sunday morning broadcast. On January 1, 1951, the married couple 
+Ed and Wendy King launched Party Line, KDKA's first talk show, which ended 
+its 20-year run on November 18, 1971 upon Ed King's death. Unlike most 
+talk shows, callers were not heard, with the couple taking turns relaying 
+the callers' information. In 1956 newsman Bill Steinbach began his 36-year 
+career at the station — within 10 years he was the anchor of the award-winning 
+90-to-6 news program. KDKA cautiously embraced rock and roll music, with 
+artists such as Bill Haley, the Everly Brothers, Fats Domino, and Elvis 
+Presley, in addition to popular vocalists including Frank Sinatra, Peggy 
+Lee, and Canonsburg, Pennsylvania native Perry Como. However, the station's 
+sound remained much more conservative than most Top 40 stations. In 1955, 
+the station began regular broadcasts of Pirate baseball games, a partnership 
+that ended in 2006, but was restarted in 2012 when KDKA-FM began carrying 
+the games. KDKA gained a television sister station in late 1954, when Westinghouse 
+purchased WDTV (changing its call letters to KDKA-TV) from the DuMont Television 
+Network for a then-record price of $9.75 million.[55] Before the purchase, 
+Westinghouse had attempted to purchase the channel 13 license allocated 
+for public broadcasting, but eventually donated the tower to public interest 
+groups and gave financial backing for the eventual WQED.[56] In a somewhat 
+surprising move, KDKA-TV affiliated with CBS, in contrast to KDKA's longtime 
+NBC affiliation. KDKA radio remained affiliated with NBC radio until the 
+network purchased WJAS in 1957 in order for WJAS's owners to gain a 50% 
+ownership stake in WIIC-TV (now WPXI) with the Pittsburgh Post-Gazette.[57] 
+KDKA then went independent, relying more on its Group W ties than on a 
+national network. By May 1956, KDKA's studios had relocated from the Grant 
+Building to 1 Gateway Center, joining KDKA-TV. By 1960, KDKA added more 
+rock and roll music, as competitor KQV made ratings gains. "Your Pal" Pallan 
+played hit songs and KDKA carried the sounds of screaming crowds as the 
+Beatles arrived in Pittsburgh in 1964. The major exponent of rock on KDKA 
+radio was disc jockey Clark Race, who also hosted "Dance Party" on KDKA-TV, 
+a local version of Dick Clark's American Bandstand. Other artists featured 
+on the station included The Four Seasons, The Vogues, Lou Christie (the 
+latter two Pittsburgh-bred), The Beach Boys, The Hollies, The Supremes, 
+Four Tops, and The Turtles. After 11 years of providing early morning entertainment, 
+Rege Cordic moved to KNX in Los Angeles. His replacements were Pallan and 
+Bob Trow, whose "Pallan and Trow, Two For the Show" program retained some 
+of the Cordic & Company flavor. Two and a half years later, in April 1968, 
+Jack Bogut moved from Salt Lake City to become the KDKA morning host, a 
+position he held for 15 years. One of Bogut's most memorable contributions 
+to KDKA was his introduction to Western Pennsylvania of the word Farkleberry, 
+which is now a staple of the annual Children's Hospital fund-raising campaign. 
+Other notable personalities included Big Jack Armstrong, Bob Shannon and 
+Terry McGovern; the latter two would go on to enjoy lucrative careers in 
+the Film/TV industry as actors. Also in the 1960s, KDKA reported numerous 
+important events, including the Pirates' improbable 1960 World Series win. 
+In local news reporting, the station pioneered with "on the scene" reports 
+of Mike Levine, the peripatetic former newspaper man whose mobile-unit 
+broadcasts from Tri-State-area covering fires, floods, bank robberies, 
+and coal mine disasters won numerous journalism awards. His nightly "Contact" 
+show (later "Open Mike") was KDKA's initial venture into the news-based 
+talk radio format that would become the station's basic offering. In the 
+summer of 1969, KDKA debuted overnight talk with Jack Wheeler, launching 
+an anything-goes talk show that ran from midnight to 6 a.m. six nights 
+a week. By the early 1970s, KDKA adopted more of an adult contemporary 
+format, consisting of rock and roll hits of the 1960s plus soft rock, with 
+artists such as America, The Carpenters, Doobie Brothers, Paul Simon, Dawn, 
+and Neil Diamond becoming core offerings. The morning show featured less 
+music and an increased news and commercial content. In 1973, KDKA revamped 
+its "Party Line" timeslot, with the bombastic John Cigna moving over from 
+WJAS to anchor the nighttime talk program and urge listeners to "buy American!" 
+In 1974 Perry Marshall replaced Wheeler in the overnight timeslot, which 
+became known as the "Marshall's Office". In 1975, Roy Fox debuted as the 
+6 to 9 pm talk host. By now, KDKA had become a full service adult contemporary 
+radio station. In 1979, newsman Fred Honsberger began working at KDKA, 
+and went on to host a successful evening talk show plus a top-rated afternoon 
+drive program. Also in 1979, KDKA covered the Three Mile Island nuclear 
+accident, first reported by Harrisburg newsman Mike Pintek. By 1982, Pintek 
+joined the KDKA News staff and later became one of the station's most popular 
+talk hosts, although he was let go at the end of 2005 as part of a programming 
+overhaul. In 2007, he became the host of Night Talk on the Pittsburgh Cable 
+News Channel. As of January 2009, Pintek was rehired at KDKA to host a 
+talk show in the 6pm to 10 pm timeslot, and, following the death of Fred 
+Honsberger, took over the 12 PM-3 PM timeslot as of January 2010. On July 
+23, 1982, KDKA claims to have become the world's first radio station to 
+broadcast in AM stereo although experimental AM stereo broadcasts were 
+conducted as early as the 1960s on Mexico's XETRA 690.[58] Throughout the 
+1980s, KDKA continued an information and news intensive adult contemporary 
+music format, playing four to six songs per hour at drive times and 10 
+to 12 songs an hour during middays and weekends. At night, the station 
+continued its talk format. The station won four Associated Press Joe Snyder 
+awards for outstanding overall news service in Pennsylvania. KDKA eventually 
+made the decision to switch from a full-service format that included music 
+to one that was an exclusively news/talk. The changeover occurred at noon 
+on April 10, 1992, when Larry Richert played the last song aired as a regular 
+part of KDKA programming: Don McLean's "American Pie", signifying that, 
+for KDKA, this was "the day the music died".[59] Rush Limbaugh was added 
+to the noon to 3:00 p.m. timeslot, and all-news blocks were added in the 
+6:00 to 9:00 a.m. and the 4:00 to 6:00 p.m. timeslots. In 1997, Bob DeWitt 
+was hired as news director, serving for two years. His award-winning team 
+included Bob Kopler, Dave James, Bob Kmetz, Barbara Boylan, Mike Whitely 
+and Beth Trapani. Westinghouse merged with CBS at the start of 1996, so 
+KDKA would soon become an Infinity Broadcasting station, after that chain 
+(a previously separate entity from CBS and Westinghouse) was acquired by 
+Westinghouse. Westinghouse would later turn itself into CBS Corporation 
+in 1997. Viacom bought CBS Corporation in 1999, but five years later transformed 
+itself into CBS Corporation, thus making KDKA now a part of CBS Radio. 
+On October 1, 2006, after 52 seasons, KDKA aired its final Pirates game, 
+with the Pirates beating the Reds 1-0. On April 26, 2007, the East Pittsburgh 
+building that was the birthplace for KDKA was razed to make way for an 
+industrial complex. On Tuesday, November 2, 2010, KDKA celebrated its 90th 
+anniversary with election coverage, as it had every first Tuesday in November 
+since its debut in 1920. The 90th anniversary celebration was primarily 
+sponsored by Westinghouse Electric Company, a nuclear power company with 
+a history dating back to the original Westinghouse Electric and Manufacturing 
+Company. The radio station's studios were located at One Gateway Center 
+in Pittsburgh from 1956[60] until 2010. That building still houses the 
+studios of KDKA-TV. The radio station studios were moved to CBS's combined 
+radio facility on Holiday Drive in Green Tree. In July 2008, CBS Corporation 
+announced some of its radio stations were available for sale and the company 
+would concentrate on its operations in major markets.[61] With Pittsburgh 
+ranked as the 24th largest market by Arbitron there was speculation KDKA 
+and its three sister stations, KDKA-FM, WDSY-FM and WBZZ-FM would be sold. 
+The speculation was incorrect and the stations were not on the auction 
+block.[62] Trying to achieve a consensus on KDKA's precise status as a 
+broadcasting pioneer, especially in relation to other, earlier stations, 
+has been a source of disagreement for nearly a century. This often includes 
+semantic complexities involving carefully crafted definitions and qualifiers 
+— including "first", "oldest", "scheduled", "commercial", and "real" — 
+in an attempt to make sense of a fluid and not always well documented era. 
+Complicating the issue is the fact that the U.S. government did not have 
+a formal definition of broadcasting, or any specific regulations, until 
+December 1, 1921, when a broadcast service category was essentially grafted 
+onto the existing Limited Commercial license category, as an authorization 
+that was granted to a select group of designated stations. (A license class 
+dating back to 1912, not all Limited Commercial stations were authorized 
+to make broadcasts.) Before these new regulations were adopted, there were 
+no prohibitions restricting broadcasting stations from operating under 
+amateur or experimental licenses. A specific "broadcasting station" license 
+did not exist until one was created by the Federal Radio Commission in 
+1927. In 1923 the Department of Commerce stated that "The first broadcasting 
+license was issued in September, 1921",[63] a reference to the September 
+15, 1921 Limited Commercial license issued to WBZ in Springfield, Massachusetts, 
+which appears to be the first to state that the station would be used exclusively 
+for broadcasting, transmitting on 360 meters, which would become the standard 
+"entertainment" wavelength designated by the December 1, 1921 regulations. 
+As noted earlier, it was only KDKA's second, November 7, 1921 license, 
+that included a reference that it would be used for broadcasting in addition 
+to company-wide point-to-point communication. This led to some early Commerce 
+Department information listing WBZ as the first broadcasting station, and 
+KDKA as the fourth.[64] The best known priority dispute has been between 
+KDKA and WWJ in Detroit, Michigan, a controversy in which some neutral 
+observers have carefully tried to avoid being entangled. This was emphasized 
+when the September 3, 1945 issue of Time magazine included a report that 
+the National Association of Broadcasters (NAB) had recently sided with 
+WWJ's "claim to being the world's first commercial radio station", by concluding 
+that KDKA "was ten and a half weeks younger".[65] This assertion brought 
+a quick denial by NAB President J. Harold Ryan, who informed the magazine 
+that it had misconstrued some informational material sent out by the association, 
+and: "It was not the intention, nor is it the prerogative of the NAB to 
+attempt to decide the relative claims of two pioneer broadcasting stations."[66] 
+It appears that Westinghouse officials were initially unaware that, in 
+addition to Frank Conrad's 8XK, other stations had been making regular 
+news and entertainment broadcasts. This was reflected in the slogan, repeated 
+each week in Westinghouse's Radio Broadcasting News publication beginning 
+with the January 1, 1922 debut issue, that "Westinghouse Station KDKA was 
+first to give regular Broadcasting Programs".[67] However, research has 
+uncovered several challenges to this broad declaration. In the United States, 
+Charles "Doc" Herrold, in San Jose, California, was found to have begun 
+test transmissions in 1909, which were followed by weekly concerts beginning 
+in 1912.[68] In addition, beginning in late 1916, Lee de Forest's "Highbridge 
+station" (2XG) in New York City also began transmitting regularly scheduled 
+programs,[69] including a comprehensive November 7, 1916 election night 
+broadcast. These programs were suspended in April 1917 with the entry of 
+the United States into World War I, but after the war the 2XG broadcasts 
+resumed in late 1919. The broadcasts were again suspended in early 1920, 
+the result of a run-in with the local Radio Inspector.[70] At this point 
+the station's transmitter was transferred to San Francisco, and relicensed 
+as 6XC, the "California Theater Station", which around April 1920 inaugurated 
+a wide-ranging selection of daily broadcasts. The next year de Forest wrote 
+that this was the "first radio-telephone station devoted solely" to broadcasting 
+to the public.[71] The station was relicensed as KZY late in 1921, then 
+deleted in early 1923. In 1946, a KDKA promotional pamphlet, issued under 
+the name of the station's general manager, Joseph E. Baudino, stated that 
+Westinghouse's November 2, 1920 election day effort marked "the world's 
+first regularly scheduled broadcast".[72] However, Baudino later modified 
+this opinion, and as the lead author, along with John Kittross, of a 1977 
+review of "Broadcasting's Oldest Stations", now concluded that the "first 
+U.S. radio broadcasting station" was in fact Charles Herrold's San Jose 
+station, dating to 1912.[73] Still, while allowing for the possibility 
+that "new data will be found",[74] the authors credited Baudino's former 
+station, 8ZZ/KDKA, as being the "oldest [surviving] station in the nation". 
+Herrold's San Jose broadcasts had been suspended due to the World War I 
+prohibition of civilian radio stations, and he did not return to the airwaves 
+until May 1921.[75] His experimental station was relicensed in December 
+1921 as KQW, which later moved to San Francisco and changed its call letters 
+to KCBS in 1949. Baudino and Kittross argued that this post-World War I 
+gap disqualified KCBS from "oldest station" consideration, something neither 
+KQW nor KCBS has agreed with, as program schedules for KQW appearing in 
+1925 included the slogan "Pioneer Broadcasting Station of the World",[76] 
+and in 2009 KCBS celebrated its 100th birthday with a yearlong series of 
+events throughout the Bay Area, including the public dedication of a plaque 
+commemorating the "Centennial Celebration of the World's First Broadcasting 
+Station".[77] At the same time, KCBS adopted the slogan "The World's First 
+Broadcasting Station". Baudino and Kittross also concluded that there was 
+no significant link between the daily broadcasts introduced on August 20, 
+1920 by the Detroit News' "Detroit News Radiophone", as amateur station 
+8MK, and its subsequent transformation into WBL and later WWJ, something 
+with which the newspaper stoutly disagreed: for example, in a 1934 advertisement, 
+WWJ, still owned by the Detroit News, declared itself "America's Pioneer 
+Broadcasting Station".[78] A case has also been made for the primacy of 
+the University of Wisconsin's WHA in Madison, Wisconsin, which evolved 
+from an earlier experimental authorization, 9XM. In 1958 a plaque was installed 
+on the university campus crediting "9XM-WHA" as "The Oldest Station in 
+the Nation", including the statement that the station began "broadcasting 
+on a regular schedule in 1919".[79] However, Baudino and Kittross found 
+no evidence of organized broadcasting prior to the inauguration of spoken-word 
+weather forecasts on January 3, 1921, and in 2007 a comprehensive station 
+history compiled by Randall Davidson came to the same conclusion.[80] An 
+additional qualifier sometimes proposed for KDKA is that it was the first 
+"commercial" station, but there is no consensus here either, as a 1945 
+advertisement for WWJ claimed that station was the one where "commercial 
+radio began".[81] (WWJ and KDKA were both initially commercial-free, and 
+did not start to accept advertising until the mid-1920s, so in this case 
+"commercial" appears to just mean under the control of a commercial enterprise.) 
+Additionally, Westinghouse's operation of KDKA's broadcasting service under 
+a "Limited Commercial" license appears to have been merely a side-effect 
+of the fact that it had previously been determined that type of authorization 
+was required for KDKA's original role, of providing private point-to-point 
+communication between company installations. ¹ Clear-channel stations with 

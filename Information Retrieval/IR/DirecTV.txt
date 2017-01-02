@@ -1,0 +1,480 @@
+DirecTV (stylized as DIRECTV) is an American direct broadcast satellite 
+service provider and broadcaster based in El Segundo, California. As of 
+July 2015, it is a subsidiary of AT&T. Its satellite service, launched 
+on June 17, 1994, transmits digital satellite television and audio to households 
+in the United States, Latin America and the Caribbean.[3][4] Its primary 
+competitors are Dish Network and cable television providers. After receiving 
+approval from the United States Federal Communications Commission and United 
+States Department of Justice, AT&T's acquisition of DirecTV in a transaction 
+valued at $48.5 billion[5] was completed on July 24, 2015.[6] DirecTV provides 
+television and audio services to subscribers through satellite transmissions. 
+Services include the equivalent of many local television stations, broadcast 
+television networks, subscription television services, satellite radio 
+services, and private video services. Subscribers have access to hundreds 
+of channels, so its competitors are cable television service and other 
+satellite-based services.[7] Most subscribers use reception antennas which 
+are much smaller than the first generation antennas, which were typically 
+a few yards (meters) across. Advances in antenna technology, including 
+fractal antennas, have allowed a general reduction in antenna size across 
+all industries and applications. Receiving equipment includes a satellite 
+dish, an integrated receiver/decoder and a DirecTV access card, which is 
+necessary to operate the receiver/decoder.[8] Consumers who purchase DirecTV 
+subscribe to various packages of DirecTV programming for which the subscriber 
+pays a monthly fee. Additional monthly fees may include a protection plan 
+(which provides for repair or replacement of consumer-leased equipment 
+from damages caused by lightning, power surges, floods, etc.), DVR, additional 
+receivers, HD channels, and other premium channel packages. A subscriber 
+also can order pay-per-view and video on demand events and movies. DirecTV 
+contracts with and pays program providers such as cable networks, motion 
+picture distributors, sports leagues, event promoters, and other programming 
+rights holders, for the right to distribute their programming to its subscribers. 
+All programming distributed by DirecTV is delivered to its broadcast centers 
+in Castle Rock, Colorado, and Los Angeles, where it is then digitized and 
+compressed. The resulting signal is encrypted by DirecTV to prevent its 
+unauthorized reception. DirecTV then transmits these signals to several 
+satellites located in geostationary orbit.[8] As of the quarter (Q3) ended 
+September 30, 2012, DirecTV U.S. had 19.981 million subscribers and revenues 
+for the quarter of US$5.769 billion. For the same period, DirecTV Latin 
+America ended with 9.666 million subscribers and revenues of US$1.577 billion.[9] 
+In addition to serving residences, DirecTV offers service to bars, restaurants, 
+hotels, dorms, and hospitals through their DirecTV for business service. 
+The company also offered mobile service for cars, boats, and RVs (DirecTV 
+Mobile) as well as aircraft (DirecTV Airborne) in cooperation with Connexion 
+by Boeing. Beginning in November 2016, DirecTV Now will be an internet 
+streaming TV service.[10] In 1953, Howard Hughes created the Howard Hughes 
+Medical Institute (HHMI), to which he transferred full ownership of Hughes 
+Aircraft.[citation needed] Ostensibly created as a non-profit medical research 
+foundation, HHMI was accused of being used by Hughes as a tax shelter.[citation 
+needed] Following Hughes' death in 1976, HHMI was incorporated in 1977, 
+and litigation ensued to determine whether it would be allowed to maintain 
+its interest in Hughes Aircraft.[citation needed] In 1984, the court appointed 
+a new board for HHMI, which proceeded to sell off Hughes Aircraft to General 
+Motors on December 20, 1985, for an estimated $5.1 billion.[11] General 
+Motors then merged Hughes Aircraft with its subsidiary Delco Electronics 
+to create Hughes Electronics Corporation.[citation needed] The new subsidiary 
+was initially composed of four units: Delco Electronics Company, Hughes 
+Aircraft Company, Hughes Space and Communications Company, and Hughes Network 
+Systems.[citation needed] Stanley E. Hubbard founded United States Satellite 
+Broadcasting (USSB) in 1981 and was a leading proponent for the development 
+of direct-broadcast satellite service in the United States.[citation needed] 
+USSB was awarded five frequencies by the FCC, at the coveted 101 degree 
+west satellite location.[citation needed] Hughes Communications, Inc. was 
+also awarded 27 frequencies at the same 101-degree location.[citation needed] 
+After many years, the technology was developed to enable the building of 
+very high-power satellites, and digital compression (MPEG-2) standards 
+were developed that allowed multiple digital television channels to be 
+sent through each satellite frequency.[citation needed] Hughes attempted 
+to create a joint venture with NBC, News Corp., and Cablevision in 1990, 
+to launch the first high-power digital television service called Sky Cable.[12] 
+Failing to do so, the company instead created DirecTV as a separate division, 
+and secured an agreement with USSB to build and launch the first high-power 
+direct-broadcast satellite system.[citation needed] DirecTV's name is a 
+portmanteau of "direct" and "TV" (as in direct broadcast satellite television).[citation 
+needed] Hughes/DirecTV then turned to Thomson Consumer Electronics (under 
+the RCA, GE, and ProScan brands) to develop the digital satellite system 
+for the service that would be capable of receiving 175 channels on a small 
+18-inch dish.[citation needed] These dishes utilized a new generation of 
+smaller, lighter receiver dishes based on military technology introduced 
+by the Global Broadcast System, which predated DirecTV's viability by almost 
+ten years.[citation needed] Hughes was awarded the contract to build and 
+launch the new high-powered satellites, and USSB and DirecTV agreed that 
+the new satellites would carry the two separate programming services: USSB 
+and DirecTV.[citation needed] The USSB and DirecTV programming services 
+were launched on June 17, 1994.[citation needed] Digital Equipment Corporation 
+provided the hardware for DirecTV, Matrixx Marketing (part of Cincinnati 
+Bell) provided customer care via the Matrixx Plus department, and DBS Systems 
+created the billing software.[citation needed] In December 1998, DirecTV 
+acquired USSB for $1.3 billion, and combined the two satellite services.[13] 
+In 1999, DirecTV acquired PrimeStar, a competitor in the satellite television 
+industry, for $1.83 billion, dramatically increasing its share of the satellite 
+television market in the US.[14] In September 1996, Hughes purchased 70% 
+of PanAmSat for $3 billion.[15] In 1997, GM spun off Delco Electronics 
+from Hughes and transferred it to Delphi Automotive Systems.[16] That same 
+year, Hughes Aircraft was sold to Raytheon for $9.5 billion.[17] Raytheon 
+filed a lawsuit in 1999 accusing Hughes of overstating the value of Hughes 
+Aircraft by $1 billion.[18] A $635.5-million settlement was reached in 
+2001.[19] In 2000, Hughes Space and Communications was sold to Boeing for 
+$3.75 billion,[20] which it later claimed had also been overvalued by Hughes. 
+Hughes later settled with Boeing for $360 million.[21] These sales left 
+DirecTV, PanAmSat and Hughes Network Systems as the remaining components 
+of Hughes Electronics. In September 2000, GM executives, under pressure 
+from GM's shareholders as a result of its poor performance and the substantially 
+greater market worth of Hughes, authorized Hughes executives to begin seeking 
+buyers.[22] In 2001, News Corporation began negotiations to acquire Hughes 
+Electronics in a deal worth $8 billion, which would allow News Corp. to 
+expand its Sky Global Networks satellite television operations into the 
+United States.[23] Negotiations with News Corp. ultimately failed, and 
+Hughes entered into an agreement on October 28, 2001 to be purchased for 
+$26 billion by EchoStar, owner of Dish Network.[24] However, the deal attracted 
+significant opposition from the Department of Justice and the Federal Communications 
+Commission for antitrust concerns, leading the two companies to withdraw 
+the agreement in December 2002.[25] As part of the merger agreement, EchoStar 
+was required to pay Hughes $600 million for the failure of the merger.[25] 
+On April 9, 2003, News Corporation agreed to purchase a 34% controlling 
+interest in Hughes, including GM's entire share of the company, for $6.6 
+billion, subject to SEC approval.[26] As part of the financing for the 
+deal, Liberty Media agreed to take a $500-million option of stock in News 
+Corporation that would be exercised upon the closing of the deal. Liberty, 
+the second-largest shareholder in News Corp. after the Murdoch family with 
+18%, had originally planned to bid for DirecTV, but opted not to upon the 
+agreement.[26] The FCC voted 3-2 along party lines on December 19, 2003 
+to approve the deal subject to conditions, forcing News Corp. to agree 
+to arbitration for all disputes with carriers of its media broadcasters, 
+and to provide content through DirecTV neutrally rather than favoring its 
+own networks.[27] In February 2004, Hughes announced its intent to focus 
+solely on its satellite television operations and divest its other interests, 
+renaming itself The DirecTV Group, Inc. on March 16, 2004 and changing 
+its ticker symbol from "HS" to "DTV".[28] In April of that year, it sold 
+its controlling interest in PanAmSat to a private consortium led by Kohlberg 
+Kravis Roberts for $3.53 billion.[29] On April 22, 2005, DirecTV spun off 
+Hughes Network Systems into a separate entity and sold 50% of the new entity 
+to SkyTerra, acquiring $157.4 million in the transaction.[30] In January 
+2006, DirecTV sold its remaining 50% share in Hughes Network Systems to 
+SkyTerra for $100 million.[31] The sale effectively ended DirecTV's 20-year 
+existence through Hughes Electronics as a technology conglomerate, leaving 
+it solely with its satellite television services. In 2004, DirecTV abandoned 
+the Mexican market, though it maintained 41% ownership of SKY México.[32] 
+On November 15, 2005, DirecTV stopped carrying Music Choice audio-only 
+channels, replacing it with 73 channels of XM Satellite Radio. In 2007, 
+DirecTV abandoned the Brazilian market, with the customers being migrated 
+to the 74% DirecTV-owned Brazilian affiliate of SKY Brasil.[32] In 2010, 
+DirecTV increased its stake in Sky Brasil to 93%. On January 9, 2007, DirecTV 
+announced they would introduce up to 100 national HD channels during 2007, 
+all of which would be MPEG-4 encoded.[33] On October 3, 2008, DirecTV announced 
+that it would offer HD local channels in 121 markets by year end.[34] In 
+December 2006, News Corporation announced its intention to transfer its 
+38.5% controlling interest in The DirecTV Group, four regional Fox Sports 
+Net stations and $550 million cash to Liberty Media in exchange for Liberty's 
+19% interest in News Corp., giving the Murdoch family tighter control of 
+the latter firm.[35] The deal, valued at $11 billion, was approved by News 
+Corp. shareholders in April 2007.[36] Following revisions that increased 
+the cash offer to $625 million in exchange for a reduction of Liberty's 
+divested interest in News Corp. to 16%, the swap was completed on February 
+27, 2008 following Federal Communications Commission (FCC) approval.[37] 
+One condition placed by the FCC on the deal was that Liberty divest either 
+its DirecTV operations or Liberty Global's cable operations in Puerto Rico, 
+which Liberty fulfilled by placing DirecTV's Puerto Rican operations in 
+a trust.[38] On May 4, 2009, Liberty announced that it would split off 
+Liberty Entertainment, Inc., a subsidiary of Liberty owning the four FSN 
+channels acquired under the swap with News Corp. and Liberty's 65% interest 
+in Game Show Network, into a separate company to be merged with The DirecTV 
+Group, reducing Liberty owner John Malone's stake in DirecTV to 24%.[39] 
+The merger was completed on November 19, 2009, with The DirecTV Group and 
+Liberty Entertainment becoming subsidiaries of a new company named DirecTV.[40] 
+On June 16, 2010, Malone exchanged his preferred stock in DirecTV with 
+equivalent amounts of common stock, reducing his voting interest in the 
+company from 24% to 3%, with Malone resigning as Chairman and ending his 
+managerial role at DirecTV.[41] On February 9, 2010, DirecTV dropped Sirius 
+XM Radio and replaced the channel lineup with Sonic Tap audio stations.[42] 
+On April 1, 2011, DirecTV announced it would be renaming its three FSN 
+channels as Root Sports, though the channels are still affiliated with 
+FSN.[43] On May 18, 2014, AT&T announced that it would purchase DirecTV.[46][47] 
+In the deal, which had been approved by boards of both companies, DirecTV 
+stockholders received $95 a share in cash and stock, valuing the deal at 
+$48.5 billion. Including assumed debt, the total purchase price was about 
+$67.1 billion. The deal was aimed at increasing AT&T's market share in 
+the pay-TV sector; its existing U-verse brand had modest market share (5.7 
+million users compared to DirecTV's 20 million US customers as of 2014) 
+and operates in only 22 states. It also gave AT&T access to fast-growing 
+Latin American markets, where DirecTV has 18 million subscribers. The deal 
+faced regulatory approval by the FCC, the U.S. Department of Justice, and 
+some Latin American governments. It was expected to take about 12 months 
+to complete.[48] The deal was also contingent on the combined company's 
+ability to renew its exclusive rights to carry the NFL Sunday Ticket service 
+beyond the 2015 NFL season on "substantially the terms discussed between 
+the parties."[49] The acquisition was officially approved by the FCC on 
+July 24, 2015; it is subject to conditions for four years, requiring AT&T 
+to expand its fiberoptic broadband service to additional customers, public 
+libraries, and schools, and to "refrain from imposing discriminatory usage-based 
+allowances or other discriminatory retail terms and conditions on its broadband 
+internet service".[50][51] At an analyst meeting in August 2015, AT&T announced 
+plans to converge DirecTV and its IPTV-based U-verse service around a common 
+"home entertainment gateway" platform based upon DirecTV hardware, with 
+"very thin hardware profiles". AT&T Entertainment and Internet Services 
+CEO John Stankey explained that the new platform would offer "single truck 
+roll installation for multiple products, live local streaming, improved 
+content portability, over-the-top integration for mobile broadband, and 
+user interface re-engineering. All of these are steps that are planned 
+to deliver that premium effortless entertainment experience anywhere."[52][53][54] 
+In September 2015, AT&T selected Ericsson to be hardware provider for the 
+new platform, and hired former Sirius XM, Cisco Systems and Microsoft executive 
+VP Enrique Rodriguez to be vice president and CTO of the AT&T Entertainment 
+and Internet Services division.[55][56] On December 2, 2015, AT&T announced 
+plans to phase out the DirecTV brand as part of the introduction of the 
+new platform, which will be marketed as AT&T Entertainment. The company 
+also adopted a new logo, replacing its previous emblem with that of AT&T.[57][58][59] 
+In February 2016, Bloomberg reported that AT&T was in the process of phasing 
+out the U-verse IPTV service by encouraging new customers to purchase DirecTV 
+satellite service instead, and by ending the production of new set-top 
+boxes for the service. An AT&T spokesperson denied that U-verse was being 
+shut down, and explained that the company was "leading its video marketing 
+approach with DirecTV" to "realize the many benefits" of the purchase, 
+but would still recommend U-verse TV if it better-suited a customer's needs. 
+at&t CFO John Stephens had also previously stated that DirecTV's larger 
+subscriber base as a national service gave the service a higher degree 
+of leverage in negotiating carriage deals, thus resulting in lower content 
+costs.[60][61][62] On October 20, 2016, it was reported that AT&T was in 
+talks to acquire Time Warner, in an effort to increase its media holdings.[63][64][65] 
+On October 22, 2016, AT&T reached a deal to buy Time Warner for over $80 
+billion. If approved by federal regulators, the merger would bring DirecTV 
+under the same umbrella as HBO, Turner Broadcasting System and the Warner 
+Bros. studio.[66][67] On March 1, 2016, AT&T announced plans for several 
+DirecTV-branded over-the-top services, including DirecTV Now—a contract-free 
+over-the-top internet television service, DirecTV Mobile—a service which 
+will offer "premium video and made for digital content" for phones, and 
+DirecTV Preview, an ad-supported service featuring content from Audience 
+Network, Otter Media, and other partners.[68][69][70] DirecTV Now will 
+launch in November 2016, and directly compete against Sling TV and PlayStation 
+Vue. AT&T CEO Randall Stephenson stated of the service that "there is a 
+huge customer base out there that we are convinced, while they don't subscribe 
+to a bundle of premium content today, at the right price point [delivered] 
+over-the-top, they will."[71] As of June 2016[update], DirecTV manages 
+a fleet of 13 satellites in geostationary orbit at positions ranging from 
+95°W to 119°W, ensuring strong coverage of the North American continent. 
+In the past, receivers were manufactured by DirecTV and other companies, 
+including Samsung Electronics, Philips, Sony Electronics, Panasonic, Mitsubishi 
+Electronics, and Toshiba. Other companies' DirecTV receivers have been 
+phased out and DirecTV now designs their own models with companies such 
+as Pace Micro Technology of Britain, LG of South Korea (which had manufactured 
+boxes under the LG and Zenith Electronics names), and Thomson of France 
+(which had previously manufactured boxes under the RCA name, GE (under 
+license), and the ProScan brand). DirecTV and TiVo announced on September 
+3, 2008, that they will work together to develop a version of the TiVo 
+service for DirecTV's broadband-enabled HD DVR platform.[72] Originally 
+scheduled to launch in the second half of 2009, it was expected to be available 
+in spring 2010 but delayed again.[73] It was finally released on December 
+6, 2011.[74] The new unit, model THR22, is now available in select markets.[75][76] 
+The THR22 DVR does not have all the features of the HR24 DVRs.[77] DirecTV 
+typically uses a fixed 18-inch-diameter (460 mm) dish antenna to receive 
+its signals. Traditionally an 18×24-inch elliptical was used; however, 
+most new installations use an 18×20-inch antenna to receive signals from 
+three geostationary satellite positions simultaneously. These systems are 
+becoming more common as DirecTV attempts to squeeze more programming onto 
+its growing systems. DTV is now installing a dish that has five LNBs for 
+HDTV programming and local channels in selected markets. These systems 
+receive signals from up to five separate satellites in both the Ku band 
+and Ka band. After the new satellite, DirecTV 11, is fully operational, 
+DirecTV will stop supplying dual, triple, and five-LNB dishes to all customers 
+and move to supplying a three-LNB Ka/Ku dish known as the Slimline3. This 
+dish will see orbital locations 99, 101, and 103 degrees West. The Slimline3 
+will be the new standard install dish (for HD and SD programming), while 
+the five-LNB Slimline will be used for installs in areas that receive local 
+or international programming from orbital locations 110 or 119. The Slimline3 
+looks nearly identical to its predecessor, aside from a smaller LNB. The 
+new DirecTV HD channels require an H20/HR20 or H21/HR21/HR22/HR23/H24/HR24 
+set top box (STB). In order to receive the new HD channels (channels added 
+after September 2007), all HD receivers except the HR23 must have a B-Band 
+converter installed. If the converter is not installed, viewers can only 
+receive older HD channels (channels 70–99). The B-Band Converter (BBC) 
+is also not required with the new Single Wire Multiswitch (SWM or SWiM) 
+system, which preselects the satellite and transponder tuning and can feed 
+up to 8 tuners via a single coaxial cable. The "HR" moniker designates 
+the receiver as a HD digital video recorder (DVR) model. Only the H20/HR20 
+support direct reception of over-the-air ATSC broadcasts. The H21/HR21/HR22/HR23/H24/HR24 
+receivers do not have a built in ATSC tuner, but the AM21 external tuner 
+is available. In addition, there is HDMI support for HDTVs with an HDMI 
+port. New STBs also support MPEG-4 standard for HD *Programming. DirecTV 
+also offers the AM21 (an ATSC add-on for the HR21), the HR21-Pro (an HD-DVR 
+with 100 hours HD or 400 hours SD recording capacity), and an online DVR 
+scheduler. AT&T's planned over-the-top service for DirecTV won't require 
+a satellite dish or a receiver to receive DirecTV programming, but simply 
+a high-speed internet connection. DirecTV Now will be available through 
+digital media player devices such as Roku, Amazon Fire TV, Chromecast, 
+and Apple TV.[68][69][70] DirecTV transmits programming with encryption 
+to mitigate signal piracy. The receiver (also known as an IRD, or "integrated 
+receiver-decoder") utilizes ISO/IEC 7816 smart cards which tell the receiver 
+how to decrypt the programming for viewing. In a continuing effort to combat 
+piracy, an access card generation is created approximately every two years, 
+superseding the old set. DirecTV is now utilizing a fifth generation of 
+access cards. DirecTV has battled with an active signal piracy underground 
+for many years. One infamous event that temporarily hampered pirates was 
+known as 'Black Sunday', which took place one week before Super Bowl Sunday 
+in 2001. Hackers saw a string of software updates starting in late 2000 
+that seemed harmless, but included code that once complete searched for 
+and destroyed 98% of hacked smart cards. Hacks continued after that event.[81][82][83] 
+Like its competitors, DirecTV offers high-definition television (HDTV) 
+and interactive services. To handle the proliferation of bandwidth-intensive 
+HDTV broadcasting, DirecTV rebroadcasts local HDTV stations using the H.264/MPEG-4 
+AVC codec while employing a newer transmission protocol (DVB-S2) over the 
+newer satellites. This allows DirecTV to squeeze much more HD programming 
+over its satellite signal than was previously feasible using the older 
+MPEG-2 compression and DSS protocol it has been using. This technology 
+will be gradually expanded to the existing satellites as customer equipment 
+is replaced with new MPEG-4-capable receivers. Receiving the channels encoded 
+in MPEG-4 requires newer receivers, such as the H20 as well as the 5-LNB 
+Ka/Ku dish. DirecTV has contracted with Britain's Pace Micro Technology, 
+Korea's LG Electronics and France's Thomson to manufacture these new receivers. 
+Pace manufactures the DirecTV Plus HD DVR (Model HR20-700, and HR21-700) 
+and LG Electronics offers the Model H20-600 receiver, while Thomson provides 
+the Model H20-100 and HR20-100 DVR receivers. DirecTV has admitted to software 
+issues with some of the H20 receivers and HR20 DVRs, which have been plagued 
+with random problems since they were released in mid-2006. DirecTV regularly 
+released software updates for the HR20 receivers, in an effort to reduce 
+issues to an acceptable level. DirecTV has phased out its original TiVo-branded 
+HD DVR, the HR10-250, which can only decode the older MPEG-2 signals. All 
+DirecTV-delivered local HDTV stations (outside of the NYC and LA network 
+stations) are encoded in MPEG-4. The HR10-250 cannot receive the MPEG-4 
+local HDTV stations in these markets but can still receive over-the-air 
+ATSC broadcasts in these markets. After a multi-year hiatus, TiVo and DirecTV 
+are developing a new TiVo enabled HD DVR that will be able to receive/decode 
+DirecTV's current MPEG-4 satellite signals. Originally slated for release 
+in the second half of 2009, it is now available in select markets.[75][76] 
+In November 2014, DirecTV became the first television provider to begin 
+offering 4K ultra-high definition content. On launch, 4K content was limited 
+to renting a small library of on-demand films, downloaded to the subscriber's 
+Genie DVR (some 4K content can also be pre-loaded automatically to the 
+set-top box via the Genie Recommends feature). The 4K service could also 
+only be used on "DirecTV 4K Ready" televisions, which support RVU protocol; 
+this was limited to selected Samsung 4K televisions released in 2014.[84] 
+In 2015, DirecTV introduced 4K Genie Mini set-top boxes, which can be connected 
+to any HDMI 2.0/HDCP 2.2-compliant devices to provide 4K video.[85] In 
+April 2016, DirecTV began live sports broadcasts in 4K to eligible subscribers, 
+including coverage from the 2016 Masters Tournament,[86][87] 25 MLB Network 
+Showcase baseball games in the 2016 season (subject to local blackout restrictions) 
+beginning April 15, 2016,[88] and all Notre Dame college football home 
+games during the 2016 season.[89] DirecTV also offers local channels like 
+CBS, ABC, NBC, Fox, PBS, The CW, Telemundo, Azteca, Univision, ION Television 
+(in markets that carry that network), and some independent stations in 
+markets covering over 99.2% of U.S. TV households.[90] In markets that 
+lack an OTA CW affiliate, DirecTV includes WKBD-TV from Detroit or XETV-TDT 
+from San Diego/Tijuana. Subscribers located where they cannot receive a 
+decent terrestrial television signal and/or live in a tiny market that 
+only has a couple of stations can receive feeds from New York and Los Angeles 
+for CBS, ABC, NBC, and Fox, as well as a feed from the Washington, D.C. 
+CW affiliate, though a waiver from the local affiliate stations may be 
+required to allow this, approved at their discretion. National PBS and 
+ION channels are also available. In the largest markets, local channels 
+are carried on the satellite at 101°W. In some smaller markets, the local 
+channels are carried on a second satellite located at 119°W which requires 
+a slightly larger dish with two or three LNBs or the newer Ka/Ku 5-LNB 
+dish. In a few smaller markets, local stations are located on a satellite 
+at 72.5°W that requires a second dish to be installed. In late 2005, DirecTV 
+began providing local HDTV channels to the largest markets, requiring newer 
+receivers with a larger dish capable of receiving signals from up to five 
+satellites at once. The Ku-band signals on the newer Ka/Ku dish are received 
+from 101°W, 110°W, and 119°W, while Ka-band signals are from 99°W and 103°W. 
+Local television channels are transmitted over optical fiber links, Ku-band 
+satellite uplink, microwave, and conventional terrestrial transmission 
+to uplink centers located throughout the United States. DirecTV can provide 
+true HD into hotels (Pro:Idiom). Cable companies have been able to provide 
+true HD to hotels for over 2 years now with the installation of private 
+video networks (FTTP to Coax conversion & Pro:Idiom) or with HFC HD video 
+distribution systems (Pro:Idiom). DirecTV's exclusive general entertainment 
+channel Audience Network has dozens of original and acquired programs, 
+most of them unedited and commercial-free. It had its own exclusive 3DTV 
+channel called n3D that launched in 2010 and shut down in 2012. DirecTV 
+serves American Airlines, Delta Air Lines, JetBlue, and United Airlines. 
+DirecTV owns regional sports networks Root Sports Pittsburgh, Root Sports 
+Northwest, Root Sports Southwest, Root Sports Rocky Mountain, and Root 
+Sports Utah (all under the umbrella of AT&T Sports Networks). It also owns 
+minority shares of Game Show Network and MLB Network. DirecTV is also the 
+exclusive U.S. rights holder to the NFL Sunday Ticket sports package. It 
+also exclusively carries the "DirecTV Experience", which includes bonus 
+coverage of men's major golf tournaments and Grand Slam tennis tournaments, 
+including live feeds not available on other networks such as CBS, NBC, 
+ESPN, Golf Channel and Tennis Channel that cover the events. DirecTV was 
+also the exclusive provider of defunct sports packages NASCAR Hot Pass 
+and Mega March Madness. Beginning in 2006, DirecTV began a series of commercials 
+in which characters from popular movies and television shows break the 
+fourth wall to tout the service's picture quality and the number of channels 
+available in high definition. Instead of using CGI the original actors 
+normally reprise their roles on recreated sets, and resulting footage is 
+mixed with the original scenes. The productions are recent and appeal to 
+DirecTV's "male-oriented marketing message."[91] These characters include 
+Captain Kirk (William Shatner, Star Trek VI: The Undiscovered Country), 
+Bill Harding (Bill Paxton, Twister), The Economics Teacher (Ben Stein, 
+Ferris Bueller's Day Off), Dr. Emmett Brown (Christopher Lloyd, Back to 
+the Future), Burton Guster (Dulé Hill, Psych), C.J. Parker (Pamela Anderson, 
+Baywatch), Rick "Wild Thing" Vaughn (Charlie Sheen, Major League), Beyoncé 
+(Upgrade U music video), Nadia (Shannon Elizabeth, American Pie), Turtle 
+(Jerry Ferrara, Entourage), Ellen Ripley (Sigourney Weaver, Aliens), Steve 
+Freeling (Craig T. Nelson, Poltergeist), Annie Wilkes (Kathy Bates, Misery), 
+Mini-Me (Verne Troyer, Austin Powers In Goldmember), The Girl in the Ferrari 
+(Christie Brinkley, National Lampoon's Vacation), Daisy Duke (Jessica Simpson, 
+The Dukes of Hazzard), T-1000 (Robert Patrick, Terminator 2: Judgment Day), 
+Ann Darrow (Naomi Watts, King Kong), Hellboy (Ron Perlman, Hellboy), Richard 
+Hayden (David Spade, Tommy Boy), The Black Eyed Peas (Meet Me Halfway music 
+video), Christina Aguilera (Keeps Gettin' Better music video) and Honey 
+Hornee (Kim Basinger, Wayne's World 2). Also in this series of commercials 
+were Peyton Manning, Eli Manning, and Archie Manning promoting NFL Sunday 
+Ticket, and Dale Earnhardt, Jr. promoting NASCAR Hot Pass. Cartoon characters 
+have also been used in the ads, beginning with Scooby-Doo and the Mystery, 
+Inc. gang. Recent commercials have also featured model Hannah Davis and 
+a "talking" horse. DirecTV during that time also ran series of ads that 
+takes shots at cable television's service (or lack of service). Beginning 
+in March 2010, they did a spoof of the classic game show To Tell The Truth 
+with Alex Trebek hosting the show. The series of commercials both pays 
+homage to the Goodson-Todman game show, and take shots at both cable and 
+DirecTV's archrival Dish Network, who later sued for false advertising. 
+Another series of commercials, promoting the 2010 NFL Sunday Ticket package 
+of all-football programming, featured neighbors committing uncivil acts 
+to neighbors who watched the "wrong" football team. One spot had a woman 
+leaving a snack platter for a neighbor on which the food spelled out "DIRT 
+BAG"; another showed a dog trashing a neighbor's property; yet another 
+showed an on-duty policeman knocking on a DirecTV customer's door, stunning 
+him with a taser and leaving him passed out in his open doorway. In August 
+2011, Deion Sanders began appearing in DirecTV's ads for NFL Sunday Ticket, 
+urging people to switch from cable. These ads originally claimed NFL Sunday 
+Ticket is now "free" for new customers for one year with a subscription 
+to their Premiere package and a two-year contract. In response, on August 
+4, 2011, Comcast sued DirecTV for false advertising.[92] Comcast dropped 
+the case on August 19, 2011 after DirecTV altered the ads to remove the 
+word "free", changing it to "at no extra charge".[93] The DirecTV blimp 
+named "lefty" was launched in October 2007 at the MLB World Series in Boston 
+and has been seen all over the United States since its inception. The blimp 
+flies mainly over live sporting events but has also been seen at other 
+entertainment and charitable venues. This second generation A-170LS Video 
+Lightsign Lightship features the state of the art video screen that displays 
+full color video images day or night. This lightsign, the only one of its 
+kind in the world, is used to display messaging and advertising for DirecTV. 
+The blimp has been recently spotted on Twitter as followers track the journeys 
+of the blimp from one event to another. The airship is owned and operated 
+by The Lightship Group, an advertising company based in Orlando, FL.[94] 
+DirecTV was awarded a J.D. Power award for residential cable and satellite 
+TV customer satisfaction in 2007.[95] DirecTV's customer service is provided 
+by many third-party owned call centers both inside and outside the United 
+States. Most of the call centers are contracted to provide agents to answer 
+customer phone calls regarding programming, billing, or technical questions. 
+As of November 2012[update], DirecTV does not offer a 30-day grace period 
+for those who wish to try the service. "If you do not fulfill your Programming 
+Agreements, DirecTV may charge a pro-rated fee of up to $480."[96] In August 
+2008, The Boston Globe reported that DirecTV received 20,000 complaints 
+in less than three years to the Better Business Bureau on DirecTV slipping 
+in cancellation fees.[97] In August 2010, the BBB reported that it had 
+received 39,000 complaints against DirecTV in the previous 3 years, and 
+the BBB gave it an F (failing) grade. Many of the complaints concerned 
+DirecTV's early termination fees, billing and service issues.[98] As of 
+June 2013[update], the Better Business Bureau has no rating for DirecTV,[99] 
+though this may be related to problems internal to the BBB.[100] On December 
+14, 2009 the Washington Attorney General's office filed a civil complaint 
+against DirecTV seeking injunctive and other relief. The complaint was 
+filed in the public interest when the Attorney General's office determined 
+after a one-year investigation by its Consumer Protection Division, that 
+the company allegedly engaged in numerous repeated violations of the state’s 
+Consumer Protection Act. The complaint alleged unfair or deceptive practices 
+which include, but are not limited to The Attorney General’s Office asked 
+the court to compel DirecTV to change its business practices, impose civil 
+penalties and provide restitution for consumers. The case was settled in 
+December 2010, with DirecTV agreeing to pay over $1 million, and to correct 
+many of its business practices.[101] 47 other states joined in a similar 
+suit, the settlement of which required the company to pay over $13 million.[102] 
+In September 2008, consumers filed a class action lawsuit with the Los 
+Angeles Superior Court to stop DirecTV's practice of charging early cancellation 
+penalties to subscribers. The lawsuit claims that DirecTV fails to disclose 
+the penalty to new customers or to existing customers who replace their 
+equipment or add a new receiver, and that these practices are unlawful. 
+In September 2009, a motion for a preliminary injunction was filed to block 
+the company from automatically removing the fees from customers’ bank accounts 
+or charging their credit card accounts without their prior knowledge and 
+written consent until the lawsuit is resolved.[103] In December 2005 the 
+U.S. Federal Trade Commission imposed a $5.3 million penalty on DirecTV 
+for its violations of federal telemarketing regulations. It was the largest 
+civil penalty the FTC had ever announced in a case enforcing any consumer 
+protection law.[104] On March 11, 2015, the U.S. Federal Trade Commission 
+filed a lawsuit against DirecTV for deceptive advertising. The FTC claims 
+the following: On January 19, 2016, the Secretary of Environment of Bogotá, 
+sanctioned DirecTV's Colombian subsidiary, Directv Colombia Ltda., with 
+a sum of $118 million for placing advertisement without the proper permission 
+from the city.[106] The company violated Decree 959, of the year 2000, 
+that regulates where companies can place public publicity. 1More than 400,000 
+television service subscribers. 1 – Still in operation, but no longer offers 

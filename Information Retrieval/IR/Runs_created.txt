@@ -1,0 +1,62 @@
+Runs created (RC) is a baseball statistic invented by Bill James to estimate 
+the number of runs a hitter contributes to his team. James explains in 
+his book, The Bill James Historical Baseball Abstract, why he believes 
+runs created is an essential thing to measure: With regard to an offensive 
+player, the first key question is how many runs have resulted from what 
+he has done with the bat and on the basepaths. Willie McCovey hit .270 
+in his career, with 353 doubles, 46 triples, 521 home runs and 1,345 walks 
+-- but his job was not to hit doubles, nor to hit singles, nor to hit triples, 
+nor to draw walks or even hit home runs, but rather to put runs on the 
+scoreboard. How many runs resulted from all of these things?[1] Runs created 
+attempts to answer this bedrock question. The conceptual framework of the 
+"runs created" stat is: R C = A × B C {\displaystyle RC={\frac {A\;\times 
+\;B}{C}}} where In the most basic runs created formula: R C = ( H + B B 
+) × T B A B + B B {\displaystyle RC={\frac {(H+BB)\times TB}{AB+BB}}} where 
+H is hits, BB is base on balls, TB is total bases and AB is at-bats. This 
+can also be expressed as where OBP is on-base percentage, SLG is slugging 
+average, AB is at-bats and TB is total bases. This formula expands on the 
+basic formula by accounting for a player's basestealing ability. R C = 
+( H + B B − C S ) × ( T B + ( .55 × S B ) ) A B + B B {\displaystyle RC={\frac 
+{(H+BB-CS)\times (TB+(.55\times SB))}{AB+BB}}} where H is hits, BB is base 
+on balls, CS is caught stealing, TB is total bases, SB is stolen bases, 
+and AB is at bats. This formula accounts for all basic, easily available 
+offensive statistics. R C = ( H + B B − C S + H B P − G I D P ) × ( T B 
++ ( .26 × ( B B − I B B + H B P ) ) + ( .52 × ( S H + S F + S B ) ) ) A 
+B + B B + H B P + S H + S F {\displaystyle RC={\frac {(H+BB-CS+HBP-GIDP)\times 
+(TB+(.26\times (BB-IBB+HBP))+(.52\times (SH+SF+SB)))}{AB+BB+HBP+SH+SF}}} 
+where H is hits, BB is base on balls, CS is caught stealing, HBP is hit 
+by pitch, GIDP is grounded into double play, TB is total bases, IBB is 
+intentional base on balls, SH is sacrifice hit, SF is sacrifice fly, SB 
+is stolen base, and AB is at bats. Earlier versions of runs created overestimated 
+the number of runs created by players with extremely high A and B factors 
+(on-base and slugging), such as Babe Ruth, Ted Williams and Barry Bonds. 
+This is because these formulas placed a player in an offensive context 
+of players equal to himself; it is as if the player is assumed to be on 
+base for himself when he hits home runs. Of course, this is impossible, 
+and in reality, a great player is interacting with offensive players whose 
+contributions are inferior to his. The 2002 version corrects this by placing 
+the player in the context of his real-life team. This 2002 version also 
+takes into account performance in "clutch" situations. where K is strikeout. 
+The initial individual runs created estimate is then: R C = ( ( 2.4 C + 
+A ) ( 3 C + B ) 9 C ) − .9 C {\displaystyle RC=\left({\frac {(2.4C+A)\;(3C+B)}{9C}}\right)-.9C} 
+If situational hitting information is available, the following should be 
+added to the above total: H R I S P − ( A B R I S P × B A ) + H R R O B 
+− A B R O B × H R A B {\displaystyle H_{RISP}-(AB_{RISP}\times BA)+HR_{ROB}-{\frac 
+{AB_{ROB}\times HR}{AB}}} where RISP is runners in scoring position, BA 
+is batting average, HR is home run, and ROB is runners on base. The subscripts 
+indicate the required condition for the formula. For example, H R I S P 
+{\displaystyle H_{RISP}} means "hits while runners are in scoring position." 
+This is then figured for every member of the team, and an estimate of total 
+team runs scored is added up. The actual total of team runs scored is then 
+divided by the estimated total team runs scored, yielding a ratio of real 
+to estimated team runs scored. The above individual runs created estimate 
+is then multiplied by this ratio, to yield a runs created estimate for 
+the individual.[2] The same information provided by runs created can be 
+expressed as a rate stat, rather than a raw number of runs contributed. 
+This is usually expressed as runs created per some number of outs, e.g. 
+R C 27 {\displaystyle {\frac {RC}{27}}} (27 of course being the number 
+of outs per team in a standard 9-inning baseball game). Runs created is 
+believed to be an accurate measure of an individual's offensive contribution 
+because when used on whole teams, the formula normally closely approximates 
+how many runs the team actually scores. Even the basic version of runs 
+created usually predicts a team's run total within a 5% margin of error.[3] 

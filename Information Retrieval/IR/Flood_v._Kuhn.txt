@@ -1,0 +1,266 @@
+Flood v. Kuhn, 407 U.S. 258 (1972), was a United States Supreme Court decision 
+upholding, by a 5–3 margin, the antitrust exemption first granted to Major 
+League Baseball (MLB) in Federal Baseball Club v. National League. It arose 
+from a challenge by St. Louis Cardinals' outfielder Curt Flood when he 
+refused to be traded to the Philadelphia Phillies after the 1969 season. 
+He sought injunctive relief from the reserve clause, which prevented him 
+from negotiating with another team for a year after his contract expired. 
+Named as initial respondents were baseball commissioner Bowie Kuhn, MLB 
+and all of its then-24 member clubs. Although the Court ruled in baseball's 
+favor 5–3, it admitted the original grounds for the antitrust exemption 
+were tenuous at best, that baseball was indeed interstate commerce for 
+purposes of the act and the exemption was an "anomaly"[1] it had explicitly 
+refused to extend to other professional sports or entertainment. That admission 
+set in motion events which ultimately led to an arbitrator's ruling nullifying 
+the reserve clause and opening the door for free agency in baseball and 
+other sports. The opinion has been criticized in several ways. It is seen 
+by some as an overly strict and reflexive reliance on the legal doctrine 
+of stare decisis[2] that made an earlier mistake "uncorrectable".[3] Even 
+the text of the decision itself, mainly a seven-page introductory encomium 
+to the game and its history by Justice Harry Blackmun that included a lengthy 
+listing of baseball greats, came in for criticism.[4] Some of the other 
+justices, and Court observers, felt it was inappropriate for a judicial 
+opinion. At the time of his later retirement and death, Blackmun would 
+be remembered for it as much as Roe v. Wade.[5] The reserve clause had 
+been part of baseball contracts since the game's early days. The National 
+League had begun using it in the late 19th century; the American League 
+began using it in 1903 as part of the truce between the two that created 
+MLB.[6] Team owners realized that if players could go from team to team 
+seeking higher pay, salaries of all players, not just stars, would go up. 
+They feared some teams might have to fold under such competitive pressure, 
+and included the reserve clause, so called since a team reserved rights 
+to a player for a year after the contract expired, to limit free agency. 
+Such collusion in other industries had been ruled to be restraint of trade 
+in violation of the Sherman Antitrust Act. Players had two options to resist 
+it and become free agents. They could ask to be released from their contracts 
+(which they rarely were), or hold out and refuse to report until the year 
+was up, forfeiting their pay in the process. While star players were able 
+to exercise some leverage this way, most who held out were often traded 
+to other teams and wound up making less money. A suit was brought in the 
+1920s, Federal Baseball Club v. National League (259 U.S. 200 (1922)), 
+by the owner of the defunct Baltimore Terrapins Federal League team who 
+accused the major leagues of conspiring to crush MLB's one remaining competitor. 
+Instead, Justice Oliver Wendell Holmes ruled that baseball, the only professional 
+team sport in the country at the time enjoying wide interest, was exempt 
+since it was not interstate commerce and teams' travel to games in other 
+states was merely "incidental" to MLB's main business, the staging of baseball 
+games. Although the reserve clause was not part of the case, the exemption 
+meant that the Supreme Court or Congress would have had to say otherwise 
+before it could be legally voided.[7] Two possible challenges in the early 
+1950s failed. Former New York Giants outfielder Danny Gardella sued after 
+baseball teams blacklisted him following his brief stint in the Mexican 
+League. An appeals court overturned an initial verdict for baseball, and 
+commissioner Happy Chandler decided to settle rather than risk the overturning 
+of Federal Baseball Club.[8] Shortly afterwards, George Earl Toolson, a 
+pitcher in the New York Yankees' farm system, refused to report to a new 
+minor league team when sent down. The ensuing decision, Toolson v. New 
+York Yankees (346 U.S. 356 (1953)), let the exemption stand citing lack 
+of congressional interest in repealing it.[9] Justices Harold Hitz Burton 
+and Stanley Forman Reed dissented, saying baseball as it was then played 
+met the definition of interstate commerce.[10] A few years later, when 
+the Court declined to extend the antitrust exemption to professional football 
+in Radovich v. National Football League (352 U.S. 445 (1957)), it raised 
+some hopes that another challenge to might succeed when it admitted "were 
+we considering the question of baseball for the first time upon a clean 
+slate we would have no doubts" that it was interstate commerce.[11] 1971's 
+Haywood v. National Basketball Association (401 U.S. 1204 (1971)), an emergency 
+appeal issued by Justice William O. Douglas, similarly denied that exemption 
+to professional basketball and noted "the decision in this suit would be 
+similar to the one on baseball's reserve clause which our decisions exempting 
+baseball from the antitrust laws have foreclosed".[12] In 1969, Rick Barry 
+of the NBA's San Francisco Warriors became the first major-league professional 
+athlete to challenge the reserve clause in court. He wanted to play for 
+the Oakland Oaks of the rival American Basketball Association (ABA), since 
+his father-in-law was the team's coach. His challenge was unsuccessful, 
+but after sitting out a year he signed with the Oaks anyway, the first 
+NBA star to change leagues during the rivalry between them.[13] In 1956, 
+at the age of 18, Flood had, without an agent or attorney to represent 
+or advise him, signed his first professional baseball contract with the 
+Cincinnati Reds. Two years later he was traded to the St. Louis Cardinals 
+and became one of the team's stars. He batted .300 in six of the next 12 
+seasons, earned seven Gold Glove awards (including one for an error-free 
+1966 season), and played in three World Series, two of which the Cardinals 
+won.[14] In October 1969, after the season had ended, Flood, then one of 
+the Cardinals' captains, learned from a reporter[citation needed] that 
+he had been traded to the Philadelphia Phillies along with, and for, several 
+other players. He had not been consulted about this beforehand, and did 
+not want to play for the poorly performing Phillies in Philadelphia before 
+fans the African-American Flood believed were racist. Like many players, 
+he had long chafed at the reserve clause,[15] and wrote to Kuhn shortly 
+before Christmas asking to be declared a free agent: "I do not feel I am 
+a piece of property to be bought and sold irrespective of my wishes", he 
+said. "I believe I have the right to consider offers from other clubs before 
+making any decision." Kuhn denied the request, reminding Flood he was contractually 
+obligated to play for the Phillies. In January 1970, Flood brought suit 
+in New York, where MLB was headquartered, seeking $1 million in damages 
+and injunctive relief from the reserve clause, which his legal arguments 
+controversially compared to slavery. He sat out that year's baseball season, 
+foregoing $100,000 in salary, and signed with the Washington Senators for 
+more money in 1971, only to leave the team early in the season when he 
+was not playing well. He never played again.[16] The Major League Baseball 
+Players Association's team representatives voted unanimously to support 
+Flood.[17] His motion for a preliminary injunction was denied, with Judge 
+Irving Ben Cooper of the Southern District of New York citing the sport's 
+cultural importance in American life: "The game is on higher ground; it 
+behooves every one to keep it there."[18] He allowed Flood an early trial, 
+which took place in May and June of that year. No active-duty players testified 
+on his behalf, but his witnesses included Jackie Robinson, Hank Greenberg 
+and maverick owner Bill Veeck. Baseball's lawyers argued the clause was 
+essential to maintain the sport. Cooper ultimately ruled for Major League 
+Baseball, stating that "the preponderance of credible proof does not favor 
+elimination of the reserve clause." Even Flood's witnesses, he noted, had 
+been ambivalent, regarding some version of it as beneficial to the sport.[19] 
+Flood appealed the case to the Second Circuit, which affirmed Cooper's 
+decision on the basis of Federal Baseball.[20] Judge Leonard P. Moore added 
+that he thought it unlikely the Supreme Court would overturn that decision.[21] 
+The court granted certiorari later that year.[22] Former justice Arthur 
+Goldberg returned to argue Flood's case before some of his former colleagues. 
+Kuhn, a onetime star litigator, considered arguing the case himself, but 
+ultimately deferred to Paul Porter and Louis Hoynes.[23] At oral arguments 
+on March 20, 1972, Goldberg reiterated Flood's arguments about the harm 
+done to players by the reserve system. Baseball's lawyers responded to 
+them, but primarily invoked the game's place in American culture and the 
+greater good done it by the reserve system. Justice Lewis Powell recused 
+himself from the case because he owned stock in Anheuser-Busch, which owned 
+the Cardinals. By a 5–3 margin, the Court upheld the Federal Baseball and 
+Toolson precedents. One justice, William O. Douglas, who had been part 
+of the majority in the latter case, dissented this time and expressed his 
+regret. Even Harry Blackmun's majority opinion conceded that baseball was 
+as much interstate commerce as the other professional sports to which the 
+Court had refused to extend the antitrust exemption. Blackmun began the 
+opinion with Section I, "The Game", a prologue recounting the history of 
+baseball, concluding with a detailed litany of events and finally the names 
+of 83 legendary players from the late 19th to mid-20th centuries, beginning 
+with Ty Cobb and Babe Ruth and ending with Jimmie Foxx and Lefty Grove. 
+"The list seems endless", Blackmun wrote. In its entirety Section I takes 
+up four pages of the United States Reports.[24] In the footnotes, he quoted 
+poetry by Ernest Thayer on "Casey at the Bat" and allowed of his list: 
+"These are names only from earlier years. By mentioning some, one risks 
+unintended omission of others equally celebrated."[25] After two further 
+sections recounting the facts of the case, the lower courts' decisions 
+and the Court's previous jurisprudence, Blackmun considered the legal issues 
+at hand. He noted that the Federal Baseball court had not been persuaded 
+by other case law at the time ruling that traveling vaudeville companies 
+were engaged in interstate commerce and that other companies use of the 
+mail and rail shipments had so qualified. Federal Baseball had also been 
+cited as precedent in later cases without complaint.[26] In later cases, 
+brought in the 1950s involving other organized sports and similar activities, 
+the Court had refused to exempt them and noted, as it did when asked to 
+end baseball's exemption outright in Toolson, Congress's relative inactivity 
+on the issue. Since then, Blackmun said, there had been some bills, but 
+all intended to extend the exemption to other sports and none to repeal 
+it entirely. "In view of all this", he began section V, "it seems appropriate 
+now to say that: Professional baseball is a business and engaged in interstate 
+commerce". Invoking Radovich, he admitted that "the slate is not clean. 
+Indeed it has not been clean for half a century." The antitrust exemption 
+created in Federal Baseball and upheld in Toolson was "an aberration confined 
+to baseball". Nevertheless, there seemed to be little desire to end or 
+weaken it, and given the problems he thought a judicial turnabout would 
+cause for baseball, he cited the legal doctrine of stare decisis in upholding 
+the previous rulings, saying "Under these circumstances, there is merit 
+in consistency even though some might claim that beneath that consistency 
+is a layer of inconsistency."[27] Justice Byron White signed the opinion, 
+but noted he did not concur in Part I. "I concur in all but Part I", noted 
+Chief Justice Warren Burger, as well. He did, however, say in his short 
+concurring opinion that he felt Toolson had been wrongly decided and agreed 
+with some other points William O. Douglas made in his dissent.[28] Douglas 
+called Federal Baseball a "derelict in the stream of law that we, its creator, 
+should remove. Only a romantic view of a rather dismal business account 
+over the last 50 years would keep that derelict in midstream." He had come 
+to regret having joined the majority in Toolson.[29] He invoked three of 
+the names on Blackmun's list as he agreed with Flood that the reserve clause 
+unlawfully benefited the owners at players' expense: Baseball is today 
+big business that is packaged with beer, with broadcasting, and with other 
+industries. The beneficiaries of the Federal Baseball Club decision are 
+not the Babe Ruths, Ty Cobbs, and Lou Gehrigs. The owners, whose records 
+many say reveal a proclivity for predatory practices, do not come to us 
+with equities. The equities are with the victims of the reserve clause. 
+I use the word "victims" in the Sherman Act sense, since a contract which 
+forbids anyone to practice his calling is commonly called an unreasonable 
+restraint of trade.[29] If a case challenging the antitrust exemption were 
+coming before the Court for the first time, he said, he had no doubt he 
+and his brother justices would have ruled differently. "The unbroken silence 
+of Congress should not prevent us from correcting our own mistakes", he 
+concluded.[29] William Brennan joined his opinion. Brennan also joined 
+Thurgood Marshall's dissent, a longer review of the case in which he came 
+to the same conclusions as Douglas, expressed in more measured language: 
+Has Congress acquiesced in our decisions in Federal Baseball Club and Toolson? 
+I think not. Had the Court been consistent and treated all sports in the 
+same way baseball was treated, Congress might have become concerned enough 
+to take action. But, the Court was inconsistent, and baseball was isolated 
+and distinguished from all other sports. In Toolson the Court refused to 
+act because Congress had been silent. But the Court may have read too much 
+into this legislative inaction.Americans love baseball as they love all 
+sports. Perhaps we become so enamored of athletics that we assume that 
+they are foremost in the minds of legislators as well as fans. We must 
+not forget, however, that there are only some 600 major league baseball 
+players. Whatever muscle they might have been able to muster by combining 
+forces with other athletes has been greatly impaired by the manner in which 
+this Court has isolated them. It is this Court that has made them impotent, 
+and this Court should correct its error ... Baseball should be covered 
+by the antitrust laws beginning with this case and henceforth, unless Congress 
+decides otherwise.[30] Major League Baseball and its owners praised the 
+decision, as did many of their supporters in the media. The players and 
+some of their supporters, such as sportswriter Red Smith, criticized it. 
+In legal circles, Blackmun's homage to baseball was criticized and ridiculed. 
+The decision is often remembered today as paving the way for free agency 
+in baseball. However, it did so, according to Bill James, only by showing 
+them they could not rely on the Courts to strike down the antitrust exemption 
+and the reserve clause along with it.[31] But the effort by a player of 
+Flood's stature did galvanize the players, and according to Marvin Miller 
+it made the general public aware of the reserve clause.[32] Labor law proved 
+a more fruitful opportunity for the invalidating of the reserve clause. 
+The next year the National Labor Relations Board voted that baseball came 
+under its jurisdiction, and that led to the Seitz decision three years 
+later that Andy Messersmith and Dave McNally were free agents after they 
+had played out a year without signing new contracts. That event is considered 
+the true beginning of baseball free agency. Neither Congress nor any court 
+has completely overturned baseball's antitrust exemption. Some bills that 
+would do so were named the Curt Flood Act in his honor and later, memory. 
+In 1998, President Bill Clinton signed one into law making baseball's employment 
+practices subject to antitrust law,[33] a largely moot point since by then 
+free agency was well established (minor league players, however, remain 
+bound to their parent clubs[4]). Flood himself was remembered as much for 
+this case as for his playing career when he died in 1997. He has not been 
+inducted into the Hall of Fame despite his accomplished career and effect 
+on the game.[34] Legal commentators have criticized the decision as not 
+just a mistake but a compounding of the earlier mistake made in Federal 
+Baseball and continued in Toolson. According to antitrust expert Kevin 
+McDonald of Jones Day, Flood v. Kuhn is a "principle of antitrust law that 
+is (1) indefensible as a matter of fact or policy, and (2) an embarrassment 
+to the Court."[35] Holmes' original decision has been misread by both later 
+cases to imply a divination of congressional intent to exclude baseball 
+and a prescription for congressional action to remedy that, he argues: 
+"Just as Toolson blamed Holmes for a problem (an express statutory exemption) 
+that he did not create, Flood blamed him for insisting on a solution (Congressional 
+action) that he did not mention."[36] Yale law professor William Eskridge, 
+a harsh critic of the decision, has called it "the most frequently criticized 
+example of excessively strict stare decisis."[2] It is often counterpointed 
+to the Court's decision in the 1940 trust case Helvering v. Hallock,[37] 
+where Justice Felix Frankfurter explicitly rejected the idea, embraced 
+by Blackmun in Flood, that the Court should consider congressional inaction 
+as a tacit statement of acquiescence with one of its existing holdings, 
+however questionable they may have seemed.[38] Eskridge notes that there 
+are many reasons besides express lack of intent that would forestall Congressional 
+action to remedy a flawed Court decision.[39] Even years after his death, 
+Blackmun's paean to the game was still criticized as "rambling and syrupy"[40] 
+and "juvenile".[4] Roger Ian Abrams at Northeastern University School of 
+Law, who found that Blackmun had likely used Lawrence Ritter's 1966 book 
+The Glory of Their Times as his primary source,[6] showed how the careers 
+of many of the players he listed had been impacted, often adversely, by 
+the reserve system.[41] Blackmun himself acknowledged in 1987, that his 
+colleagues on the Court had, as Burger and Douglas's opinions suggest, 
+seen it as "beneath the dignity of the Court". But he expressed no regrets,[42] 
+save the discovery by his clerks that, after the decision had issued, he 
+had forgotten Mel Ott. In his personal copy of the decision he penciled 
+Ott's name in.[43] Condemnation has not been universal. One commentator 
+has defended it as a "trace of resistance to the hyperrationality of contemporary 
+legal discourse".[44] "If Flood is seen, however, as a decision grounded 
+in a desire to adopt sound legal rules for sports leagues, Part I makes 
+eminent sense", says Illinois law professor Stephen F. Ross. He goes on 
+to read the decision as doing exactly that, countering critics who charge 
+it with being an overly strict application of stare decisis by showing 
+how Blackmun and the other majority justices could reasonably, at that 
+time, have been convinced that "contemporary antitrust doctrines would 
+condemn many arrangements among owners that are arguably essential to baseball".[45] 
+Flynn, Neil F. – "Baseball's Reserve System: The Case and Trial of Curt 

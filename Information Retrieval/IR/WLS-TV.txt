@@ -1,0 +1,258 @@
+WLS-TV, virtual channel 7 (UHF digital channel 44), is an ABC owned-and-operated 
+television station located in Chicago, Illinois, United States. The station 
+is owned by the ABC Owned Television Stations subsidiary of The Walt Disney 
+Company. WLS-TV maintains studio facilities located on North State Street 
+in the Chicago Loop, and its transmitter is located atop the Willis Tower 
+on South Wacker Drive. The station first signed on the air on September 
+17, 1948 as WENR-TV. It was the third television station to sign on in 
+the Chicago market (behind WGN-TV (channel 9), which debuted six months 
+earlier in April, and WBKB (channel 4, now WBBM-TV on channel 2), which 
+signed on in September 1946). As one of the original ABC-owned stations 
+on channel 7, it was the second station to begin operations, after WJZ-TV 
+(now WABC-TV) in New York City (its sister stations in Detroit, San Francisco 
+and Los Angeles signed on within a year of WENR's launch). The station's 
+original call letters were taken from co-owned radio station WENR (890 
+AM), which served as an affiliate of the ABC Radio Network (WENR would 
+eventually merge with WLS-AM, with which it shared a frequency under a 
+time-sharing arrangement until ABC purchased a 50% interest in WLS in 1954). 
+In February 1953, ABC merged with United Paramount Theatres (UPT), the 
+former theater division of Paramount Pictures. UPT subsidiary Balaban and 
+Katz owned WBKB (which shared a CBS affiliation with WGN-TV). The newly 
+merged American Broadcasting-Paramount Theatres, as the company was known 
+then, could not keep both stations because of Federal Communications Commission 
+(FCC) regulations then enforced that forbade the common ownership of two 
+television stations licensed to the same market. As a result, WBKB's channel 
+4 license was sold to CBS, which subsequently changed that station's call 
+letters to WBBM-TV; that outlet would move to VHF channel 2 several months 
+later on July 5, 1953. The old WBKB's on-air and behind-the-scenes staff 
+stayed at the new WBBM-TV, while the WBKB call letters and management moved 
+to channel 7 (from 1965 to 1968, a "-TV" suffix was included in the station's 
+calls, modifying it to WBKB-TV). Sterling "Red" Quinlan served as the station's 
+general manager from the early 1950s to the mid-1960s,[1] and became a 
+giant in early Chicago television. Quinlan was instrumental in starting 
+the careers of Tom Duggan, Frank Reynolds and Bob Newhart. The station 
+courageously aired The Tom Duggan Show in the mid-1950s, which became the 
+most popular show in the Chicago market, far outdrawing other network competition. 
+Channel 7 had its call letters changed to WLS-TV on October 7, 1968,[2] 
+named after WLS Radio (890 AM), which ABC had wholly owned since 1959 when 
+the network bought the 50% interest it did not already hold in the station 
+from Sears, Roebuck and Company.[3] Ironically, ABC merged WLS with WENR, 
+its shared-time partner, in 1954.[4] WLS-TV had claimed to be "Chicago's 
+first television station" in its sign-ons during the 1980s (implying a 
+connection with the original WBKB on channel 4), but admitted to its true 
+roots with WENR with its 30th anniversary in 1978.[5][6] On January 17, 
+1984, WLS-TV launched Tele1st, an ABC-owned overnight subscription television 
+service that carried a mix of films and lifestyle programs for four hours 
+per night six days a week after the station's sign-off at 2:00 a.m.; the 
+service was similar in format to competitor ONTV (which was carried locally 
+on WSNS-TV, channel 44) and other over-the-air pay services that existed 
+during the early and mid-1980s.[7][8] Tele1st was created with the concept 
+of allowing users to record programming for later viewing; therefore, its 
+decoder boxes were designed to unencrypt the signal only with the aid of 
+a VCR. Scrambling codes that were sent to the box and relayed to the VCR 
+were changed on a monthly basis, requiring subscribers to record additional 
+footage airing immediately before and after that night's schedule to retrieve 
+codes to play back the recorded programs properly; this resulted in any 
+recordings being viewable only during that calendar month. Tele1st was 
+deemed a failure, attributing only 4,000 subscribers at its peak, and ceased 
+operations on June 30, 1984.[9] The station's digital channel is multiplexed: 
+Prior to February 24, 2011, WLS-DT3 aired ABC 7 News Now with weather programming 
+from The Local AccuWeather Channel. The ABC O&Os discontinued their Local 
+AccuWeather channels in February 2011, replacing its programming with a 
+letterboxed standard-definition simulcast of their Live Well subchannels; 
+however, the partnership between ABC and AccuWeather continues to this 
+day as the branding for the stations' weather reports. WLS-TV shut down 
+its analog signal, over VHF channel 7, on June 12, 2009, the official date 
+in which full-power television stations in the United States transitioned 
+from analog to digital broadcasts under federal mandate. The station's 
+digital signal relocated from its pre-transition UHF channel 52, which 
+was among the high band UHF channels (52-69) that were removed from broadcasting 
+use as a result of the transition, to its analog-era VHF channel 7 for 
+post-transition operations.[11] WLS operated its digital signal at low 
+power (4.75 kW) to protect the digital signal of WOOD-TV in Grand Rapids, 
+Michigan (which also broadcasts on channel 7, but at a much higher radiated 
+power). As a result, many viewers were not able to receive the station.[12] 
+The FCC sent extra personnel to Chicago, Philadelphia and New York City 
+to deal with difficulties in those cities. WLS had received 1,735 calls 
+just by the end of the day on June 12 (WBBM only received 600), and an 
+estimated 5,000 calls in total by June 16. WLS-TV was just one station 
+which needed to increase its signal strength or move its frequency to solve 
+its problems, but a power increase required making sure no other stations 
+were affected.[13] WLS received a two-week experimental permit for a power 
+increase late in June.[14] WLS had also applied for a permit to construct 
+a low-power fill-in digital translator station on UHF channel 32 (the former 
+analog frequency of WFLD),[15] but abandoned that plan (the channel 32 
+RF frequency has since been claimed by WMEU-CD). Eventually the FCC granted 
+it a permit to transmit on a second frequency, UHF channel 44,[16] formerly 
+occupied by WSNS-TV; WLS announced the availability of that frequency on 
+October 31, 2009.[17] Throughout construction of the new maximized transmitting 
+facilities at the Willis Tower, WLS operated both channels 7 and 44 from 
+its auxiliary facilities at the John Hancock Center under an STA.[18] WLS 
+operated channel 7 as a fill-in translator with a power of 7 kW,[19] and 
+operating their full power operations on channel 44 with a power of 1 MW.[20] 
+Through the use of PSIP technology, both operating frequencies were re-mapped 
+and displayed as virtual channel 7, which would cause some digital tuners 
+to have two versions of virtual channels 7.1, 7.2 and 7.3, while tuning 
+sequentially. In October 2012, WLS-TV completed construction from the Willis 
+Tower and its operating channel 44 at the 1 million watt power level.[21] 
+The station continued its dual-frequency operations until 12:03 p.m. on 
+March 18, 2013 when WLS-TV formally ceased operations on VHF channel 7, 
+leaving UHF channel 44 as its permanent allotment.[22] Since WLS-TV officially 
+moved its full-power operations to channel 44, it is the only ABC-owned 
+station to vacate its former analog allotment for its digital operations 
+and the second ABC O&O to operate its full-power operations on the UHF 
+band, after Fresno sister station KFSN-TV. WLS-TV airs the entire ABC network 
+schedule; however, it currently airs the Litton's Weekend Adventure educational 
+programming block and the network's political/news discussion program This 
+Week one hour later than most ABC stations due to its weekend morning newscasts. 
+Syndicated programs broadcast on WLS-TV (as of September 2016[update]) 
+include Live! with Kelly (Produced by sister station WABC), Inside Edition, 
+Right This Minute, Jeopardy! and Wheel of Fortune (which is hosted by Chicago 
+native Pat Sajak).[23] WLS-TV serves as the local over-the-air broadcaster 
+of Monday Night Football games involving the Chicago Bears, airing simulcasts 
+of the team's ESPN-televised games (WLS-TV's corporate parent, the The 
+Walt Disney Company, holds 80% majority ownership stake in ESPN, and the 
+ABC Owned Television Stations have right of first refusal for simulcasts 
+of ESPN's NFL telecasts within a team's home market). Because of this, 
+atypical for a network-owned station outside of breaking news and severe 
+weather coverage necessitating such situations, the station has had to 
+reschedule ABC network programs pre-empted by the telecasts. The preseason 
+and MNF telecasts mark the only NFL games to have aired on WLS-TV since 
+ABC lost the rights to NFL games in 2006; during the regular season, Bears 
+games are rotated between WBBM-TV (through the NFL on CBS), WMAQ-TV (through 
+NBC Sunday Night Football) and especially WFLD (through the NFL on Fox 
+and select telecasts via the NFL Network's Thursday Night Football). Since 
+2010, however, it has deferred the right of first refusal due to the popularity 
+and live voting requirements of ABC's Dancing with the Stars, with WCIU-TV 
+carrying the MNF games when the former program's fall season is ongoing 
+(an exception being WLS' carriage of an MNF Bears game against the Dallas 
+Cowboys on December 9, 2013, when the team honored former head coach Mike 
+Ditka). On December 12, 2014, WLS-TV signed a new five-year broadcast agreement 
+with the Chicago Cubs, in which WLS will televise 25 of the Major League 
+Baseball team's games per year, starting with the 2015 season. The arrangement 
+partially replaces one with WGN-TV (which has broadcast Cubs games since 
+its inception in April 1948), which voluntarily pulled out of its existing 
+broadcast deal with the team for the 2015 season and subsequently agreed 
+to carry a reduced slate of 45 games (the remainder of the Cubs' over-the-air 
+telecasts not carried by either WLS-TV or WGN-TV are carried by The CW 
+affiliated/MyNetworkTV owned-and-operated station WPWR-TV (channel 50), 
+which airs those produced by WGN). As ABC has a limited sports programming 
+schedule during the Major League Baseball season prior to September (when 
+the MLB regular season and college football season overlap), the station 
+mainly carries the team's weekend daytime games in order to limit pre-emptions 
+of the network's prime time programming.[33][34][35][36] WLS-TV presently 
+broadcasts 36 hours of locally produced newscasts each week (with five 
+hours on weekdays and five and a half hours each on Saturdays and Sundays). 
+In addition, it also presently produces an additional five hours of newscasts 
+each week for WCIU-TV (consisting of one hour exclusively on weekdays). 
+Combining the newscasts airing on the station's main channel and those 
+it produces for WCIU through its news share agreement with that station, 
+WLS-TV produces a total of 41 hours of newscasts each week. In 1969, WLS-TV 
+adopted the Eyewitness News format that the other ABC owned-and-operated 
+stations began implementing in the late 1960s, after the news format was 
+popularized when it originated at New York City flagship WABC-TV. Beginning 
+in 1968, the station's main evening newscasts were co-anchored by Fahey 
+Flynn, a bowtie-wearing broadcaster who had spent the previous 15 years 
+at WBBM-TV; and Joel Daly, who was hired away by WLS from WJW-TV in Cleveland 
+in 1967. The duo served as the anchors of the station's 6:00 and 10:00 p.m. 
+newscasts until Flynn's death in August 1983. In 1970, the two were joined 
+by John Drury, who helmed the 5:00 p.m. newscast. By 1973, WLS' Eyewitness 
+News broadcasts surpassed NBC-owned WMAQ-TV (channel 5)'s newscasts to 
+become Chicago's top-rated news operation, a lead it held until WBBM-TV 
+surpassed channel 7 for the top spot in 1979. For much of the 1970s and 
+1980s, it waged a spirited battle for second place in the Chicago news 
+ratings between its two main competitors. By 1983, a disastrous anchor 
+change had dropped channel 7 into third place. This prompted two major 
+changes to the station's management; ABC brought in Dennis Swanson from 
+WLS-TV's Los Angeles sister station KABC-TV to serve as the station's new 
+general manager. Swanson, in turn, hired Bill Applegate as the station's 
+news director. In addition, ABC commissioned Frank Gari to compose an updated 
+version of the Cool Hand Luke "Tar Sequence" theme widely associated with 
+the Eyewitness News format. The result was News Series 2000, a theme package 
+that was quickly picked up by the other ABC O&Os. Swanson was instrumental 
+in hiring Oprah Winfrey to host its then low-rated morning talk show, AM 
+Chicago, in 1983. Within a year, the program had shot to first place in 
+the ratings. AM Chicago entered into national syndication in 1986 and was 
+renamed The Oprah Winfrey Show. Channel 7 aired it, along with most of 
+ABC's other owned-and-operated stations, until September 2011. Swanson 
+also re-hired lead anchor John Drury, who had left for WGN-TV in 1979; 
+and Floyd Kalber, who had led WMAQ-TV to the top of the ratings in the 
+1960s. Drury and Mary Ann Childers were a popular anchor team at WLS-TV 
+during the 1980s and 1990s, accompanied by weather anchor Steve Deshler 
+and sports anchor Tim Weigel. In March 1986, channel 7 passed WBBM-TV as 
+the highest-rated news station in Chicago. It has held the lead ever since, 
+aside from a brief period when WBBM-TV managed to forge a tie for first 
+in the late 1980s. In 1992, the station replaced the News Series 2000 package 
+(as the other ABC O&Os did over the following year, due partly to increased 
+royalties for use of the Cool Hand Luke theme and its variants by the original 
+theme's composer, Lalo Schifrin) with a new news music package, also produced 
+by Gari, called News Series 2000 Plus (since renamed Stimulus), which has 
+remained in use by WLS ever since and was updated in 2013. In 1996, WLS-TV 
+dropped the Eyewitness News brand after 26 years, in favor of the network-centric 
+ABC 7 News; the move was part of a standard branding effort imposed by 
+ABC across its owned-and-operated stations which saw the incorporation 
+of the ABC name into their local brands[37] (most of the other ABC O&Os 
+retained their existing news branding, as sister stations such as WABC-TV 
+and WPVI-TV in Philadelphia retained their Eyewitness News or Action News 
+identities). WLS-TV officially debuted a new street-side studio at its 
+North State Street facility on April 10, 2006, during the station's morning 
+newscast, although the station had begun broadcasting its newscasts from 
+that studio two days earlier on April 8.[38] On the weekend of April 29–30, 
+2006, WLS-TV upgraded its news helicopter with a high definition camera, 
+rebranding it as "Chopper 7 HD." On January 6, 2007, WLS-TV became the 
+first Chicago television station to broadcast its all of its local programming 
+– including newscasts – in high definition, although most remote field 
+footage remained in 16:9 widescreen standard definition at the time. Since 
+then, WLS-TV upgraded most of its field footage to HD, although some field 
+reports remain in widescreen SD. On December 23, 2007, a Mazda minivan 
+drove through a reinforced studio window at the State Street Studio two 
+minutes into the 10:00 p.m. newscast, startling anchor Ravi Baichwal on 
+air and creating a 20° draft as the glass shattered upon the car's impact; 
+no one was injured in the crash. Evanston resident Gerald Richardson was 
+subsequently charged with felony damage to property for the incident.[39][40][41][42] 
+On November 11, 2012, WLS-TV expanded its Sunday 8:00 a.m. newscast from 
+1½ to two hours, leading into ABC's This Week.[43] The 8:00 a.m. portion 
+of the Saturday morning newscast was expanded to two hours from 8:00 to 
+10:00 a.m. on August 24, 2013. Nearly a week later on August 30, WLS-TV 
+discontinued its hour-long weekday 11:00 a.m. newscast (which originated 
+in 1992 as a half-hour program at 11:30, before it expanded into an earlier, 
+one-hour broadcast on October 6, 2003 following the cancellation of Port 
+Charles) after 21 years, and replaced it on September 2 with Windy City 
+Live, whose original 9:00 a.m. slot became occupied by Live! with Kelly 
+and Michael when it moved to WLS from WGN-TV on that date (as such, it 
+became the first – and currently, the only – ABC owned-and-operated station 
+without a midday newscast). With the move and the midday newscast's cancellation, 
+news and weather cut-ins were incorporated into Windy City Live.[44][45] 
+On October 26, 2013, WLS-TV reintroduced the Eyewitness News brand (as 
+ABC 7 Eyewitness News), as part of an overall rebranding of its newscasts 
+that included new graphics and a modernized update to the Stimulus theme. 
+In an interview with media columnist Robert Feder, WLS-TV president/general 
+manager John Idler cited the reasoning behind the restoration of the Eyewitness 
+News brand, was that it "[still] resonated strongly with [viewers in] the 
+Chicago market," despite being dropped by the station 17 years earlier.[37] 
+On November 2, 2013, WLS expanded the early block of its weekend morning 
+newscasts, with the extension of its hour-long 6:00 a.m. newscast on Saturdays 
+and Sundays to two hours at 5:00 a.m.[46] On December 14, 2014, WLS-TV 
+entered into a news share agreement with independent station WCIU-TV (channel 
+26) to produce a weeknight-only 7:00 p.m. newscast titled ABC 7 Eyewitness 
+News at 7:00 on The U; the program debuted on January 12, 2015, and is 
+the fifth newscast produced by ABC O&O for a separately owned station in 
+the station's home market (along with existing programs produced by sister 
+stations in Raleigh, Philadelphia, San Francisco and Los Angeles for WLFL, 
+WPHL-TV, KOFY-TV and KDOC-TV in the respective markets, and a since-cancelled 
+newscast produced by KFSN-TV for KAIL in Fresno).[47][48] On June 27, 2016, 
+WLS-TV revived its 11:00 a.m. newscasts for the first time since 2013, 
+becoming the fourth television station in Chicago to do so; which completes 
+against with WMAQ-TV (who reviving its midday newscasts in September 2011 
+and moved to the time period in September 2014), WBBM-TV (who began airing 
+a half-hour 11:00 a.m. newscasts in early 2000s), and WGN-TV (who began 
+its midday newscasts in 1984; followed by some expansions in September 
+2008 and October 2009). In June 2016 after several years of unsuccessful 
+syndicated talk show replacements for the cancelled All My Children (including 
+Katie and FABLife), the station moved General Hospital to 2 p.m., then 
+Windy City Live to 1:00 p.m. to accommodate the 11 a.m. newscast, with 
+a replay of the latter late night after Nightline.[31] According to the 
+Nielsen local news ratings for the February 2011 sweeps period, WLS-TV 
+remained in first place overall, with the 10 p.m. newscast getting a 9.7 
+rating share, down a tenth of a point from a 9.8 during the same time the 
+previous year.[49] The station remained in second place for its prime-time 

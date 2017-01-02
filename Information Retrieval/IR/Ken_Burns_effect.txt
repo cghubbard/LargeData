@@ -1,0 +1,71 @@
+The Ken Burns effect is a type of panning and zooming effect used in video 
+production from still imagery. The name derives from extensive use of the 
+technique by American documentarian Ken Burns. The technique predates his 
+use of it, but his name has become associated with the effect in much the 
+same way as Alfred Hitchcock is associated with the dolly zoom.[citation 
+needed] The feature enables a widely used technique of embedding still 
+photographs in motion pictures, displayed with slow zooming and panning 
+effects, and fading transitions between frames. The technique is principally 
+used when film or video material is not available. Action is given to still 
+photographs by slowly zooming in on subjects of interest and panning from 
+one subject to another. For example, in a photograph of a baseball team, 
+one might slowly pan across the faces of the players and come to a rest 
+on the player the narrator is discussing. By employing simulated parallax, 
+a two-dimensional image can appear as 3D, with the viewpoint seeming to 
+enter the picture and move among the figures.[1] The effect can be used 
+as a transition between clips as well. For example, to segue from one person 
+in the story to another, a clip might open with a close-up of one person 
+in a photo, then zoom out so that another person in the photo becomes visible. 
+The zooming and panning across photographs gives the feeling of motion, 
+and keeps the viewer visually engaged. Burns has credited documentary filmmaker 
+Jerome Liebling for teaching him how still photographs could be incorporated 
+into documentary films.[2] He has also cited the 1957 National Film Board 
+of Canada documentary City of Gold, co-directed by Colin Low and Wolf Koenig, 
+as a source of inspiration for this technique.[3][4][5] Winner of the Palme 
+d'or at the Cannes Film Festival and nominated for an Academy Award,[6] 
+City of Gold used animation camera techniques to slowly pan and zoom across 
+archival still pictures of Canada's Klondike Gold Rush.[7] In film editing, 
+the technique may be achieved through the use of a rostrum camera, although 
+today it is more common to use software. Non-linear editing systems such 
+as iMovie and Openshot for Linux include an effect or transition called 
+Ken Burns Effect, with which a still image may be incorporated into a film 
+using this kind of slow pan and zoom. Final Cut Pro,[8] Apple TV and Apple's 
+iMovie video editing program include a photo slideshow option labelled 
+"Ken Burns Effect".[2] On the Windows platform, 4K Slideshow Maker by 4KDownload, 
+AVS Video Editor, Windows Movie Maker, Pinnacle Studio, Serif MoviePlus, 
+Sony Vegas Studio (and Movie), Ulead VideoStudio, Adobe Premiere, PicturesToExe 
+also have pan and zoom features built in or available through third party 
+extensions which may be used to achieve the effect. Microsoft Photo Story 
+is a free application that creates videos with both random and customiseable 
+Ken Burns Effects automatically from selected images. ProShow Gold/Producer 
+from Photodex is a favorite application by still photographers that uses 
+this effect to great measure. Another free multiplatform Ken Burns effect 
+application is PhotoFilmStrip. On the Mac platform, Final Cut Pro, Final 
+Cut Express, iMovie, Adobe Premiere, and others also have the ability. 
+Particularly, Adobe and Apple products (excluding iMovie) allow the user 
+to set keyframes to further customize the process. The effect is found 
+in a great number of screensavers and slideshows. Apple uses it in their 
+screensavers. Windows PCs can use Greg Stitt's "MotionPicture" and Gregg 
+Tavares's "Nostalgic", among others. The effect can also be seen in the 
+N73 smartphone by Nokia, applied to the slideshows the phone creates from 
+the pictures stored in it.[9] Many seventh-generation video game consoles 
+also feature versions of this effect, including Nintendo's Wii Photo Channel, 
+Sony's PlayStation 3 and within the Last.fm app for Xbox 360. Outside of 
+screensavers and slide shows, the effect is also found in some video games. 
+Steve Jobs contacted Burns to obtain the filmmaker's permission to use 
+the term "Ken Burns Effect" for Apple's video production software (the 
+description had been Apple's internal working title while the feature was 
+in development). Burns initially declined, saying that he didn't allow 
+his name to be used for commercial purposes. Instead, Burns had Jobs give 
+him "some equipment which we give to nonprofits" in exchange for permission 
+to use the term in Apple products.[10] In February 2014, Burns stated in 
+his AMA on Reddit that Steve Jobs "asked my permission. I said yes. And 
+six billion saved wedding, bar mitzvahs, vacation slideshows later, it's 
+still going. But our attempt to wake the dead relies on a much more nuanced 
+and complicated relationship to the photograph (the DNA of storytelling), 
+as well as the soundtrack."[11] Burns says that on occasion, strangers 
+will stop him on the street to enthusiastically describe how they use the 
+Ken Burns Effect on their Apple software or ask him questions. Burns, who 
+writes his speeches longhand and calls himself a Luddite, claims he doesn't 
+really understand what these Apple users are telling him (despite the inherent 
+technical sophistication required in modern documentary film making) and 

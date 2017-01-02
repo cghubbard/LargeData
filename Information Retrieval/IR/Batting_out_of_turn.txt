@@ -1,0 +1,124 @@
+In baseball, batting out of turn or batting out of order refers to an event 
+in which a batter makes a plate appearance out of sequence from the batting 
+order specified in the lineup card submitted by the manager to the home 
+plate umpire before the start of the game. The initial batting order is 
+a list of the nine position players selected by the manager to play that 
+game, indicating the sequence in which they will bat and the position to 
+which they have been assigned for the game. During the game, batters make 
+a plate appearance in the order specified by the batting order, repeating 
+the sequence once the ninth batter has made a plate appearance. Occasionally, 
+one or more batters may bat in the incorrect order. In Major League Baseball, 
+this violates rule 6.01(a) of the Official Baseball Rules. Batting out 
+of turn is ignored by rule unless a member of the defensive team notifies 
+the umpire that an infraction has occurred. Once the umpire is notified, 
+he enforces the rule based on the batting order he had received. At any 
+time, the proper batter is simply the player whose name follows the previous 
+actual batter in the written batting order (at the start of the game, the 
+#1 hitter is the proper batter, and in subsequent innings, the leadoff 
+proper batter is the one who follows the last batter to complete a plate 
+appearance in the last previous inning). Any batter's out-of-turn but completed 
+plate appearance is legalized when a pitch is thrown to any subsequent 
+batter on either team. Thus, in order to determine who is the proper batter 
+at any given time, it is necessary only to consider the last two batters 
+who have received a pitch—the last proper or legalized batter and the batter 
+whose action will be nullified if found improper. When an improper batter 
+is legalized by a pitch to a subsequent batter, the written order does 
+not change. The proper batter is then the next batter in the written order 
+just after the newly legalized improper batter, even if this causes one 
+or more batters to be skipped. (If the proper batter is on base—a situation 
+that can happen due to his being a previous improper batter, now legalized—he 
+is skipped and the batting order goes to the next name on it.) Because 
+the umpire and official scorer are not to comment on the batting order 
+(outside of ruling on an appeal), the teams need to be vigilant about following 
+the written order. If an infraction is discovered immediately after a batter 
+completes his appearance, then the umpire considers that batter and the 
+previous one. If the batter who just finished batting does not follow the 
+previous batter in the written order, his plate appearance was improper, 
+any advances or scores due to his action are nullified, he is removed from 
+the bases if he reached, and the proper batter is called out. If batting 
+out of turn is appealed, the entire play is nullified under Official Baseball 
+Rule 6.07 and MiLB Umpire Manual 4.3. Any runners who advanced on the play 
+would be returned to the base they occupied at the time of the pitch. However, 
+an advance on a stolen base or wild pitch is not a result of the batter's 
+illegal action, and would stand. If the improper batter hits into a double 
+play, in which he was put out as well as another runner, the defense can 
+still appeal that he was the improper batter. If this is the case, the 
+proper batter is declared out, the other runner called out on the double 
+play is returned to the base he occupied at the time of the pitch, and 
+the batter that follows the proper batter who was declared out will come 
+to the plate. Under high school (NFHS) rules, any additional outs recorded 
+on the play stand - the other out on the play would not be nullified, and 
+the defense could still benefit from the double play. If the infraction 
+is discovered during a plate appearance (that is, a pitch has been thrown 
+to the current batter), then the umpire considers the current batter and 
+the previous one. If the current batter's name does not follow the previous 
+actual batter's name in the written order, the current batter is improper. 
+There is no penalty, but the situation is rectified — the proper batter 
+comes to bat and assumes the improper batter's current count. In this situation, 
+if the proper batter is on base, then he is simply skipped in the order, 
+and the next batter in the order is now the proper batter. In this situation 
+under high school (NFHS) rules, the proper batter is brought in off the 
+bases, assumes his proper at bat, and a courtesy runner (the last batted 
+out) takes his place on the bases. Suppose the batting order is: Abel, 
+Baker, Charles, Daniel, Edward, Frank, George, Hooker, Irwin. Abel bats 
+and is put out. Charles then bats out of turn. Charles makes a safe hit, 
+reaching first base. Before any pitch is thrown to the next batter, a member 
+of the defensive team asks the umpire to make a ruling. RULING: The proper 
+batter after Abel was Baker, not Charles. Baker is called out for failing 
+to bat in his turn, and Charles is removed from base and comes to bat again, 
+because he is now the proper batter. For instance, on July 6, 2013, San 
+Francisco Giants manager Bruce Bochy submitted a lineup to the umpires 
+with Gregor Blanco leading off, Marco Scutaro batting second, Pablo Sandoval 
+batting third and Buster Posey hitting cleanup. After Blanco got on base 
+and Scutaro made out, Posey improperly stepped to the plate and hit an 
+RBI double to right field, scoring Blanco from third base. However, Los 
+Angeles Dodgers manager Don Mattingly immediately appealed to plate umpire 
+Tony Randazzo for a ruling and after discussion amongst the umpires, Sandoval 
+was declared out for failing to bat in his turn, Blanco was sent back to 
+3rd base, and Posey, who was removed from the basepaths, came to bat again 
+because he was now the proper batter. This time around, Posey flew out 
+to end the inning, leaving Blanco stranded.[1] Abel bats and is put out. 
+Charles then bats out of turn. Charles makes a safe hit, reaching first 
+base. Baker then comes to bat. A strike is pitched to Baker. A member of 
+the defensive team then asks the umpire to make a ruling regarding the 
+improper batting order. RULING: The first pitch to Baker made Charles's 
+turn legal. The proper batter after Charles is Daniel, not Baker. Without 
+penalty, Daniel comes to bat (replacing Baker) and assumes that one-strike 
+count. Abel bats and is put out. Edward then bats out of turn. Edward reaches 
+first base, and Charles then comes to bat and reaches base. The infraction 
+is discovered by the defensive manager before a pitch is thrown to any 
+subsequent batter, and it is reported to the umpire at that time. RULING: 
+Edward did bat out of turn, but the first pitch to Charles legalized Edward's 
+plate appearance. Therefore, the proper batter after Edward is Frank, so 
+Charles is removed from the bases, Edward is returned to first base, Frank 
+is called out for failing to bat in his proper turn, and George is now 
+the proper batter. Suppose that Charles often bats second but was written 
+as the third batter for this game. Abel bats and is put out. Charles then 
+bats out of turn and makes a safe hit, reaching first base. Baker then 
+bats out of turn and receives a base on balls, advancing Charles to second 
+base. Edward then comes to bat and takes a strike. The defense then appeals 
+to the umpire. RULING: The first pitch to Edward legalized Baker's turn 
+at bat. The proper batter after Baker is Charles, but he is on base, so 
+he is skipped in the order; thus Daniel is now the proper batter. Because 
+Edward's plate appearance had not yet finished, there is no penalty; Daniel 
+comes to bat (replacing Edward) and assumes the one strike Edward received. 
+In this example, you will notice that the umpire ignores the fact that 
+Charles previously batted out of turn. This underscores the principle that 
+any pitch legalizes all previous turns at bat. Charles's turn at bat became 
+legal when a pitch was thrown to Baker. The umpire needs to consider only 
+Baker and Edward, the last two batters who have received a pitch. When 
+a substitute enters the game, he takes the written spot of the player whom 
+he replaces. Suppose that George bats and is put out, then a pinch hitter, 
+Stephen, comes to bat. Stephen (a) reports that he is batting for Irwin, 
+or (b) doesn't report. Stephen hits safely and reaches first base. Hooker 
+then comes to bat and hits safely, advancing Stephen. The defense appeals 
+to the umpire that batter was out of turn. RULING: In (a), Stephen's name 
+replaces Irwin in the batting order. The first pitch to Hooker legalized 
+Stephen's turn at bat. The proper batter after Stephen is Abel. Thus Hooker 
+is removed from the bases for being an improper batter; Stephen returns 
+to first base; Abel is called out for failing to bat in turn, and the proper 
+batter is now Baker. In (b), since Stephen did not report as a substitute, 
+he legally enters the game in the place of the proper batter. Stephen's 
+name thus replaces Hooker in the order, and Hooker is out of the game. 
+Since Hooker was no longer in the game when he came to bat, he was an illegal 
+substitute and not a batter out of turn. The penalty for this infraction 

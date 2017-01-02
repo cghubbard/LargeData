@@ -1,0 +1,44 @@
+In baseball, a quality start is a statistic for a starting pitcher defined 
+as a game in which the pitcher completes at least six innings and permits 
+no more than three earned runs. The quality start was developed by sportswriter 
+John Lowe in 1985 while writing for the Philadelphia Inquirer.[1] ESPN.com 
+terms a loss suffered by a pitcher in a quality start as a tough loss and 
+a win earned by a pitcher in a non-quality start a cheap win.[2] Nolan 
+Ryan has used the term "High Quality Start" for games where the pitcher 
+goes seven innings or more and allows three earned runs or less.[3] As 
+of the end of the 2014 Major League Baseball (MLB) season, the highest 
+"quality start" percentage for a given season in the live-ball era (post-1920) 
+was recorded by Greg Maddux, who had 24 of them in 25 games in 1994. Dwight 
+Gooden was 33-for-35 in 1985. Since 1921, and through the 2014 MLB season, 
+the overall leaders by percentage (min. 100 starts): An early criticism 
+of the statistic, made by Moss Klein, writing in The Sporting News, is 
+that a pitcher could conceivably meet the minimum requirements for a quality 
+start and record a 4.50 ERA, seen as undesirable at the time. Bill James 
+addressed this in his 1987 Baseball Abstract, saying the hypothetical example 
+(a pitcher going exactly 6 innings and allowing exactly 3 runs) was extremely 
+rare amongst starts recorded as quality starts, and that he doubted any 
+pitchers had an ERA over 3.20 in their quality starts. This was later confirmed 
+through computer analysis of all quality starts recorded from 1984 to 1991, 
+which found that the average ERA in quality starts during that time period 
+was 1.91.[4] Another criticism against the statistic is that it is not 
+beneficial for pitchers who pitch many innings per start. If a pitcher 
+allows three earned runs in six innings, he gets a quality start with an 
+ERA of 4.50 for that game. But if a pitcher pitches for nine innings and 
+allows four earned runs, he would have a 4.00 ERA, but would not get a 
+quality start. Former pitcher Carl Erskine said "in my day, a quality start 
+was a complete game ... you gave everybody a day's rest."[5] That the category 
+is more reliable in the aggregate can be seen with countervailing individual 
+examples, such as the ones listed by Sports Illustrated writer Joe Posnanski 
+in a 2011 piece on the subject: Due to the reasons listed above, some have 
+proposed a possible change in the criteria for a quality start. One of 
+the proposals include that for every two innings pitched, the starter is 
+allowed to give up one earned run, and as long as he pitches five innings, 
+a quality start would be recorded. This criteria would give Randy Johnson 
+and Gaylord Perry listed in the above examples quality starts. This criteria 
+would still allow a pitcher to have a 4.50 ERA and earn a quality start, 
+but would better represent a quality start. Dayn Perry of CBS Sports has 
+introduced what he calls the "Dominant Start".[7] This stat would award 
+a pitcher with a Dominant Start if they go at least eight innings, and 
+give up no more than one run, earned or unearned. This stat means that 
+if a pitcher pitches a complete game and gives up two unearned runs, he 
+would not get a Dominant Start. Perry argues that this stat would better 

@@ -1,0 +1,45 @@
+The contact play is a base running play in the sport of baseball. It usually 
+refers to a runner on third base breaking for home (but occasionally refers 
+to a runner at second base breaking for third). Similar to the safety-squeeze 
+play, the runner at third breaks for home as soon as he sees that the batted 
+ball is on a downward plane for a ground ball. If there is a runner at 
+second base, he will also break for third if the batted ball is on the 
+first base side of second. The play can backfire if the ball is hit directly 
+at the third baseman or the pitcher as a putout will naturally be made 
+at home plate to prevent the run from scoring. In this situation, the baserunner 
+may freeze and return to third. At this point the runner at third's objective 
+changes from scoring to getting in a rundown in order to provide an opportunity 
+for the batter to end up at second base. The main advantage to breaking 
+for home on contact is that it reduces the amount of time an infielder 
+will have to make a play at home and, thus, increases the likelihood of 
+the runner scoring. A secondary advantage is that the possibility of a 
+contact play will often cause the defensive infielders to "play in," meaning 
+closer to home plate, giving them less time to react to a hit ball and 
+a greater likelihood of not being able to field it cleanly. The contact 
+play is normally used when there is one out. With no outs, it is generally 
+considered best not to risk being thrown out at home, since there will 
+still be two more opportunities for later batters to drive in the runner. 
+The only exception is when there is also a runner at first, since any ball 
+fielded quickly enough to throw out the runner trying to score is also 
+likely to be an easy double play ball, and the team has a much higher run 
+expectation that inning if the result of the play is an out at home and 
+runners on first and second than if the result is two outs and a runner 
+at third. With two outs, all runners on base automatically break on contact, 
+since there is no point in staying at their base while the fielder gets 
+the final out of the inning by throwing to first base. Most students of 
+Sabermetrics believe the contact play is proper strategy whenever there 
+is a man on third and one out, since the loss from failure is tiny. Using 
+standard tables of run expectation based on the number of outs and runners 
+on base (such as Sabremetrics 101: Run Expectancy Matrix, 1999–2002), the 
+difference between having a runner on third with two outs (the usual result 
+of not using the contact play on a typical ground ball out) and having 
+a runner on second with two outs (the usual result of using the contact 
+play and having the breaking runner caught in a rundown) is only 0.043 
+runs. When the contact play scores a runner who otherwise would still be 
+at third while an out is recorded at first, the net gain is 0.730. Put 
+another way, even if the contact play failed 16 times for every one time 
+it succeeded, it would improve a team's run scoring overall. Even that 
+understates the advantage, since the need for the defense to play in often 
+results in both the runner scoring and the batter reaching base safely, 
+in which case the net benefit is 1.186 runs, which means that it could 
+fail 27 times as often as it helped and still benefit the team overall. 

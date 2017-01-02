@@ -1,0 +1,65 @@
+A cricket field consists of a large grassy ground on which the game of 
+cricket is played; this is ostensibly an oval though most cricket grounds 
+would more accurately be described either as a convex set or as a convex 
+polygon with an infinite number of sides. Cricket grounds can be almost 
+perfectly circular, elongated ovals or entirely irregular shapes with little 
+or no symmetry – but they will have entirely curved boundaries, almost 
+without exception. There are no fixed dimensions for the field but its 
+diameter usually varies between 450 feet (137 m) and 500 feet (150 m). 
+Cricket is unusual among major sports (along with Golf, Australian rules 
+football and baseball) in that there is no official rule for a fixed-shape 
+ground for professional games. On most grounds, a rope demarcates the perimeter 
+of the field and is known as the boundary. Within the boundary and generally 
+as close to the centre as possible will be the square which is an area 
+of carefully prepared grass upon which cricket pitches can be prepared 
+and marked for matches. The ICC Standard Playing Conditions define the 
+minimum and maximum size of the playing surface for international matches. 
+Law 19.1 of ICC Test match Playing Conditions states: "The playing area 
+shall be a minimum of 150 yards (137.16 metres) from boundary to boundary 
+square of the pitch, with the shorter of the two square boundaries being 
+a minimum 65 yards (59.43 metres). The straight boundary at both ends of 
+the pitch shall be a minimum of 70 yards (64.00 metres), measured from 
+the centre of the pitch to be used. In all cases the aim shall be to provide 
+the largest playing area, subject to no boundary exceeding 90 yards (82.29 
+meters) from the centre of the pitch to be used. "[1] In addition, the 
+conditions require a minimum three-yard gap between the "rope" and the 
+surrounding fencing or advertising boards. This allow players to dive without 
+risk of injury. The conditions contain a grandfather clause, which exempts 
+stadiums built before October 2007. However, most stadiums which regularly 
+host international games easily meet the minimum dimensions. It is worth 
+noting that based on these guidelines, a cricket field must have at least 
+16,000 square yards ((150+3+3)/2*(70+70+3+3-22/2)/2*pi) of grass area. 
+A more realistic Test match stadium would have more than 20,000 square 
+yards of grass (having a straight boundary of about 80m).[2] In contrast 
+an association football field needs only about 9,000 square yards of grass, 
+and an Olympic stadium would contain 13,500 square yards of grass within 
+its 400m running track, making it impossible to play international cricket 
+matches unless the stadium was specifically built for cricket. Nevertheless, 
+Stadium Australia which hosted the Sydney Olympics in 2000 had its running 
+track turfed over with 30,000 seats removed to make it possible to play 
+cricket there, at a cost of A$80 million.[3] This is one of the reasons 
+cricket games generally cannot be hosted outside the traditional cricket-playing 
+countries, and a few non-Test nations like Canada, the UAE and Kenya that 
+have built Test standard stadiums. Most of the action takes place in the 
+centre of this ground, on a rectangular clay strip usually with short grass 
+called the pitch. The pitch measures 22 yards (20 m) long. At each end 
+of the pitch three upright wooden stakes, called the stumps, are hammered 
+into the ground. Two wooden crosspieces, known as the bails, sit in grooves 
+atop the stumps, linking each to its neighbour. Each set of three stumps 
+and two bails is collectively known as a wicket. One end of the pitch is 
+designated the batting end where the batsman stands and the other is designated 
+the bowling end where the bowler runs in to bowl. The area of the field 
+on the side of the line joining the wickets where the batsman holds his 
+bat (the right-hand side for a right-handed batsman, the left for a left-hander) 
+is known as the off side, the other as the leg side or on side. Lines drawn 
+or painted on the pitch are known as creases. Creases are used to adjudicate 
+the dismissals of batsmen and to determine whether a delivery is fair. 
+For a one-innings match played over a set number of fair deliveries, there 
+are two additional field markings. A painted oval is made by drawing a 
+semicircle of 30 yards (27.4 m) radius from the centre of each wicket with 
+respect to the breadth of the pitch and joining them with lines parallel, 
+30 yards (27.4 m) to the length of the pitch. This line, commonly known 
+as the circle, divides the field into an infield and outfield. Two circles 
+of radius 15 yards (13.7 m), centred at middle stump guard on the popping 
+crease and often marked by dots, define the close-infield. The infield, 
+outfield, and the close-infield are used to enforce fielding restrictions. 

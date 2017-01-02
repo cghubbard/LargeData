@@ -1,0 +1,469 @@
+Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease 
+and motor neurone disease (MND), is a specific disease that causes the 
+death of neurons which control voluntary muscles.[1][2][3] Some also use 
+the term "motor neuron disease" for a group of conditions of which ALS 
+is the most common.[4] ALS is characterized by stiff muscles, muscle twitching, 
+and gradually worsening weakness due to muscles decreasing in size.[4] 
+This results in difficulty in speaking, swallowing, and eventually breathing.[2][4] 
+The cause is not known in 90% to 95% of cases.[1] About 5–10% of cases 
+are inherited from a person's parents.[5] About half of these genetic cases 
+are due to one of two specific genes. The diagnosis is based on a person's 
+signs and symptoms with testing done to rule out other potential causes.[1] 
+No cure for ALS is known.[1] A medication called riluzole may extend life 
+by about two to three months.[6] Non-invasive ventilation may result in 
+both improved quality and length of life.[7] The disease usually starts 
+around the age of 60 and in inherited cases around the age of 50.[5] The 
+average survival from onset to death is two to four years.[8] About 10% 
+survive longer than 10 years.[1] Most die from respiratory failure. In 
+much of the world, rates of ALS are unknown.[5] In Europe and the United 
+States the disease affects about two people per 100,000 per year.[5][9] 
+Descriptions of the disease date back to at least 1824 by Charles Bell.[10] 
+In 1869, the connection between the symptoms and the underlying neurological 
+problems was first described by Jean-Martin Charcot, who in 1874 began 
+using the term amyotrophic lateral sclerosis.[10] It became well known 
+in the United States in the 20th century when in 1939 it affected the baseball 
+player Lou Gehrig and later worldwide when physicist Stephen Hawking, diagnosed 
+in 1963 and expected to die within two years, became famous.[11][12] In 
+2014 videos of the ice bucket challenge went viral on the Internet and 
+increased public awareness.[13] ALS is a motor neuron disease, also spelled 
+"motor neurone disease" which is a group of neurological disorders that 
+selectively affect motor neurons, the cells that control voluntary muscles 
+of the body, including amyotrophic lateral sclerosis (ALS), primary lateral 
+sclerosis, progressive muscular atrophy, progressive bulbar palsy, pseudobulbar 
+palsy, and spinal muscular atrophy.[4] ALS itself can be classified a few 
+different ways - by how fast the disease progresses (slow vs fast progressors), 
+by whether it is inherited or sporadic, and by where it starts.[1] Most 
+commonly (~70% of the time) the limbs are affected first - in this case 
+neurons in the brain (upper motor neurons) and in the spinal cord (lower 
+motor neurons) are dying and this form is called "limb onset". In about 
+25% of cases, muscles in the face, mouth, and throat are affected first 
+because motor neurons in the part of the brain stem called the Medulla 
+oblongata (formerly called the "bulb") start to die first along with lower 
+motor neurons - this form is called "bulbar onset". In about 5% of cases 
+muscles in the trunk of the body are affected first. In all cases the disease 
+spreads and affects other regions.[5] The disorder causes muscle weakness 
+and atrophy throughout the body due to the degeneration of the upper and 
+lower motor neurons. Individuals affected by the disorder may ultimately 
+lose the ability to initiate and control all voluntary movement, although 
+bladder and bowel function and the muscles responsible for eye movement 
+are usually spared until the final stages of the disorder.[8] Cognitive 
+and/or behavioural dysfunction is present in up to half of individuals 
+with ALS. Around half of people with ALS will experience mild changes in 
+cognition and behaviour, and 10 - 15% will show signs of frontotemporal 
+dementia.[8] Repeating phrases or gestures, apathy, and loss of inhibition 
+are frequently reported behavioural features of ALS.[14] Language dysfunction, 
+executive dysfunction, and troubles with social cognition and verbal memory 
+are the most commonly reported cognitive symptoms in ALS; a meta-analysis 
+found no relationship between dysfunction and disease severity.[15] However, 
+cognitive and behavioral dysfunctions have been found to correlate with 
+reduced survival in people with ALS and increased caregiver burden; this 
+may be due in part to deficits in social cognition.[15] About half the 
+people who have ALS experience emotional lability, in which they cry or 
+laugh for no reason.[8] Sensory nerves and the autonomic nervous system 
+are generally unaffected, meaning the majority of people with ALS maintain 
+hearing, sight, touch, smell, and taste.[1] The start of ALS may be so 
+subtle that the symptoms are overlooked.[1] The earliest symptoms of ALS 
+are muscle weakness and/or muscle atrophy. Other presenting symptoms include 
+trouble swallowing or breathing, cramping, or stiffness of affected muscles; 
+muscle weakness affecting an arm or a leg; and/or slurred and nasal speech. 
+The parts of the body affected by early symptoms of ALS depend on which 
+motor neurons in the body are damaged first.[16] In limb onset ALS people 
+first experience awkwardness when walking or running or even tripping over 
+or stumbling may be experienced and often this is marked by walking with 
+a "dropped foot" which drags gently on the ground. Or if arm-onset, difficulty 
+with tasks requiring manual dexterity such as buttoning a shirt, writing, 
+or turning a key in a lock may be experienced.[16] In bulbar-onset ALS, 
+initial symptoms will mainly be of difficulty speaking clearly or swallowing. 
+Speech may become slurred, nasal in character, or quieter. There may be 
+difficulty in swallowing and loss of tongue mobility. A smaller proportion 
+of people experience "respiratory-onset" ALS, where the intercostal muscles 
+that support breathing are affected first.[5] Over time, people experience 
+increasing difficulty moving, swallowing (dysphagia), and speaking or forming 
+words (dysarthria). Symptoms of upper motor neuron involvement include 
+tight and stiff muscles (spasticity) and exaggerated reflexes (hyperreflexia) 
+including an overactive gag reflex. An abnormal reflex commonly called 
+Babinski's sign also indicates upper motor neuron damage. Symptoms of lower 
+motor neuron degeneration include muscle weakness and atrophy, muscle cramps, 
+and fleeting twitches of muscles that can be seen under the skin (fasciculations) 
+although twitching is not a diagnostic symptom and more of a side effect 
+so twitching would either occur after or accompany weakness and atrophy.[1] 
+Although the order and rate of symptoms varies from person to person, the 
+disease eventually spreads to unaffected regions and the affected regions 
+become more affected. Most people eventually are not able to walk or use 
+their hands and arms, lose the ability to speak and swallow food and their 
+own saliva, and begin to lose the ability to cough and to breathe on their 
+own.[8] The rate of progression can be measured using an outcome measure 
+called the "ALS Functional Rating Scale Revised (ALSFRS-R)", a 12-item 
+instrument administered as a clinical interview or self-reported questionnaire 
+that produces a score between 48 (normal function) and 0 (severe disability);[17] 
+it is the most commonly used outcome measure in clinical trials and is 
+used by doctors to track disease progression.[18] Though the degree of 
+variability is high and a small percentage of people have a much slower 
+disorder, on average, people with ALS lose about 0.9 FRS points per month. 
+A survey-based study amongst clinicians showed that they rated a 20% change 
+in the slope of the ALSFRS-R as being clinically meaningful.[19] Disorder 
+progression tends to be slower in people who are younger than 40 at onset,[20] 
+are mildly obese,[21] have disorder restricted primarily to one limb, and 
+those with primarily upper motor neuron symptoms.[22] Conversely, progression 
+is faster and prognosis poorer in people with bulbar-onset disorder, respiratory-onset 
+disorder, and frontotemporal dementia.[22] The CX3CR1 allelic variants 
+have also been shown to have an effect on the disorder's progression and 
+life expectancy.[23] Difficulty in chewing and swallowing makes eating 
+very difficult and increases the risk of choking or of aspirating food 
+into the lungs. In later stages of the disorder, aspiration pneumonia can 
+develop, and maintaining a healthy weight can become a significant problem 
+that may require the insertion of a feeding tube. As the diaphragm and 
+intercostal muscles of the rib cage that support breathing weaken, measures 
+of lung function such as vital capacity and inspiratory pressure diminish. 
+In respiratory-onset ALS, this may occur before significant limb weakness 
+is apparent. Most people with ALS die of respiratory failure or pneumonia.[5] 
+Although respiratory support can ease problems with breathing and prolong 
+survival, it does not affect the progression of ALS. Most people with ALS 
+die between 2 and four years after the diagnosis.[8] Around half of people 
+with ALS die within 30 months of their symptoms beginning, and about 20% 
+of people with ALS live between 5 years and 10 years after symptoms begin.[5] 
+Guitarist Jason Becker has lived since 1989 with the disorder, while physicist 
+Stephen Hawking has survived for more than 50 years, but they are considered 
+unusual cases.[24] Most people with ALS die in their own home, with their 
+breath failing while they sleep; people rarely choke to death.[3] About 
+5–10% of cases are directly inherited from a person's parents.[5] Overall, 
+first-degree relatives of an individual with ALS have a 1% risk of developing 
+ALS.[25][26] A defect on chromosome 21, which codes for superoxide dismutase, 
+is associated with about 20% of familial cases of ALS, or about 2% of ALS 
+cases overall.[27][28][29] This mutation is believed to be transmitted 
+in an autosomal dominant manner, and has over a hundred different forms 
+of mutation. The most common ALS-causing mutation is a mutant SOD1 gene, 
+seen in North America; this is characterized by an exceptionally rapid 
+progression from onset to death. The most common mutation found in Scandinavian 
+countries, D90A-SOD1, is more slowly progressive than typical ALS, and 
+people with this form of the disorder survive for an average of 11 years.[30] 
+In 2011, a genetic abnormality known as a hexanucleotide repeat was found 
+in a region called C9orf72, which is associated with ALS combined with 
+frontotemporal dementia ALS-FTD,[31] and accounts for some 6% of cases 
+of ALS among white Europeans.[32] The UBQLN2 gene encodes production of 
+the protein ubiquilin 2 in the cell, which is a member of the ubiquilin 
+family and controls the degradation of ubiquitinated proteins. Mutations 
+in UBQLN2 interfere with protein degradation, leading to neurodegeneration 
+and causing dominantly inherited, chromosome X-linked ALS and ALS/dementia.[33] 
+To date, a number of genetic mutations have been associated with various 
+types of ALS. The currently known associations are: In 1993, scientists 
+discovered that mutations in the gene (SOD1) that produces the Cu-Zn superoxide 
+dismutase (SOD1) enzyme were associated with around 20% of familial ALS. 
+This enzyme is a powerful antioxidant that protects the body from damage 
+caused by superoxide, a toxic free radical generated in the mitochondria. 
+Free radicals are highly reactive molecules produced by cells during normal 
+metabolism. Free radicals can accumulate and cause damage to DNA and proteins 
+within cells. To date, over 110 different mutations in SOD1 have been linked 
+with the disorder, some of which (such as H46R) have a very long clinical 
+course, while others, such as A4V, are exceptionally aggressive. When the 
+defenses against oxidative stress fail, programmed cell death (apoptosis) 
+is upregulated. A defect in SOD1 could be a loss or gain of function. A 
+loss of SOD1 function could lead to an accumulation of free radicals. A 
+gain of SOD1 function could be toxic in other ways.[40][41] Aggregate accumulation 
+of mutant SOD1 is suspected to play a role in disrupting cellular functions 
+by damaging mitochondria, proteasomes, protein folding chaperones, or other 
+proteins.[42] Any such disruption, if proven, would lend significant credibility 
+to the theory that aggregates are involved in mutant SOD1 toxicity. Critics 
+have noted that in humans, SOD1 mutations cause only 2% or so of overall 
+cases and the etiological mechanisms may be distinct from those responsible 
+for the sporadic form of the disease. To date, the ALS-SOD1 mice remain 
+the best model of the disease for preclinical studies, but it is hoped 
+that more useful models will be developed. While moderate to severe traumatic 
+brain injury is a risk for ALS, it is unclear if mild traumatic brain injury 
+increases rates.[43][44] In 1994 the National Institute for Occupational 
+Safety and Health (NIOSH) reported a nonsignificant increase in nervous 
+system disorders due to four cases of ALS among NFL football players. It 
+was unclear if this was due to chance or not.[45] Another study from 2012 
+also found a possible increase in ALS in NFL football players.[46] An older 
+study did not find an increased risk among high school football players.[43] 
+A 2007 review found an increased risk among soccer players.[44] ALS may 
+also occur more often among the US military veterans however the reason 
+is unknown.[47] This may be due to head injury.[48] After the 2012 report 
+was released, some NFL players involved in the legal settlement with the 
+NFL complained that the NFL, which initially agreed to pay $765 million, 
+was not doing enough to help players. The judge in the case concurred, 
+and the NFL then agreed to pay an unlimited amount of damages for players 
+found to have ALS, Parkinson’s disease, Alzheimer’s disease and dementia.[49] 
+Where no family history of the disease is present – i.e., in around 90% 
+of cases – no cause is known for ALS. Possible associations for which evidence 
+is inconclusive include military service, frequent drug use, and participation 
+in contact sports.[medical citation needed] Studies also have focused on 
+the role of glutamate in motor neuron degeneration. Glutamate is one of 
+the neurotransmitters in the brain. Scientists have found, compared with 
+healthy people, people with ALS have higher levels of glutamate in their 
+serum and spinal fluid.[28] Riluzole, which targets glutamate transporters, 
+is currently the only FDA-approved drug for ALS. It has only a modest effect 
+on survival, however, suggesting that excess glutamate is not the sole 
+cause of the disease. Certain studies suggested a link between sporadic 
+ALS, specifically in athletes, and a diet enriched with branched-chain 
+amino acids, a common dietary supplement among athletes, which cause cell 
+hyperexcitability resembling that usually observed in people with ALS. 
+The proposed underlying mechanism is that cell hyperexcitability results 
+in increased calcium absorption by the cell, and thus brings about cell 
+death of neuronal cells, which have particularly low calcium buffering 
+capabilities.[50] Some evidence supports the hypothesis that superoxide 
+dismutase 1 (SOD1) protein misfolding propagates between molecules in a 
+similar fashion to prions.[51] Similarly, it has been proposed that incorporation 
+of the cyanobacterial toxin β-methylamino-l-alanine (BMAA) leads to another 
+prion-like protein misfolding propagation.[52][53] Another very common 
+factor associated with ALS is a lesion to the motor system in areas such 
+as the frontotemporal lobes.[54] Lesions in these areas often show signs 
+of early deficit, which can be used to predict the loss of motor function, 
+and result in the spread of ALS.[54] The mechanisms of ALS are present 
+long before any signs or symptoms become apparent.[55] Before any muscular 
+atrophy becomes apparent during ALS, roughly one-third of the motor neurons 
+must be destroyed.[55] Other potential risk factors including chemical 
+exposure, electromagnetic field exposure, occupation, physical trauma, 
+and electric shock, have been investigated, but are without consistent 
+findings.[56][57] There is a tentative association with exposure to a number 
+of pesticides including the organochlorine insecticides aldrin, dieldrin, 
+DDT, and toxaphene.[58][59][60] The defining feature of ALS is the death 
+of both upper and lower motor neurons in the motor cortex of the brain, 
+the brain stem, and the spinal cord. Prior to their destruction, motor 
+neurons develop protein-rich inclusions in their cell bodies and axons. 
+This may be partly due to defects in protein degradation.[33] These inclusions 
+often contain ubiquitin, and generally incorporate one of the ALS-associated 
+proteins: SOD1, TAR DNA binding protein (TDP-43, or TARDBP), and/or FUS.[61] 
+No test can provide a definite diagnosis of ALS, although the presence 
+of upper and lower motor neuron signs in a single limb is strongly suggestive.[1] 
+Instead, the diagnosis of ALS is primarily based on the symptoms and signs 
+the physician observes in the person and a series of tests to rule out 
+other diseases.[1] Physicians obtain the person's full medical history 
+and usually conduct a neurologic examination at regular intervals to assess 
+whether symptoms such as muscle weakness, atrophy of muscles, hyperreflexia, 
+and spasticity are worsening.[1] Because symptoms of ALS can be similar 
+to those of a wide variety of other, more treatable diseases or disorders, 
+appropriate tests must be conducted to exclude the possibility of other 
+conditions.[1] One of these tests is electromyography (EMG), a special 
+recording technique that detects electrical activity in muscles.[1] Certain 
+EMG findings can support the diagnosis of ALS.[1] Another common test measures 
+nerve conduction velocity (NCV).[1] Specific abnormalities in the NCV results 
+may suggest, for example, that the person has a form of peripheral neuropathy 
+(damage to peripheral nerves) or myopathy (muscle disease) rather than 
+ALS. While a magnetic resonance imaging (MRI) is often normal in people 
+with early stage ALS, they can reveal evidence of other problems that may 
+be causing the symptoms, such as a spinal cord tumor, multiple sclerosis, 
+a herniated disk in the neck, syringomyelia, or cervical spondylosis.[1] 
+Based on the person's symptoms and findings from the examination and from 
+these tests, the physician may order tests on blood and urine samples to 
+eliminate the possibility of other diseases, as well as routine laboratory 
+tests.[1] In some cases, for example, if a physician suspects the person 
+may have a myopathy rather than ALS, a muscle biopsy may be performed.[1] 
+Viral infectious diseases such as human immunodeficiency virus (HIV), human 
+T-cell leukaemia virus (HTLV), Lyme disease,[62] syphilis[63] and tick-borne 
+encephalitis[64] can in some cases cause ALS-like symptoms.[1] Neurological 
+disorders such as multiple sclerosis, post-polio syndrome, multifocal motor 
+neuropathy, CIDP, spinal muscular atrophy, and spinal and bulbar muscular 
+atrophy can also mimic certain aspects of the disease and should be considered.[1] 
+ALS must be differentiated from the "ALS mimic syndromes" which are unrelated 
+disorders that may have a similar presentation and clinical features to 
+ALS or its variants.[65] Because of the prognosis carried by this diagnosis 
+and the variety of diseases or disorders that can resemble ALS in the early 
+stages of the disease, people should always obtain a specialist neurological 
+opinion, so alternative diagnoses are clinically ruled out. Benign fasciculation 
+syndrome is another condition that mimics many of the symptoms of ALS, 
+but is accompanied by normal EMG readings and no major disablement.[citation 
+needed] However, most cases of ALS are readily diagnosed and the error 
+rate of diagnosis in large ALS clinics is less than 10%.[66][67] In one 
+study, 190 people who met the MND/ALS diagnostic criteria, complemented 
+with laboratory research in compliance with both research protocols and 
+regular monitoring. Thirty of these people (16%) had their diagnosis completely 
+changed during the clinical observation development period.[68] In the 
+same study, three people had a false negative diagnosis, myasthenia gravis 
+(MG), an autoimmune disease. MG can mimic ALS and other neurological disorders 
+leading to a delay in diagnosis and treatment. MG is eminently treatable; 
+ALS is not.[69] Myasthenic syndrome, also known as Lambert–Eaton syndrome, 
+can mimic ALS and its initial presentation can be similar to that of MG.[70][71] 
+Management of ALS attempts to relieve symptoms and extend life expectancy. 
+This supportive care is best provided by multidisciplinary teams of health 
+care professionals working with the person and their caregivers to keep 
+them as mobile and comfortable as possible.[citation needed] Riluzole (Rilutek) 
+has been found to modestly improve survival.[72] It lengthens survival 
+by several months, and may have a greater survival benefit for those with 
+a bulbar onset. It also extends the time before a person needs ventilation 
+support. People taking it must be monitored for liver damage (occurring 
+in about 10% of people taking the drug).[73] It is approved by Food and 
+Drug Administration (US) and recommended by the National Institute for 
+Clinical Excellence (UK). Riluzole does not reverse damage already done 
+to motor neurons.[74] Other medications may be used to help reduce fatigue, 
+ease muscle cramps, control spasticity, and reduce excess saliva and phlegm. 
+Drugs also are available to help people with pain, depression, sleep disturbances, 
+dysphagia, and constipation. Baclofen and diazepam are often prescribed 
+to control the spasticity caused by ALS, and trihexyphenidyl or amitriptyline 
+may be prescribed when people with ALS begin having trouble swallowing 
+their saliva.[8] When the muscles that assist in breathing weaken, use 
+of ventilatory assistance (intermittent positive pressure ventilation, 
+bilevel positive airway pressure (BiPAP), or biphasic cuirass ventilation 
+(BCV) may be used to aid breathing. Such devices artificially inflate the 
+person's lungs from various external sources that are applied directly 
+to the face or body. When muscles are no longer able to maintain oxygen 
+and carbon dioxide levels, these devices may be used full-time. BCV has 
+the added advantage of being able to assist in clearing secretions by using 
+high-frequency oscillations followed by several positive expiratory breaths.[75] 
+People may eventually consider forms of mechanical ventilation (respirators) 
+in which a machine inflates and deflates the lungs. To be effective, this 
+may require a tube that passes from the nose or mouth to the windpipe (trachea) 
+and for long-term use, an operation such as a tracheotomy, in which a plastic 
+breathing tube is inserted directly in the person's windpipe through an 
+opening in the neck.[citation needed] Persons and their families should 
+consider several factors when deciding whether and when to use one of these 
+options. Ventilation devices differ in their effect on the person's quality 
+of life and in cost. Although ventilation support can ease problems with 
+breathing and prolong survival, it does not affect the progression of ALS. 
+People need to be fully informed about these considerations and the long-term 
+effects of life without movement before they make decisions about ventilation 
+support and have deep discussions on quality of life. Some persons under 
+long-term tracheotomy intermittent positive pressure ventilation with deflated 
+cuffs or cuffless tracheotomy tubes (leak ventilation) are able to speak, 
+provided their bulbar muscles are strong enough, though in all cases speech 
+will be lost as the disease progresses. This technique preserves speech 
+in some persons with long-term mechanical ventilation. Other persons may 
+be able to use a speaking valve such as a Passey-Muir speaking valve with 
+the assistance and guidance of a speech-language pathologist.[citation 
+needed] External ventilation machines that use the ventilation mode of 
+BiPAP are frequently used to support breathing, initially at night, and 
+later during the daytime, as well. The use of BPAP (more often referred 
+to as noninvasive ventilation, NIV) is only a temporary remedy, however, 
+and long before BPAP stops being effective, persons should decide whether 
+to have a tracheotomy and long-term mechanical ventilation. At this point, 
+some persons choose palliative hospice care.[citation needed] Physical 
+therapy plays a large role in rehabilitation for individuals with ALS. 
+Specifically, physical and occupational therapists can set goals and promote 
+benefits for individuals with ALS by delaying loss of strength, maintaining 
+endurance, limiting pain, preventing complications, and promoting functional 
+independence.[76] Occupational therapy and special equipment such as assistive 
+technology can also enhance people's independence and safety throughout 
+the course of ALS. Gentle, low-impact aerobic exercise such as performing 
+activities of daily living, walking, swimming, and stationary bicycling 
+can strengthen unaffected muscles, improve cardiovascular health, and help 
+people fight fatigue and depression. Range of motion and stretching exercises 
+can help prevent painful spasticity and shortening (contracture) of muscles. 
+Physical and occupational therapists can recommend exercises that provide 
+these benefits without overworking muscles. They can suggest devices such 
+as ramps, braces, walkers, bathroom equipment (shower chairs, toilet risers, 
+etc.), and wheelchairs that help people remain mobile. Occupational therapists 
+can provide or recommend equipment and adaptations to enable people to 
+retain as much safety and independence in activities of daily living as 
+possible.[citation needed] People with ALS who have difficulty speaking 
+may benefit from working with a speech-language pathologist. These health 
+professionals can teach people adaptive strategies such as techniques to 
+help them speak louder and more clearly. As ALS progresses, speech-language 
+pathologists can recommend the use of augmentative and alternative communication 
+such as voice amplifiers, speech-generating devices (or voice output communication 
+devices) and/or low tech communication techniques such as head mounted 
+laser pointers, alphabet boards or yes/no signals.[citation needed] People 
+with ALS and caregivers can learn from dieticians how to plan and prepare 
+numerous small meals throughout the day that provide enough calories, fiber 
+and fluid, and how to avoid foods that are difficult to swallow. People 
+may begin using suction devices to remove excess fluids or saliva and prevent 
+choking. Occupational therapists can assist with recommendations for adaptive 
+equipment to ease the physical task of self-feeding. Speech-language pathologists 
+make food choice recommendations that are more conducive to their unique 
+deficits and abilities. When people with ALS can no longer get enough nourishment 
+from eating, doctors may advise inserting a feeding tube into the stomach. 
+The use of a feeding tube also reduces the risk of choking and pneumonia 
+that can result from inhaling liquids into the lungs. The tube is not painful 
+and does not prevent people from eating food orally if they wish.[citation 
+needed] Researchers have stated, "ALS patients have a chronically deficient 
+intake of energy and recommended augmentation of energy intake"[77] and 
+have a severe loss of appetite.[78] Both animal[79] and human research[77][unreliable 
+medical source?] [80][unreliable medical source?] suggest that ALS patients 
+should be encouraged to consume as many calories as possible and not to 
+restrict their caloric intake. As of 2012, "a lack of robust evidence for 
+interventions" remained for the management of weight loss.[81] Social workers 
+and home care and hospice nurses help people with ALS, their families, 
+and caregivers with the medical, emotional, and financial challenges of 
+coping, particularly during the final stages of the disease. Social workers 
+provide support such as assistance in obtaining financial aid, arranging 
+durable power of attorney, preparing a living will, and finding support 
+groups for patients and caregivers. Home nurses are available not only 
+to provide medical care, but also to teach caregivers about tasks such 
+as maintaining respirators, giving feedings, and moving people to avoid 
+painful skin problems and contractures. Home hospice nurses work in consultation 
+with physicians to ensure proper medication, pain control, and other care 
+affecting the quality of life of people with ALS who wish to remain at 
+home. The home hospice team can also counsel people with ALS and caregivers 
+about end-of-life issues.[citation needed] In much of the world, rates 
+of ALS are unknown.[5] In Europe, the disease affects about 2.2 people 
+per 100,000 per year.[5] In the United States, more than 5,600 are diagnosed 
+every year (over 1.87 per 100,000 per year), and up to 30,000 Americans 
+are currently affected. ALS is responsible for two deaths per 100,000 people 
+per year.[82] ALS is classified as a rare disease, designated by the FDA 
+as an “orphan” disease (affecting fewer than 200,000 people in the United 
+States), but is the most common motor neuron disease. People of all races 
+and ethnic backgrounds are affected. One or two of 100,000 people develop 
+ALS each year.[83] Amyotrophic lateral sclerosis affects around 30,000 
+Americans.[84] ALS cases are estimated at 1.2–4.0 per 100,000 individuals 
+in Caucasian populations with a lower rate in other ethnic populations.[85] 
+Filipinos are second to Caucasians in terms of ALS prevalence with 1.1-2.8 
+per 100,000 individuals.[84] Reports have been made of several "clusters" 
+including three American football players from the San Francisco 49ers, 
+more than 50 association football players in Italy,[86] three association 
+football-playing friends in the south of England,[87] and conjugal (husband 
+and wife) cases in the south of France.[88][89][90][91][92] Although many 
+authors consider ALS to be caused by a combination of genetic and environmental 
+risk factors, so far the latter have not been firmly identified, other 
+than a higher risk with increasing age. Descriptions of the disease date 
+back to at least 1824 by Charles Bell.[10] English scientist Augustus Waller 
+described the appearance of shriveled nerve fibers in 1850. In 1869, the 
+connection between the symptoms and the underlying neurological problems 
+were first described by Jean-Martin Charcot, who introduced the term amyotrophic 
+lateral sclerosis in his 1874 paper.[10] In 1881, the article was translated 
+into English and published in a three-volume edition of Lectures on the 
+Diseases of the Nervous System. ALS became a cause célèbre in the United 
+States in 1939 when baseball legend Lou Gehrig's career, and two years 
+later, his life, were ended by the disease.[93] In the 1950s, an epidemic 
+occurred among the Chamorro people on Guam which bore similarities to many 
+conditions, including ALS.[94] By 1991, researchers had linked chromosome 
+21 to familial ALS (FALS). In 1993, the SOD1 gene on chromosome 21 was 
+found to play a role in some cases of FALS. In 1996, riluzole became the 
+first FDA-approved drug for ALS.[citation needed] In 1998, the El Escorial 
+criteria were developed as the standard for classifying people with ALS 
+in clinical research. The next year, the revised ALS Functional Rating 
+Scale was published and soon becomes a gold standard for clinical research. 
+Noncoding repeat expansions in C9ORF72 were found to be a major cause of 
+ALS and frontotemporal dementia in 2011.[citation needed] Amyotrophic comes 
+from the Greek word amyotrophia: a- means "no", myo refers to "muscle", 
+and trophia means "nourishment"; amyotrophia therefore means "no muscle 
+nourishment," which describes the characteristic atrophy of the sufferer's 
+disused muscle tissue. Lateral identifies the areas in a person's spinal 
+cord where affected portions of the nerve cells are located. Degeneration 
+in this area leads to scarring or hardening ("sclerosis"). In Commonwealth 
+countries the term motor neurone disease (MND) is commonly used.[3] In 
+August 2014, a challenge went viral online which was commonly known as 
+the "ALS Ice Bucket Challenge".[95] Contestants fill a bucket full of ice 
+and water, then state who nominated them to do the challenge, and nominate 
+three other individuals of their choice to take part in it. The contestants 
+then dump the buckets of ice and water onto themselves. However, it can 
+be done in a different order. The contestants then donate at least US $10 
+(or a similar amount in their local currency) to ALS research at the ALS 
+Association, or Motor Neurone Disease Association in the UK. Any contestants 
+who refuse to have the ice and water dumped on them are expected to donate 
+at least US$100 to ALS research. As of July 2015, the Ice Bucket Challenge 
+had raised $115 million for the ALS Association.[96] Many celebrities have 
+taken part in the challenge.[97] The Ice Bucket Challenge was credited 
+with helping to raise funds that contributed to the discovery that the 
+gene NEK1 may potentially contribute to the development for ALS.[98][99] 
+ALS is the central topic of the 2014 movie You're Not You, directed by 
+George C. Wolfe, with Hilary Swank, Emmy Rossum and Josh Duhamel playing 
+the main characters.[100] A number of clinical trials are underway globally 
+for ALS; a comprehensive listing of trials in the US can be found at ClinicalTrials.gov. 
+A large genetic study, called project MinE, initiated by two people with 
+ALS is going on currently. It is a crowdfunded research project with many 
+countries involved to discover more genes.[101] A division of the US Centers 
+for Disease Control and Prevention maintains a registry of Americans with 
+ALS.[102] In 2009 researchers in the North American ALS Research Group 
+started reviewing alternative and off-label ALS treatments that circulated 
+on the internet and began publishing them under the rubric "ALS Untangled".[103][104] 
+As of 2014 the group of scientists and clinicians reviewing such treatments 
+and publishing the results had expanded to 95 people in 10 different countries.[104] 
+Creatine has been well studied as a treatment for ALS; it has no effect.[105] 
+As of 2013 repetitive transcranial magnetic stimulation had been studied 
+in ALS in small and poorly designed clinical trials; as of 2013 there was 
+insufficient evidence to know if rTMS is safe or effective for ALS.[106] 
+In 2016 the ALS patient group PatientsLikeMe worked with investigators 
+at Duke University to organize a clinical trial of the dietary supplement 
+lunasin, which had been the subject of internet discussions among patients.[107] 
+Masitinib has been approved as an orphan medication in Europe and the United 
+States with studies ongoing as of 2016.[108] This article incorporates 
+text from the United States Department of Health and Human Services ([1]), 

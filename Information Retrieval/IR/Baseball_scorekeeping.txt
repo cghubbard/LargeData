@@ -1,0 +1,93 @@
+Baseball scorekeeping is the practice of recording the details of a baseball 
+game as it unfolds. Professional baseball leagues hire official scorers 
+to keep an official record of each game (from which a box score can be 
+generated), but many fans keep score as well for their own enjoyment.[1] 
+Scorekeeping is usually done on a printed scorecard and, while official 
+scorers must adhere precisely to one of the few different scorekeeping 
+notations, most fans exercise some amount of creativity and adopt their 
+own symbols and styles.[2] Sportswriter Henry Chadwick is generally credited 
+as the inventor of baseball scorekeeping. His basic scorecard and notation 
+have evolved significantly since their advent in the 1870s[3] but they 
+remain the basis for most of what has followed. Some symbols and abbreviations 
+are shared by nearly all scorekeeping systems. For example, the position 
+of each player is indicated by a number: The designated hitter (DH), if 
+used, is marked using a zero (0). Scorecards vary in appearance but almost 
+all share some basic features, including areas for: Usually two scorecards 
+(one for each team) are used to score a game. Because the traditional method 
+has been in use for so long, it has the most variations in its symbols 
+and syntax.[citation needed] It is difficult, at this point in time, to 
+describe an "authoritative" set of rules for traditional scorekeeping, 
+but what is described here is a representative sample. In the traditional 
+method, each cell in the main area of the scoresheet represents the "lifetime" 
+of an offensive player, from at-bat to baserunner, to being put out or 
+scoring a run. When an out is recorded, the combination of defensive players 
+executing that out is recorded. For example: If a batter reaches first 
+base, either due to a walk, a hit, or an error, the basepath from home 
+to first base is drawn, and the method described in the lower-righthand 
+corner. For example: When a runner advances due to a following batter, 
+it can be noted by the batting position or the uniform number of the batter 
+that advanced the runner. This kind of information is not always included 
+by amateur scorers, and there is a lot of variation in notation. For example: 
+The scorecard on the right describes the August 8, 2000 game between the 
+Milwaukee Brewers and San Francisco Giants, played at Pacific Bell Park, 
+in San Francisco.[4] The scorecard describes the following events in the 
+top of the 1st inning: One hard and fast rule of baseball scorekeeping 
+is that every out and every time a baserunner advances must be recorded. 
+The scoring can get a little more complicated when a batter who has reached 
+base, is then "moved up" (advances one or more bases) by his own actions 
+or by the actions of a hitter behind him. This is demonstrated in the Giants' 
+first inning: Stranded baserunners might be notated as being "LOB" (Left 
+On Base) for that inning, with a number from 1-3 likely at the bottom of 
+the inning column. For example, if two runners are left on base after the 
+3rd out, the scorekeeper might note "LOB:2", then at the end of the game 
+calculate a total number of LOB for the game. A more complicated example 
+of scorekeeping is the record of the bottom of the 5th inning: Project 
+Scoresheet was an organization run by volunteers in the 1980s for the purpose 
+of collecting baseball game data and making it freely available to the 
+public (the data collected by Major League Baseball was and still is not 
+freely available). To collect and distribute the data, Project Scoresheet 
+needed a method of keeping score that could be easily input to a computer. 
+This limited the language to letters, numbers, and punctuation (no baseball 
+diamonds or other symbols not found on a computer keyboard). In addition 
+to the new language introduced by Project Scoresheet, a few major changes 
+were made to the traditional scorecard. Firstly, innings of play are not 
+recorded in a one-per-column fashion; instead all boxes are used sequentially 
+and new innings are indicated with a heavy horizontal line. This saves 
+considerable space on the card (since no boxes are left blank) and reduces 
+the likelihood of a game requiring a second set of scorecards. The second 
+major change is the detailed offensive and defensive in/out system, which 
+allows the scorekeeper to specify very specifically when players enter 
+and leave the game. This is vital for attributing events to the proper 
+players. Lastly, each "event box" on a Project Scoresheet scorecard is 
+broken down into three sections: before the play, during the play, and 
+after the play. All events are put into one of these three slots. For example, 
+a stolen base happens "before the play" because it occurs before the batter's 
+at-bat is over. A hit is considered "during the play" because it ends the 
+batter's plate appearance, and baserunner movement subsequent to the batter's 
+activity is considered "after the play". The language developed by Project 
+Scoresheet can be used to record trajectories and locations of batted balls 
+and every defensive player who touched the ball, in addition to the basic 
+information recorded by the traditional method. Here are some examples: 
+In the "before the play" slot: In "during the play" slot: In the "after 
+the play" slot: For a complete description of the language and the scorecard 
+please see David Cortesi's documentation. Project Scoresheet addressed 
+a lack of precision in the traditional scorekeeping method, and introduced 
+several new features to the scorecard. But while the Project Scoresheet 
+language continues to be the baseball research community's standard for 
+storing play-by-play game data in computers, the scorecards it yields are 
+difficult to read due to the backtracking required to reconstruct a mid-inning 
+play. Hence, despite its historical importance, the system has never gained 
+favor with casual fans. In 2002 Alex Reisner developed a new scorekeeping 
+method that took the language of Project Scoresheet but redefined the way 
+the event boxes on the scorecard worked, virtually eliminating the backtracking 
+required by both Project Scoresheet and the traditional method. The system 
+also makes it easy to reconstruct any mid-inning situation, a difficult 
+task with the other two systems (for this reason it was originally promoted 
+as "Situational Scorekeeping"). A Reisner scorecard looks like a cross 
+between a traditional and Project Scoresheet scorecard. It has a diamond 
+(representing the field, as in the traditional system) and a single line 
+for recording action during and after the play (like Project Scoresheet's 
+second and third lines). The diamond in each event box is used to show 
+which bases are occupied by which players at the start of an at-bat. Stolen 
+bases, pickoffs, and other "before the play" events are also marked on 
+the diamond, so that one can see the "situation" in which an at-bat took 

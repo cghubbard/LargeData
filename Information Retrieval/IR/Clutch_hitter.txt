@@ -1,0 +1,93 @@
+A clutch hitter is a baseball player with a knack for coming up with the 
+"big" hit. The big hit is typically a game-deciding hit, sometimes a home 
+run, often coming with two outs, although it can be any hit or play with 
+a significant impact late in a game. However, a clutch hit could come as 
+early as the first inning. Being known as a clutch hitter is a position 
+of high honor and responsibility, as the clutch hitter is recognized as 
+the "go-to guy" for the team, and his exploits in pressure situations are 
+celebrated by both fans and players alike. Various baseball analysts, including 
+Bill James, Pete Palmer, Dick Cramer, and the Baseball Prospectus editors, 
+have found so-called "clutch hitting" ability to be a myth. This is not 
+to say that clutch hits, like those listed above, do not exist, but rather 
+that some kind of innate ability for a player to perform above his true 
+talent level in high-pressure situations is nothing but an illusion. In 
+his 1984 Baseball Abstract, James framed the problem with clutch hitting 
+this way: "How is it that a player who possesses the reflexes and the batting 
+stroke and the knowledge and the experience to be a .262 hitter in other 
+circumstances magically becomes a .300 hitter when the game is on the line? 
+How does that happen? What is the process? What are the effects? Until 
+we can answer those questions, I see little point in talking about clutch 
+ability." Most studies on the matter involved comparing performance in 
+the "clutch" category of statistics (production with runners in scoring 
+position, performance late in close games, etc.) between seasons; if clutch 
+hitting were an actual skill, it would follow that the same players would 
+do well in the clutch statistics year in and year out (the correlation 
+coefficient between players' performances over multiple seasons would be 
+high). Cramer's study was the first of its kind, and it found that clutch 
+hitting numbers between seasons for the same player varied wildly; in fact, 
+the variance was the kind one would expect if the numbers had been selected 
+randomly. Since Cramer published his results, many others have tried to 
+find some evidence that clutch hitting is a skill, but almost every study 
+has confirmed Cramer's initial findings: that "clutch hitting," in terms 
+of certain players being able to "rise to the occasion" under pressure, 
+is an illusion. Despite the evidence, though, most people in baseball steadfastly 
+cling to the idea of the clutch hitter. "You can take those stat guys," 
+Derek Jeter once told Sports Illustrated after SI informed the Yankees 
+shortstop that many analysts deny clutch hitting as a skill, "and throw 
+them out the window." While many do not believe clutch hitting actually 
+exists, supporters of it cite Jeter's teammate, Alex Rodriguez's (A-Rod) 
+perceived struggles in clutch situations as proof that even great statistical 
+hitters like A-Rod (who was the 2003, 2005, and 2007 AL MVP) are different 
+players in the clutch. Jeter is perhaps a prime example of the difference 
+between perception and reality when it comes to "clutch hitting." Widely 
+considered a "clutch player," Jeter's career BA/OBP/SLG (through the end 
+of the 2007 season) numbers are .317/.388/.462, while his playoff numbers 
+are in fact marginally worse at .309/.377/.469. Teammate Bernie Williams 
+had equal or better numbers to Jeter in the time they played together but 
+it is Jeter who is deemed 'clutch'. Jeter's home run to win Game 4 of the 
+2001 World Series helped earn him the nickname "Mr. November," but his 
+offensive numbers for the series were very poor .148/.179/.259. (It is 
+notable that few of the Yankees were able to produce at their normal level 
+in this series, in part due to Arizona's pitching, which included the co- 
+World Series MVP's of Randy Johnson and Curt Schilling. The New York Yankees 
+ultimately went on to lose the series in seven games.) The problem with 
+clutch hitting is that some people interpret it as always getting that 
+big hit in a critical situation, while the reality is that it is unreasonable 
+to think a player can get a hit each time out. To many, being "clutch" 
+is being able to handle the pressure and getting that game tying/go ahead/ 
+or winning hit. No one remembers a poor batting average in a series where 
+a player hits a game-winning home run. The fact that a player shows improved 
+statistics in "clutch" situations is also not proof that clutch hitting 
+exists, because random statistical variations can produce such occurrences. 
+For example, using the binomial probability distribution, one can calculate 
+that there is about a 4.8% chance that a .300 hitter will bat .500 or better 
+in 20 at-bats, based merely on random chance. This is analogous to the 
+fact that there is always some nonzero probability that a fair coin will 
+produce a surprising amount of consecutive flips, e.g. there is a chance 
+that one will get 20 straight flips of "tails", without attributing any 
+"clutch" characteristics to the coin. Given the great number of players 
+who have played the game, players who have average career statistics but 
+seemingly exceptional statistics in certain situations (e.g. the playoffs 
+or with the bases loaded) are expected without providing proof that "clutch 
+hitting" skills exist. Conversely, the perceived struggles of Alex Rodriguez 
+are easily explained as a statistical anomaly. Rodriguez is a career .306 
+hitter in the regular season with 41 hits in 147 post-season at bats (.279). 
+Based on a binomial probability distribution, one can calculate that there 
+is a 26.9% chance that a career .306 hitter like Rodriguez would have 41 
+or fewer hits in 147 post-season at-bats. While this does not prove that 
+Rodriguez is exactly the same player in the post-season that he is in the 
+regular season, the statistical arguments that say otherwise are not particularly 
+strong. In addition, the cause of "clutch" situations must be considered. 
+For example, if a player hits better with the bases loaded, it may be in 
+part because the bases are only loaded because the other team's pitcher 
+is not pitching well at that time, thus giving the batter a better-than-average 
+chance for a hit in the first place. Furthermore, a pitcher may pitch differently 
+with runners on (from "the stretch" rather than a full wind-up pitching 
+motion), resulting in a strategic advantage for a batter. This is not to 
+say that it is impossible for a player's mental state to have some impact, 
+either positively or negatively, on their performance—e.g. confidence leading 
+to "clutch hits" or a lack of confidence leading to "choking". However, 
+there is little-to-no statistical evidence that shows this to be common, 
+favoring the idea that any such impact is frequently overstated and most 
+"clutch hits" are simply cases where success occurred at fortunate moments, 
+and players perceived as "clutch" are simply players who have been lucky 

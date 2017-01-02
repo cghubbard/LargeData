@@ -1,0 +1,65 @@
+Win Shares is a book about baseball written by Bill James and Jim Henzler, 
+published by STATS, Inc. in 2002. The book explains how to apply the concept 
+of sabermetrics to assess the impact of player performance in a combination 
+of several areas, including offensive, defensive, and pitching, to the 
+overall performance of their team. The resulting "Win Share" also takes 
+into account factors such as the era in which the player was active to 
+allow easy comparisons between players from different eras.[1] The book 
+focuses primarily on the many formulae involved in computing the final 
+number of win shares accumulated, as well as presenting lists of players 
+ranked in various ways using the rating. Win shares is the name of the 
+metric developed by James in his book. It considers statistics for baseball 
+players, in the context of their team and in a sabermetric way, and assigns 
+a single number to each player for his contributions for the year. A win 
+share represents one-third of a team win, by definition.[2] If a team wins 
+80 games in a season, then its players will share 240 win shares. The formula 
+for calculating win shares is complicated; it takes up pages 16–100 in 
+the book. The general approach is to take the team's win shares (i.e., 
+3 times its number of wins), then divide them between offense and defense. 
+In baseball, all pitching, hitting and defensive contributions by the player 
+are taken into account. Statistics are adjusted for park, league and era. 
+On a team with equal offensive and defensive prowess, hitters receive 48% 
+of the win shares and those win shares are allocated among the hitters 
+based on runs created. An estimation is then made to decide what amount 
+of the defensive credit goes to pitchers and what amount goes to fielders. 
+Pitching contributions typically receive 35% (or 36%) of the win shares, 
+defensive contributions receive 17% (or 16%) of the win shares. The pitching 
+contributions are allocated among the pitchers based on runs prevented, 
+the pitchers' analogue to runs created. Fielding contributions are allocated 
+among the fielders based on a number of assumptions and a selection of 
+traditional defensive statistics.[3] In Major League Baseball, based on 
+a 162-game schedule, a typical All-Star might amass 20 win shares in a 
+season. More than 30 win shares (i.e. the player is directly responsible 
+for 10 wins by his team) is indicative of MVP-level performance, and 40+ 
+win shares represents an exceptional, historic season. For pitchers, Win 
+Shares levels are typically lower—in fact, they often come close to mirroring 
+actual wins. Win shares differs from other sabermetric player rating metrics 
+such as Total player rating and VORP in that it is based on total team 
+wins, not runs above replacement. The Bill James Historical Baseball Abstract, 
+2001 edition, also written by James, uses win shares to evaluate the careers 
+of many players, and to place them in contexts where they can be compared. 
+The two books are effectively companions to one another. Within the sabermetric 
+community there is ongoing debate as to the details of the system. The 
+Hardball Times has developed its own Win Shares, as well as a number of 
+derivative statistics, such as Win Shares Above Bench, Win Shares Percentage, 
+Win Shares Above Average, and All Star Win Shares. Writing for ESPN, baseball 
+author and columnist Rob Neyer called the book "groundbreaking".[4] Glenn 
+Guzzo echoed him in The New Ballgame: Baseball Statistics for the Casual 
+Fan, calling it a "groundbreaking volume".[5] Dave Studeman of Hardball 
+Times observed that the book was well received by readers.[6] Bill Felber, 
+in The Book on the Book: An Inquiry Into Which Strategies in the Modern 
+Game Actually Work, compares James' philosophy as to use of relievers in 
+the book with those he endorsed as a Boston Red Sox executive.[7] In A 
+Mathematician at the Ballpark: Odds and Probabilities for Baseball Fans, 
+Professor Ken Ross describes the book as "erudite and interesting".[8] 
+The Oakland Tribune notes that it takes James more than 100 pages in the 
+book to explain his formula.[9] Leigh Grossman, in The Red Sox Fan Handbook: 
+Everything You Need to Know to Be a Red Sox Fan Or to Marry One, called 
+it "a book that statheads had been anticipating for years."[10] The Concord 
+Monitor noted that at a game "a few ultradedicated fans even sit in the 
+back row with their Bill James books and calculators tabulating Mainers 
+win shares".[11] In Practicing Sabermetrics: Putting the Science of Baseball 
+Statistics to Work, by Gabriel B. Costa, Michael R. Huber, and John T. 
+Saccoman, the authors discuss how James provides both a short form method 
+and a long form method for calculation in his book, and that the easier 
+short form method appears to work well for years after 1920.[12] Win shares 

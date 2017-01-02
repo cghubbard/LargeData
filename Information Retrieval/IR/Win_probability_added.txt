@@ -1,0 +1,29 @@
+Win probability added (WPA) is a sport statistic which attempts to measure 
+a player's contribution to a win by figuring the factor by which each specific 
+play made by that player has altered the outcome of a game.[1] It is used 
+for baseball and American football.[2] Some form of win probability has 
+been around for about 40 years; however, until computer use became widespread, 
+win probability added was often difficult to derive, or imprecise. With 
+the aid of Retrosheet, however, win probability added has become substantially 
+easier to calculate. The win probability for a specific situation in baseball 
+(including the inning, number of outs, men on base, and score) is obtained 
+by first finding all the teams that have encountered this situation. Then 
+the winning percentage of these teams in these situations is found. This 
+probability figure is then adjusted for home-field advantage. Thus win 
+probability added is the difference between the win probability when the 
+player came to bat and the win probability when the play ended. Some people 
+confuse win probability added with win shares,[citation needed] since both 
+are baseball statistics that attempt to measure a player's win contribution. 
+However, they are quite different. In win shares, a player with 0 win shares 
+has contributed nothing to his team; in win probability added, a player 
+with 0 win probability added points is average. Also, win shares would 
+give the same amount of credit to a player if he hit a lead-off solo home 
+run as if he hit a walk-off solo home run; WPA, however, would give vastly 
+more credit to the player who hit the walk-off homer. In Game 6 of the 
+2011 World Series, St. Louis Cardinals' third-baseman David Freese posted 
+the best WPA in Major League Baseball postseason history, with a 0.969, 
+which was 0.099 better than the now-second-best WPA of .870, posted by 
+the Los Angeles Dodgers' Kirk Gibson in Game 1 of the 1988 World Series. 
+The third- and fourth-best WPAs are .854 (by the San Diego Padres' Steve 
+Garvey in Game 4 of the 1984 National League Championship Series) and 0.832 
+(by the Cardinals' Lance Berkman in Game 6 of the 2011 World Series).[3] 

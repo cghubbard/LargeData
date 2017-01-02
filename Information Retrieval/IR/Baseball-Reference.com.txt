@@ -1,0 +1,36 @@
+Baseball-Reference.com is a website providing baseball statistics for every 
+player in Major League Baseball history. The site is often used by major 
+media organizations and baseball broadcasters as a source for statistics. 
+It offers a variety of advanced baseball sabermetrics in addition to traditional 
+baseball "counting stats". Baseball-Reference.com is part of Sports Reference, 
+LLC; according to an article in Street & Smith's Sports Business Journal: 
+The Sports Reference sites combine to generate more than 1 million unique 
+users per month, according to internal analytics. Company president and 
+former college math professor Sean Forman has become something of a folk 
+hero to baseball fans for the massive depth of data stretching to the 19th 
+century and for the ease of navigation within Baseball-Reference.com.[3] 
+Founder Sean Forman began developing the website while working on his Ph.D. 
+dissertation in applied math and computational science at the University 
+of Iowa. While writing his dissertation, he had also been writing articles 
+on and blogging about sabermetrics. Forman's database was originally built 
+from the Total Baseball series of baseball encyclopedias.[4] The website 
+came online in April 2000, after first being launched in February 2000 
+as part of the website for the Big Bad Baseball Annual. It was originally 
+built as a web interface to the Lahman Baseball Database, though it now 
+employs a variety of data sources. In 2004, Forman founded Sports Reference. 
+The company was incorporated as Sports Reference, LLC in 2007.[5] In 2006, 
+Forman left his job as a math professor at Saint Joseph's University in 
+order to focus on Baseball-Reference full-time.[4][6] In February 2009, 
+Fantasy Sports Ventures took a minority stake in Sports Reference, LLC, 
+the parent company of Baseball-Reference, for a "low seven-figure sum".[3] 
+It has year-by-year team pages, a baseball encyclopedia (the Bullpen, powered 
+by MediaWiki software, using the GFDL),[7] box scores and game logs from 
+every MLB game back to 1914 and minor league player stats as far back as 
+1888. In addition, there are a number of what the website calls "Frivolities", 
+e.g., The Oracle of Baseball, which links any two players by common teammates 
+in the way the pop culture favorite "Oracle of Bacon" website does. Another 
+one of their Frivolities is the page devoted to Keith Hernandez's mustache,[8] 
+which is the only "fictional" page on B-R.com.[9] Baseball-Reference.com 
+has its own baseball encyclopedia, a wiki called "Baseball Reference Bullpen", 
+which can be edited by anyone and is modeled after Wikipedia.[10] As of 
+July 2015, the Baseball Reference Bullpen contains over 77,200 articles. 

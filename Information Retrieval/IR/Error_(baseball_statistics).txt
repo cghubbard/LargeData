@@ -1,0 +1,105 @@
+In baseball statistics, an error is an act, in the judgment of the official 
+scorer, of a fielder misplaying a ball in a manner that allows a batter 
+or baserunner to advance one or more bases or allows an at bat to continue 
+after the batter should have been put out. The term error can also refer 
+to the play during which an error was committed. An error does not count 
+as a hit but still counts as an at bat for the batter unless, in the scorer's 
+judgment, the batter would have reached first base safely but one or more 
+of the additional base(s) reached was the result of the fielder's mistake. 
+In that case, the play will be scored both as a hit (for the number of 
+bases the fielders should have limited the batter to) and an error. However, 
+if a batter is judged to have reached base solely because of a fielder's 
+mistake, it is scored as a "hit on error," and treated the same as if the 
+batter had been put out, hence lowering his batting average. Similarly, 
+a batter does not receive credit for a run batted in (RBI) when runs score 
+on an error, unless the scorer rules that a run would have scored even 
+if the fielder had not made a mistake. For example, if a batter hits a 
+ball to the outfield for what should be a sacrifice fly and the outfielder 
+drops the ball for an error, the batter will still receive credit for the 
+sacrifice fly and the run batted in. If a play should have resulted in 
+a fielder's choice with a runner being put out and the batter reaching 
+base safely but the runner is safe due to an error, the play will be scored 
+as a fielder's choice, with no hit being awarded to the batter and an error 
+charged against the fielder. Passed balls and wild pitches are separate 
+statistical categories and are not scored as errors. If a batted ball were 
+hit on the fly into foul territory, with the batting team having no runner(s) 
+on base, and a fielder misplayed such ball for an error, it is possible 
+for a team on the winning side of a perfect game to commit at least one 
+error, yet still qualify as a perfect game. There is a curious loophole 
+in the rules on errors for catchers. If a catcher makes a "wild throw" 
+in an attempt to prevent a stolen base and the runner is safe, the catcher 
+is not charged with an error even if it could be argued that the runner 
+would have been put out with "ordinary effort." There is therefore a "no 
+fault" condition for the catcher attempting to prevent a steal. However, 
+when considering that the majority of stolen base attempts are successful 
+(around 2 successes per failure), this "no fault rule" is understandable 
+due to the extreme difficulty of throwing out runners. If the runner takes 
+an additional base due to the wild throw, an error is charged for that 
+advance. However, if the catcher's glove is hit by the bat, it is counted 
+as a catcher's interference and the catcher is given an error unless the 
+batter gets a hit off the play. Traditionally, the number of errors was 
+a statistic used to quantify the skill of a fielder. Research has shown 
+that the error rate is higher when the quality of fielding is suspect, 
+e.g., the performance of an expansion team in its first year, or the fielding 
+done by replacement players during World War II, and is lower when playing 
+conditions are better, e.g. on artificial turf and during night games.[1] 
+However, fans and analysts have questioned the usefulness and significance 
+of errors as a metric for fielding skill. Notably, mental misjudgments, 
+such as failure to cover a base or attempting a force out when such a play 
+is not available, are not considered errors. A more subtle, though more 
+significant objection to the error, as sabermetricians have noted, is more 
+conceptual. In order for a fielder to be charged with an error, he must 
+have done something right by being in the correct place to be able to attempt 
+the play. A poor fielder may "avoid" many errors simply by being unable 
+to reach batted or thrown balls that a better fielder could successfully 
+reach. Thus, it is possible that a poor fielder will have fewer errors 
+than any fielder with higher expectancies.[2] In recent times, official 
+scorers have made some attempt to take a fielder's supposed "extraordinary" 
+effort or positioning into account when judging whether the play should 
+have been successful given ordinary effort. However, this still leaves 
+statistics, such as fielding percentage, that are based on errors as a 
+way to compare the defensive abilities of players. Errors also hold significance 
+in calculating the earned run average (ERA) of a pitcher. Runs scored due 
+to an error are unearned, and do not count toward a pitcher's ERA. In Major 
+League Baseball, Herman Long holds the Major League records with 1096 errors 
+in his career between 1889 and 1904. Bill Dahlen, Deacon White and Germany 
+Smith are the only other players to make 1,000 errors during their MLB 
+careers. All of these players played at least one season before 1900. The 
+20th century record is held by Rabbit Maranville with 711 errors. Among 
+active players, Adrián Beltré leads with 275 errors over 2475 career games 
+as of June 14, 2015.[3] The major league record for pitchers in a career 
+is held by Hippo Vaughn, with 64 errors. That also is the National League 
+record. The American career mark is held by Ed Walsh. The most errors made 
+by a pitcher in a season is 28 by Jim Whitney, which also is the National 
+League record. The American League record of 15 is held by three pitchers, 
+Jack Chesbro, Rube Waddell, and Ed Walsh. The record for most errors made 
+by a pitcher in one inning is three, first set by Cy Seymour in 1898. The 
+record was tied by Tommy John in 1988, Jaime Navarro in 1996 and Mike Sirotka 
+in 1999.[4] Ivey Wingo holds the major league and National League records 
+for most errors made by a catcher, with 234. He made 59 errors while playing 
+for the Cardinals and 175 for the Reds. The American League record is held 
+by Wally Schang, who made 218 errors playing for five teams.[5] The major 
+league and National League records for errors by a first baseman is held 
+by Cap Anson, who made 568 errors. Hal Chase holds the American League 
+record with 285, 240 for the New York Highlanders and 40 for the Chicago 
+White Sox. Anson also holds the single season record for most errors by 
+a first baseman 58 while Steve Garvey holds the record for fewest in season, 
+with zero.[6] Fred Pfeffer holds the major league and National League records 
+for most errors made by a second baseman, with 857 and 781, respectively. 
+The American League record is 435, held by Hall of Famer Eddie Collins.[7] 
+Jerry Denny holds the Major League and National League records for most 
+errors by third basemen in a career with 533. Jimmy Austin holds the American 
+League record with 359.[8] Bill Dahlen holds both the major league and 
+National League record for shortstops, with 975 in 20 seasons. He made 
+443 errors with the Chicago Cubs, 260 with the Brooklyn Dodgers, 200 with 
+the New York Giants and 72 with the Boston Braves. (He also made 89 errors 
+as a third baseman, eight errors at second base, and eight errors as an 
+outfielder, for a total of 1,080 errors in his career.[9]) Donie Bush holds 
+the American League record, with 689, with all but the seven he recorded 
+with the Washington Senators being made with the Detroit Tigers.[10] Nineteenth-century 
+player Tom Brown established the major league record with 490 errors committed 
+as an outfielder. He racked up 222 errors in the American Association, 
+238 in the National League, and 30 in the Player's League. (Brown also 
+made six errors as a pitcher, for a total of 496 errors in his career.) 
+By contrast, the National League record is held by nineteenth-century player 
+George Gore with 346 errors and the American League record by Ty Cobb with 

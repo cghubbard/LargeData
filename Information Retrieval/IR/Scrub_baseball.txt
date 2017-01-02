@@ -1,0 +1,45 @@
+Scrub baseball (also called workup - because the fielders work their way 
+up to bat) is a way of playing baseball with no teams. The number of players 
+is variable, and score is not kept, as the idea is "each against all". 
+Batting, pitching, and fielding are the same as in standard baseball; scrub 
+is often used as practice for baseball, or a substitute when there aren't 
+enough players available, between six and eleven. The game is traditionally 
+initiated by one person yelling, "Scrubs!" to claim the first batting position. 
+Others quickly shout, "Scrub One!", "Scrub Two!", "Scrub Three!", etc. 
+As the number of players available increases they are divided as follows: 
+As in computer language, the first item - scrub - is counted as 0. When 
+an out is made the batter moves to the highest numbered position (e.g. 
+five = center field); five becomes four, four becomes three, three moves 
+to two, two moves to one, and one takes a turn as batter. However, if a 
+batted ball is caught in the air, the fielder who catches it becomes the 
+batter. With twelve or more players the game is generally played with two 
+teams divided as evenly as possible. Scrub baseball is a folk game with 
+no governing body, so the rules varied locally and from game to game, thus 
+the table is a guide to the most common method of dividing the teams. Sandlot 
+baseball games often started as scrub games until enough players arrived 
+to switch to team play. If one of the two batters reaches base, he or she 
+must run around all the bases and score during the turn of the other. This 
+leads to much daring base-running excitement. Sometimes the batter who 
+reaches base returns to bat again, leaving an "automatic runner" on base. 
+Automatic (invisible or ghost) runners advance the same number of bases 
+as the batter does, and may be forced out. Generally the game was called 
+workup when there were three or four players on the batting team and everyone 
+else in the field, with four bases in use. When one of the batters makes 
+an out he or she joins the fielding team, the pitcher joins the hitting 
+team, and everyone moves up a position. An exception to this takes place 
+when a fly ball is caught. In this case the fielder and the batter swap 
+or exchange positions and the player who caught the fly ball becomes the 
+next batter. In another version only one base is used, as in the 19th Century 
+game of One Old Cat. The base is third base. The fielding positions are 
+center field, left field, shortstop, third base, and pitcher. Two batters 
+work together until one makes an out and is replaced. The batter on deck 
+acts as the catcher. If no one is covering home (both batters are running), 
+then the runner advancing homeward can be put out by throwing the ball 
+to the plate before the runner gets there - a practice called "crossing 
+out". In still another variation, a volleyball or similar ball may be used 
+and there will be no pitcher. The "up" player sets the ball in motion by 
+holding it in his or her non-dominant hand, and sets it in motion by a 
+hefty strike from the other hand. This often occurs in crowded play areas, 
+such as schoolyards, where the use of bats and baseballs is usually banned 
+for reasons of safety. President Warren G. Harding played scrub baseball 
+as a boy [1], as did the historian Bruce Catton[2], and rockabilly singer 

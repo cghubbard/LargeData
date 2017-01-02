@@ -1,0 +1,41 @@
+In sabermetrics, the defensive spectrum is the graphical representation 
+of the positions on a baseball field, arranged from left (the easiest defensive 
+positions) to right (the hardest). The defensive spectrum is: Designated 
+hitter – First baseman – Left fielder – Right fielder – Third baseman – 
+Center fielder – Second baseman – Shortstop – Catcher – Pitcher In some 
+versions of the defensive spectrum, pitcher and catcher are not included, 
+since certain defensive demands of those positions are so specialized as 
+to be inapplicable to players at other positions. The designated hitter 
+is sometimes omitted since he is technically not part of the "defense" 
+at all. As an example of the concept in action, players who are drafted 
+by Major League Baseball teams as shortstops are far more likely to ultimately 
+end up at a different position than players who are drafted as first basemen. 
+Like many original sabermetric concepts, the idea of a defensive spectrum 
+was first introduced by Bill James in his Baseball Abstract series of books 
+during the 1980s. The basic premise of the spectrum is that positions on 
+the right side of the spectrum are more difficult than the positions on 
+the left side. Therefore, the positions are easier to fill as one goes 
+left on the spectrum, since the physical demands are less. A corollary 
+to this is that, since defensive skill is at less of a premium on the left 
+side, players at those positions must provide more offense than those on 
+the right. Another corollary is that players can generally move from right 
+to left along the spectrum successfully during their careers, but moving 
+a player from left to right is quite risky. A retrospective analysis of 
+the 130-year history of baseball shows that the defensive spectrum shifted 
+once. In the late 19th century and early 20th century, third base was generally 
+considered to be more challenging than second base. This was because the 
+double play was relatively uncommon in this period; thus, the third baseman, 
+who had to field hard hit grounders and throw the ball 120 feet to first 
+base, had a far more challenging job than the second baseman, who threw 
+the ball 70 feet at most. Frequent bunting also meant that the third baseman 
+would be more often challenged defensively. As a result, there were far 
+more good hitters at second base than third (great-hitting early second 
+basemen include Nap Lajoie and Rogers Hornsby), and the defensive spectrum 
+was: First baseman – Left fielder – Right fielder – Second baseman – Center 
+fielder – Third baseman – Shortstop – Catcher – Pitcher However, by the 
+1920s and 1930s, the defensive spectrum was beginning to shift. Double 
+plays were becoming steadily more common, increasing the defensive responsibilities 
+of second base. Offense was therefore increasingly important at third base. 
+One of the first new third basemen was Harlond Clift of the St. Louis Browns, 
+who was notable as the first third baseman to hit 30 home runs. By 1945, 
+second base was firmly established as a more defensively important position 

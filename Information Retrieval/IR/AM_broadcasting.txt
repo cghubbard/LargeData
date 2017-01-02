@@ -1,0 +1,420 @@
+AM broadcasting is the process of radio broadcasting using amplitude modulation 
+(AM). AM was the first method of impressing sound on a radio signal and 
+is still widely used today. Commercial and public AM broadcasting is authorized 
+in the medium wave band worldwide, and also in parts of the longwave and 
+shortwave bands. Radio broadcasting was made possible by the invention 
+of the amplifying vacuum tube, the Audion (triode), by Lee de Forest in 
+1906, which led to the development of inexpensive vacuum tube AM radio 
+receivers and transmitters during World War I. Commercial AM broadcasting 
+developed from amateur broadcasts around 1920, and was the only commercially 
+important form of radio broadcasting until FM broadcasting began after 
+World War II. This period is known as the "Golden Age of Radio". Today, 
+AM competes with FM, as well as with various digital radio broadcasting 
+services distributed from terrestrial and satellite transmitters. In many 
+countries the narrow audio bandwidth (lower audio fidelity) and higher 
+levels of interference experienced with AM transmission have led AM broadcasters 
+to specialise in spoken-word programming such as news, sports and talk 
+radio, leaving transmission of music mainly to FM and digital broadcasters. 
+The technology of amplitude modulation (AM) radio transmission (then called 
+radiotelephony) was developed between 1900 and 1920. Before AM came into 
+wide use around 1920, the first radios transmitted information by wireless 
+telegraphy (radiotelegraphy), in which the radio signal did not carry audio 
+(sound) but was switched on and off to create pulses that carried text 
+messages in Morse code. This was used for private person-to-person communication 
+and message traffic, such as telegrams. The entrepreneurs who developed 
+AM "radiotelephone" transmission did not anticipate broadcasting voice 
+and music into people's homes.[2] The term "broadcasting", borrowed from 
+agriculture, was applied to this new activity (by either Frank Conrad or 
+RCA historian George Clark[2]) around 1920.[2] Prior to 1920 there was 
+no concept of "broadcasting", or that radio listeners could be a mass market 
+for entertainment.[2] Promoters saw the practical application for AM as 
+similar to the existing communication technologies of wireless telegraphy, 
+telephone, and telegraph: two-way person-to-person commercial voice service, 
+a wireless version of the telephone.[3] Although there were a number of 
+experimental broadcasts during this period, these were mostly to provide 
+publicity for the inventor's products. True radio broadcasting didn't begin 
+until around 1920, when it sprang up spontaneously among amateur stations. 
+AM remained the dominant method of broadcasting for the next 30 years, 
+a period called the "Golden Age of Radio", until FM broadcasting started 
+to become widespread in the 1950s. AM remains a popular, profitable entertainment 
+medium today and the dominant form of broadcasting in some countries such 
+as Australia and Japan. The first AM voice transmission was made by Canadian 
+researcher Reginald Fessenden on 23 December 1900, using a specially designed 
+spark gap transmitter.[4][5] Fessenden is a significant figure in the development 
+of AM radio. He realized that the damped waves produced by the existing 
+spark transmitters, which transmitted text data by wireless telegraphy, 
+could not be used to transmit sound, but rather continuous wave transmitters 
+were needed.[6] He helped develop one of the first – the Alexanderson alternator.[4]:373–4[5]:400[6][7][8] 
+He also discovered the principle on which AM modulation is based,[9][10][11][12][13] 
+heterodyning,[6] and invented one of the first detectors able to rectify 
+and receive AM, the electrolytic detector or "liquid baretter", in 1902.[6] 
+The early experiments in AM transmission, conducted by Fessenden, Valdemar 
+Poulsen, Ernst Ruhmer, Quirino Majorana, Charles Herrold, and Lee de Forest, 
+were hampered by the lack of a technology for amplification. The first 
+practical continuous wave AM transmitters were based on versions of the 
+Poulsen arc transmitter invented in 1903,[3] and the huge, expensive Alexanderson 
+alternator, developed 1906-1910. The modifications necessary to transmit 
+AM were clumsy and resulted in very low audio quality. Modulation was usually 
+accomplished by a carbon microphone inserted directly in the antenna wire. 
+The limited power handling ability of the microphone severely limited the 
+power of the first radiotelephones; in powerful transmitters water-cooled 
+microphones had to be used. At the receiving end, the unamplified crystal 
+radio receivers then in use could not drive loudspeakers, only earphones, 
+so only one member of a family could listen at a time. The discovery in 
+1912 of the amplifying ability of the Audion (triode) vacuum tube, invented 
+in 1906 by Lee De Forest, solved the above problems. The vacuum tube feedback 
+oscillator invented in 1912 by Alexander Meissner and Edwin Armstrong, 
+was a cheap source of continuous waves and could be easily modulated to 
+make an AM transmitter. Nongovernmental radio transmission was prohibited 
+in many countries during World War 1, but AM radiotelephony technology 
+advanced greatly due to wartime research, and after the war the availability 
+of cheap tubes sparked a great increase in the number of amateur radio 
+stations experimenting with AM transmission of news or music, giving people 
+more to listen to. New vacuum tube receivers coming on the market could 
+power loudspeakers, so the entire family could sit and listen together, 
+and people could dance to broadcast music. Vacuum tubes remained the central 
+technology of radio for 50 years, until transistors replaced them in the 
+1960s, and they are still used in broadcast transmitters. These changes 
+caused radio listening to evolve explosively around 1919-1922 from a high-tech 
+hobby to a hugely popular social and family pastime, the first electronic 
+mass entertainment medium. In the US, the first broadcast stations were 
+hobby and voluntary efforts without explicit advertising, started by a 
+variety of local organizations: amateurs, local businesses looking for 
+promotion, newspapers, schools, clubs, political parties, and churches. 
+Some naval radio stations broadcast programs of music to the public at 
+certain hours. Later businesses learned to use this new medium to sell 
+products, paying for on-air commercial advertising. US radio broadcasting 
+developed into a private, profitmaking business, with minimal government 
+control on content. In Europe, broadcasting took a different course. Radio 
+transmission had always been more tightly controlled by government in this 
+region, partly because countries were smaller and closer together; for 
+example, in the UK receiving equipment as well as transmitters had to be 
+licensed. There was a feeling in countries like the UK and France that 
+the radio spectrum was a national resource which should not be surrendered 
+to private interests, motivated by profit, who would pander solely to the 
+desire for entertainment. Radio should serve higher purposes of public 
+information and education. In addition, totalitarian countries for political 
+reasons kept mass communications media under government control. So in 
+much of Europe, broadcasting developed as a government-owned or government-supervised 
+monopoly. It was largely funded not by on-air commercial advertising as 
+in the US, but by taxes on sales of radios, and user fees in the form of 
+an annual "receiver license" that anyone owning a radio had to buy. Who 
+made the "first" radio broadcast is a contentious issue. In the chaotic, 
+freewheeling, experimental atmosphere of early AM wireless, it is difficult 
+to draw a distinction between "private" and "public" transmissions. In 
+many cases, radio listeners tuned into experimental transmissions by the 
+first stations developing AM modulation, and the stations began to cater 
+to their unexpected audience with news and music.[2] Some of the early 
+milestones: World War I brought home to nations the strategic importance 
+of long-distance radio; in addition to its military uses in keeping contact 
+with its fleets and overseas forces, a country that didn't have radio could 
+be isolated by an enemy cutting its submarine telegraph cables. In the 
+US, before the war, the radio industry was fragmented by patent monopolies 
+held by competing giant firms, so the best long-range radio technology 
+was owned by two European firms: the British Marconi Co. and the German 
+Telefunken. At its entry into the war in 1917, the US government temporarily 
+took control of the entire US radio industry for the war effort, including 
+the transatlantic wireless stations of these foreign firms. After the war, 
+due to fear of foreign ownership of the US radio industry, there was an 
+abortive effort to create a federal radio monopoly. Instead, in 1919 the 
+US government brokered a patent cross-licensing and market-sharing agreement 
+between the competing US corporate giants AT&T, Westinghouse, United Fruit, 
+and General Electric. Foreign firms were forbidden to own US radio stations, 
+and US assets of Marconi and Telefunken were sold to a newly created firm, 
+the Radio Corporation of America, RCA. AT&T, Westinghouse, and GE would 
+manufacture radio equipment, and RCA would be the marketing and transmitting 
+arm. This "radio group" oligopoly controlled the US radio industry into 
+the 1940s. As the US audience for "broadcasting" grew in 1919-22, it caught 
+the interest of the big radio corporations, and they began buying stations. 
+They established "flagship" stations in major cities to promote their corporate 
+image, which during this period broadcast top-quality entertainment and 
+news without advertising. Since longwave radio frequencies were used for 
+international wireless telegraphy, broadcasting was mostly limited to the 
+medium waves, whose limited range restricted them to local audiences. Corporations 
+around 1922 realized that long distance telephone lines, another innovation 
+made possible around 1915 by the vacuum tube, could be used to link local 
+radio stations into networks (the word "chains" was used until the 1930s) 
+broadcasting common content, giving corporations a nationwide audience.[25] 
+In the US, the nationwide telephone carrier AT&T was the first to create 
+a network and take the radical step of commercial advertising. It developed 
+a broadcasting model based on its telephony business: "toll" broadcasting. 
+Its flagship station, WEAF in New York, in August 1922 was first to air 
+commercial advertising, selling half-hour and hour blocks of airtime to 
+commercial "sponsors" that developed entertainment shows containing commercial 
+messages. It had a monopoly on quality telephone lines, and by 1924 had 
+linked 12 stations in Eastern cities into a "chain". RCA and Westinghouse 
+attempted to organize their own network around their flagship WJZ, but 
+were hampered by AT&T's refusal to lease them lines. In 1925 court decisions 
+stripped AT&T of its monopoly over broadcasting, and it decided to get 
+out of radio. AT&T sold WEAF to RCA, which formed the nucleus of the new 
+NBC network. In 1927, to reduce the "chaos" on the airwaves, the government 
+came down on the side of the advertising model, establishing two classes 
+of broadcast licenses: the "A" or "general public interest" stations which 
+sold time impartially to anyone, received favorable frequency assignments 
+and flourished, and the "B" or nonprofit "propaganda" stations, mainly 
+special-interest, political or religious stations which represented a point 
+of view, were phased out. The adoption of the commercial sponsorship model 
+made radio broadcasting profitable, bringing in a lucrative stream of income 
+that could be used to buy top-quality talent. The new business of advertising 
+agencies acted as middlemen, and by the late 1920s modern radio advertisements 
+were developed. Networks began to see their true product as their audience, 
+and began to tailor shows to bring in specific demographics desired by 
+their advertisers. By the 1930s, most of the radio stations in the country 
+were affiliated with networks owned by two companies, NBC and CBS. In 1934, 
+a third, the Mutual Radio Network was formed as a cooperative owned by 
+its stations. The other country which pioneered broadcasting, the UK, and 
+its national network the BBC, became the prototype for state-managed monopoly 
+broadcasting.[26] The abrupt shutdown of the 1920 UK experimental Marconi 
+broadcasts had caused increasing pressure on the Post Office to allow broadcasting.[27] 
+The government wanted to avoid the "chaotic" US experience, but also feared 
+a monopoly by the giant Marconi.[27] On 18 October 1922 it allowed 6 large 
+radio manufacturers to form a consortium, the British Broadcasting Company, 
+which was given a monopoly on broadcasting, supported by a tax on radio 
+sets and a license fee on receivers collected by the Post Office.[27] Initially 
+its 8 stations were allowed regional autonomy, but its visionary general 
+manager, John Reith, centralized production in London and lobbied for the 
+removal of advertising and commercial interests. During Britain's General 
+Strike of 1926, when the newspapers were shut down, the BBC was first allowed 
+to broadcast daytime news, and the country was impressed by its impartial 
+reporting.[28] In late 1926 Reith's proposals were adopted, the BBC was 
+nationalised, and an independent nonprofit chartered corporation was formed, 
+the British Broadcasting Corporation supported solely by a 10 shilling 
+receiver license fee.[28] Under Reith, the BBC enforced strict broadcast 
+standards on its channels. Both the National and Regional programmes were 
+required to carry a mixture of populist and high brow programmes. During 
+the 1920s AM broadcasting extended to the rest of the world. In general, 
+the Middle East, Asian, and African countries adopted the European model 
+of centralized government-run radio networks, while Latin America adopted 
+the US model of private commercial broadcasting.[26] The discovery in the 
+1920s of the "skip" or "skywave" propagation mechanism, in which high frequency 
+radio waves are reflected back to Earth beyond the horizon by the ionosphere, 
+made the shortwave frequencies above 1 MHz, previously considered useless, 
+a useful band for long distance broadcasting. During the 1920s, 1930s, 
+and 1940s, a period called the "Golden Age of Radio", AM radio was the 
+main source of home entertainment, filling a role similar to the one television 
+played until the Internet started to replace it in the 2010s. This was 
+a big change in people's lives; for the first time people were getting 
+entertainment from outside the home. Instead of having to settle for more 
+traditional forms of entertainment such as oral storytelling and music 
+from family members, they could listen to Bing Crosby's crooning, a BBC 
+Shakespeare play, or a baseball game at New York's Ebbets Field. New forms 
+of entertainment were created for the new medium, many of which later migrated 
+to television: radio plays, mystery serials, soap operas, quiz shows, variety 
+hours, situation comedies, children's shows. Radio news kept people up-to-date, 
+and remote reporting allowed them to be vicariously "present" at notable 
+events, such as the famous 1937 Hindenburg disaster. In the 1920s the home 
+radio receiver evolved from a forbidding technological device which was 
+esthetically unattractive and difficult to operate, to a consumer item, 
+a piece of furniture, housed in an attractive wooden cabinet, with simple 
+controls designed for anyone to operate, which occupied a place of honor 
+in the living room. The dynamic cone loudspeaker invented in 1924 greatly 
+improved audio frequency response over the previous horn speakers, allowing 
+music to be reproduced with good fidelity.[29] Prior to the introduction 
+of the high-fidelity, long-playing record in the late 1940s, AM radio offered 
+the highest sound quality available in a home audio device. Luxury models 
+offered large speakers, "electric eye" tuning (a special type of vacuum 
+tube, which provided a visual aid in tuning), mechanical push-button "memory" 
+of favorite stations, sometimes with booklets of adhesive labels for the 
+buttons with station call letters, and—an inexpensive but impressive feature—shortwave 
+bands that allowed access to distant, often foreign, stations. Accessory, 
+then factory-installed radios became available for cars. Radio eased the 
+isolation of rural life, and allowed people on farms and in towns to keep 
+up with what was happening in the cities. Politicians could speak to millions 
+of citizens at a time; during the Depression Americans gathered around 
+their radios to listen to Franklin Roosevelt's "fireside chats". This period 
+saw the rise of radio propaganda as a powerful tool of governments, contributing 
+to the rise of fascist and communist ideologies. AM radio is often noisy. 
+There is no protection from static created by lightning, electrical equipment, 
+and other sources of signal pollution. Especially at night, conflict between 
+nearby and distant stations using a single frequency is common, and requires 
+many smaller stations to operate at much reduced power after sundown. Finally, 
+the 10 kilohertz minimum separation between stations in the United States 
+limits fidelity to sounds much lower than the upper limit of human hearing, 
+and the advent of high-fidelity recording equipment has created a demand 
+for high-fidelity radio.[citation needed] As a result of these shortcomings, 
+especially the noise issue, RCA in 1934 hired Edwin Howard Armstrong to 
+test his FM broadcasting system, which started to be deployed in the 1940s, 
+but because of a frequency band change in 1946 would not achieve dominance 
+over AM until the end of the 1970s.[30] In the 1940s two new broadcast 
+media evolved in the US which competed with AM: FM radio and television. 
+By the 1950s, the dominance of AM radio over home entertainment ended. 
+Television replaced AM radio as an evening family pastime; instead of sitting 
+and listening to the radio, families would watch television. By the 1970s 
+FM radio, due to its superior audio quality, attracted serious audiophiles. 
+The AM radio industry suffered a serious loss of audience and advertising 
+revenue during this time, and the value of an AM broadcast license was 
+eventually to decline substantially. The industry coped with this by developing 
+new "narrowcasting" strategies. Network broadcasting gave way to format 
+broadcasting; instead of broadcasting the same programs all over the country, 
+AM stations specialized in different "formats" which appealed to different 
+audience segments: regional and local news, sports, "talk" programs, programs 
+targeted at minorities. "Talk radio", which avoided the need for the broadcaster 
+to pay music royalties, appeared during this period as a consequence of 
+the less expensive "air time", and the need to develop alternative programming, 
+at reasonable cost, to replace the lost network programming. Rather than 
+live music, stations played cheaper recorded music, and developed the "Top 
+40" format, which capitalized on (and created) the popularity of new rhythm 
+and blues and rock music. Listening habits changed in the 1960s due to 
+the introduction of the revolutionary transistor radio, made possible by 
+the invention of the transistor in 1946, which greatly reduced power requirements 
+and allowed people to listen to radio anywhere using only small batteries. 
+A transistor radio was smaller, lighter, and cooler. Radio became a ubiquitous 
+"companion medium" which people could take with them in their pocket, and 
+listen to while at work, gardening, or at the beach. In the late 1970s, 
+in an unsuccessful effort to stem the exodus of the music audience to FM, 
+the US AM radio industry developed technology for broadcasting in stereo. 
+Stereo is the standard in the music recording industry, and FM broadcasting 
+had adopted a stereo standard early, in 1961. The technology was challenging 
+because of the narrow 20 kHz bandwidth of the AM channel, and the need 
+for backward compatibility with non-stereo AM receivers. In 1975 the US 
+Federal Communications Commission requested proposals for AM stereo standards, 
+and four competing standards were submitted: Harris Corporation's V-CPM 
+(Variable angle Compatible Phase Multiplex), Magnavox's PMX, Motorola's 
+C-QUAM (Compatible Quadrature Amplitude Modulation), and Kahn-Hazeltine 
+independent sideband system. All except the Kahn-Hazeltine system used 
+variations on the same idea: the mono (Left + Right) signal was transmitted 
+in the amplitude modulation as before, while the stereo (Left − Right) 
+information was transmitted by phase modulation. In 1980 the FCC chose 
+the Magnavox PMX system as the US standard. The FCC was savagely criticized 
+by the other contenders, and lawsuits erupted. In 1982, the FCC reversed 
+its decision and decided not to enforce a standard but allow multiple systems, 
+to "let the marketplace decide". Meanwhile, other nations adopted AM stereo, 
+many choosing Motorola's C-QUAM. Their choice of a single standard rather 
+than allowing competing standards as the US, resulted in greater acceptance 
+of AM stereo in these markets. In 1993, the FCC made C-QUAM system the 
+US standard. Globally, the adoption of stereo broadcasting was never great, 
+and declined after 1990. With the continued migration of AM stations away 
+from music to news, sports, and talk formats, receiver manufacturers saw 
+little reason to adopt the more expensive stereo tuners, and thus radio 
+stations have little incentive to upgrade to stereo transmission. AM radio 
+technology is simpler than frequency modulated (FM) radio, Digital Audio 
+Broadcasting (DAB), satellite radio or HD (digital) radio. An AM receiver 
+detects amplitude variations in the radio waves at a particular frequency. 
+It then amplifies changes in the signal voltage to drive a loudspeaker 
+or earphones. The earliest crystal radio receivers used a crystal diode 
+detector with no amplification, and required no power source other than 
+the radio signal itself. In North American broadcasting practice, transmitter 
+power input to the antenna for commercial AM stations ranges from about 
+250 to 50,000 watts. Experimental licenses were issued for up to 500,000 
+watts radiated power, for stations intended for wide-area communication 
+during disasters. One such superstation was Cincinnati station WLW, which 
+used such power on occasion before World War II. WLW's superpower transmitter 
+still exists at the station's suburban transmitter site, but it was decommissioned 
+in the early 1940s and no current commercial broadcaster in the U.S. or 
+Canada is authorized for such power levels. Some other countries do authorize 
+higher power operation (for example the Mexican station XERF formerly operated 
+at 250,000 watts). Antenna design must consider the coverage desired and 
+stations may be required, based on the terms of their license, to directionalize 
+their transmitted signal to avoid interfering with other stations operating 
+on the same frequency. Medium-wave (medium frequency, MF) and short-wave 
+(high frequency, HF) radio signals act differently during daytime and nighttime. 
+During the day, MF signals travel by groundwave, diffracting around the 
+curve of the earth over a distance up to a few hundred kilometers from 
+the signal transmitter. However, after sunset, changes in the ionosphere 
+cause MF signals to travel by skywave, enabling radio stations to be heard 
+much farther from their point of origin than is normal during the day. 
+This phenomenon can be easily observed by scanning the medium wave radio 
+dial at night. As a result, many broadcast stations are required as a condition 
+of license to reduce their broadcasting power significantly (or use directional 
+antennas) after sunset, or even to suspend broadcasting entirely during 
+nighttime hours. Such stations are commonly referred to as daytimers. In 
+Australia medium wave stations are not required to reduce their power at 
+night and consequently stations such as the 50,000-watt 774 ABC Melbourne 
+can be heard in some parts of New Zealand at night. From 1941 to 1983, 
+the North American Regional Broadcasting Agreement allowed clear channel 
+status to some stations, meaning that few if any other stations were granted 
+permission to broadcast on or near their frequency. This allowed an extended 
+coverage area when skywave propagation takes over at night, starting at 
+or near local sunset. Relatively few stations enjoy clear-channel status; 
+most local MW stations rely on ground-wave coverage only, limiting their 
+target market to their own local area. Non-clear channel stations typically 
+have reduced coverage at night, due to noise and the interference caused 
+by other stations propagating in via skywave after dark. The area covered 
+by a local station at night without significant skywave interference is 
+known as the nighttime interference-free (NIF) contour, and is typically 
+specified in mV/m (signal strength). The higher the NIF value, the stronger 
+the local signal must be to override nighttime interference, resulting 
+in a smaller coverage area and fewer listeners able to hear the station 
+without interference. The hobby of listening to long distance signals is 
+known as DX'ing, from an old telegraph abbreviation for "distance". Several 
+nonprofit hobbyist clubs are devoted to DXing the AM broadcast band, including 
+the National Radio Club and International Radio Club of America. Similarly, 
+people listening to short wave transmissions are SWLing. AM radio is broadcast 
+on several frequency bands. The allocation of these bands is governed by 
+the ITU's Radio Regulations and, on the national level, by each country's 
+telecommunications administration (the FCC in the U.S., for example) subject 
+to international agreements. The frequency ranges given here are those 
+that are allocated to stations. Because of the bandwidth taken up by the 
+sidebands, the range allocated for the band as a whole is usually about 
+5 kHz wider on either side. Frequencies between the broadcast bands are 
+used for other forms of radio communication, and are not broadcast services 
+intended for reception by the general public. Because of its relatively 
+low audio quality due to audio bandwidth limitations, and its susceptibility 
+to atmospheric and electrical interference, AM broadcasting now attracts 
+mainly talk radio and news programming, while music radio and public radio 
+mostly shifted to FM broadcasting in the late 1970s in the developed countries. 
+However, in the late 1960s and 1970s, top 40 rock and roll stations in 
+the U.S. and Canada such as WABC and CHUM transmitted highly processed 
+and extended audio to 11 kHz, successfully attracting huge audiences. In 
+the UK during the 1980s, the national speech station, BBC Radio 4, had 
+an FM location, whereas BBC Radio 1, a music station, was confined to AM 
+broadcasts. Frequency response is typically 40 Hz–5 kHz with a 50 dB signal 
+to noise (S/N) ratio.[citation needed] The limitation on AM fidelity comes 
+partly from current receiver design, and efforts have been made to improve 
+this, notably the AMAX standards. Moreover, to fit more transmitters on 
+the MW broadcast band in the United States, maximum transmitted audio bandwidth 
+is limited to 10.2 kHz by a National Radio Systems Committee (NRSC) standard 
+adopted by the FCC in June 1989, resulting in a channel occupied bandwidth 
+of 20.4 kHz. The former audio limitation was 15 kHz resulting in a channel 
+occupied bandwidth of 30 kHz. Modern domestic radio receivers with digital 
+tuning are usually incapable of fine-tuning in 1 kHz steps. On radios with 
+analog dial tuning (or 1 kHz step capable digital tuning), slight detuning 
+of an AM station could often improve listenability, where for instance 
+interference is present to one side only of the RF channel. AM radio signals 
+can be severely disrupted in large urban centres by metal structures, tall 
+buildings and sources of radio frequency interference (RFI) and electrical 
+noise, such as electrical motors, fluorescent lights, or lightning. As 
+a result, AM radio in many countries has lost its dominance as a music 
+broadcasting service, and in many cities is now relegated to news, sports, 
+religious and talk radio stations. Some musical genres – particularly country, 
+oldies, nostalgia and ethnic music – survive on AM, especially in areas 
+where FM frequencies are in short supply or in thinly populated or mountainous 
+areas where FM coverage is poor. Beginning in the 1950s, carrier current 
+distribution was used. In this modality the AM broadcast signal is not 
+transmitted via antenna, but via electric power cables, which radiate a 
+signal receivable at a short distance from wherever the cables run. The 
+signal is normally blocked by power transformers, so the range depends 
+on the distance before a transformer is encountered. The only surviving 
+use of this technology in the U.S. is in college and high school radio, 
+and for highway emergency warnings, for which limited range is adequate, 
+and whose signs direct drivers to an AM frequency – e.g., "Tune to 1680 
+AM when flashing" – to receive an emergency message. While uncommon, AM 
+stereo transmissions are possible using a variety of means. In addition, 
+hybrid digital broadcast systems, which combine (mono analog) AM and digital 
+broadcasting technology, are now being used around the world. In the United 
+States, iBiquity's proprietary HD Radio has been adopted and approved by 
+the FCC for medium wave transmissions, while Digital Radio Mondiale is 
+a more open effort often used on the shortwave bands, and can be used alongside 
+many AM broadcasts. Both of these standards are capable of broadcasting 
+audio of significantly greater fidelity than that of standard AM with current 
+bandwidth limitations, and a theoretical frequency response of 0–16 kHz, 
+in addition to stereo sound and text data. While FM radio can also be received 
+by cable, AM radio generally is not available, although AM stations are 
+sometimes converted into FM cable signals. In Canada, cable operators that 
+offer FM cable services are required by the CRTC to distribute all locally 
+available AM stations in this manner. In Switzerland a system known as 
+"wire broadcasting" (Telefonrundspruch in German) transmitted AM signals 
+over telephone lines in the longwave band until 1998, when it was shut 
+down.[31] In the UK, Rediffusion was an early pioneer of AM radio cable 
+distribution. Some microbroadcasters and pirate radio broadcasters, especially 
+those in the United States under the FCC's Part 15 rules, broadcast on 
+AM to achieve greater range than is possible on the FM band. On mediumwave 
+(AM), such radio stations are often found between 1610 kHz and 1710 kHz. 
+Hobbyists also use low-power AM (LPAM) transmitters to provide programming 
+for vintage radio equipment in areas where AM programming is not widely 
+available or does not carry programming the listener desires; in such cases 
+the transmitter, which is designed to cover only the immediate property 
+and perhaps nearby areas, is connected to a computer, an FM radio or an 
+MP3 player. Microbroadcasting and pirate radio have been greatly supplemented 
+by streaming audio on the Internet, but some schools or hobbyists still 
+use LPAM as a means of broadcasting as each are distinctly different technologies. 

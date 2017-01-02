@@ -1,0 +1,791 @@
+A tram (also known as tramcar; and in North America known as streetcar, 
+trolley or trolley car) is a rail vehicle which runs on tracks along public 
+urban streets, and also sometimes on a segregated right of way.[1] The 
+lines or networks operated by tramcars are called tramways. Tramways powered 
+by electricity, the most common type historically, were once called electric 
+street railways (mainly in the USA). However, trams were widely used in 
+urban areas before the universal adoption of electrification; other methods 
+of powering trams are listed below under "History". Tram lines may also 
+run between cities and/or towns (for example, interurbans, tram-train), 
+and/or partially grade-separated even in the cities (light rail). Very 
+occasionally, trams also carry freight. Tram vehicles are usually lighter 
+and shorter than conventional trains and rapid transit trains, but the 
+size of trams (particularly light rail vehicles) is rapidly increasing. 
+Some trams (for instance tram-trains) may also run on ordinary railway 
+tracks, a tramway may be upgraded to a light rail or a rapid transit line, 
+two urban tramways may be connected to an interurban, etc. For all these 
+reasons, the differences between the various modes of rail transportation 
+are often indistinct. In the United States, the term tram has sometimes 
+been used for rubber-tired trackless trains, which are not related to the 
+other vehicles covered in this article. Today, most trams use electrical 
+power, usually fed by an overhead pantograph; in some cases by a sliding 
+shoe on a third rail, trolley pole or bow collector. If necessary, they 
+may have dual power systems — electricity in city streets, and diesel in 
+more rural environments. Trams are now included in the wider term "light 
+rail",[2][full citation needed] which also includes segregated systems. 
+The English terms tram and tramway are derived from the Scots word tram,[3][publisher missing] 
+referring respectively to a type of truck (goods wagon or freight railroad 
+car) used in coal mines and the tracks on which they ran. The word tram 
+probably derived from Middle Flemish trame ("beam, handle of a barrow, 
+bar, rung"), a Romanesque word meaning the beam or shaft of a barrow or 
+sledge, also the barrow itself. The identical word la trame with the meaning 
+"crossbeam" is also used in the French language. Etymologists believe that 
+the word tram refers to the wooden beams the railway tracks were initially 
+made of before the railroad pioneers switched to the much more wear-resistant 
+tracks made of iron and, later, steel.[4] The word Tram-car is attested 
+from 1873.[5] Although the terms tram and tramway have been adopted by 
+many languages, they are not used universally in English; North Americans 
+prefer streetcar, trolley, or trolleycar. The term streetcar is first recorded 
+in 1840, and originally referred to horsecars. When electrification came, 
+Americans began to speak of trolleycars or later, trolleys. A widely held 
+belief holds the word to derive from the troller (said to derive from the 
+words traveler and roller), a four-wheeled device that was dragged along 
+dual overhead wires by a cable that connected the troller to the top of 
+the car and collected electrical power from the overhead wires;[6] this 
+portmanteau derivation is, however, most likely folk etymology. "Trolley" 
+and variants refer to the verb troll, meaning 'roll' and probably derived 
+from Old French,[7] and cognate uses of the word were well established 
+for handcarts and horse drayage, as well as for nautical uses. The troller 
+design frequently fell off the wires, and was soon replaced by other more 
+reliable devices, the trolley pole and notably the bow collector. Both 
+were fitted to the top of the car and were spring-loaded in order to keep, 
+respectively, a small trolley wheel or grooved lubricated "skate" mounted 
+at the top of the pole or a steel rod forming the top of the bow firmly 
+in contact with the underside of the overhead wire. The terms trolley pole 
+and trolley wheel both derive from the troller.[8] Trams using trolley-pole 
+current collection are normally powered through a single pole, with return 
+current earthed through the steel wheels and rails, though some systems 
+(e.g. parts of the London system), used twin overhead wires and poles to 
+avoid the effects of stray currents flowing through the earth. Modern trams 
+often have an overhead pantograph mechanical linkage to connect to power, 
+abandoning the trolley pole altogether. The alternative North American 
+term trolley may strictly speaking be considered incorrect, as the term 
+can also be applied to cable cars, or conduit cars that instead draw power 
+from an underground supply. Conventional diesel tourist buses decorated 
+to look like streetcars are sometimes called trolleys in the US (tourist 
+trolley). Furthering confusion, the term tram has instead been applied 
+to open-sided, low-speed segmented vehicles on rubber tires generally used 
+to ferry tourists short distances, for example on the Universal Studios 
+backlot tour and, in many countries, as tourist transport to major destinations. 
+The term may also apply to an aerial ropeway, e.g. the Roosevelt Island 
+Tramway. Over time, the term trolley has fallen into informal use, and 
+may be applied loosely to a wide variety of different vehicle types. The 
+word has taken on a historic or picturesque connotation, and is often associated 
+with tourist or leisure travel. In North America, professional or formal 
+documents generally use more precise alternative terms, such as streetcar 
+or light rail vehicle (LRV). Although the use of the term trolley for tram 
+was not adopted in Europe, the term was later associated with the trolleybus, 
+a rubber-tyred vehicle running on hard pavement, which draws its power 
+from pairs of overhead wires. These electric buses, which use twin trolley 
+poles, are also called trackless trolleys (particularly in the northeastern 
+US), or sometimes simply trolleys (in the UK, as well as in Seattle and 
+Vancouver). The very first tram was on the Swansea and Mumbles Railway 
+in south Wales, UK; it was horse-drawn at first, and later moved by steam 
+and electric power. The Mumbles Railway Act was passed by the British Parliament 
+in 1804, and the first tram (similar to streetcars in the US some 30 years 
+later) started operating in 1807.[9] The first streetcars, also known as 
+horsecars in North America, were built in the United States and developed 
+from city stagecoach lines and omnibus lines that picked up and dropped 
+off passengers on a regular route without the need to be pre-hired. These 
+trams were an animal railway, usually using teams of horses and sometimes 
+mules to haul the cars, usually two as a team. Occasionally other animals 
+were put to use, or humans in emergencies. The first streetcar line, developed 
+by Irish born John Stephenson, was the New York and Harlem Railroad's Fourth 
+Avenue Line which ran along The Bowery and Fourth Avenue in New York City. 
+Service began in 1832. It was followed in 1835 by New Orleans, Louisiana, 
+which has the oldest continuously operating street railway system in the 
+world, according to the American Society of Mechanical Engineers.[10] In 
+other world regions, the first tramway systems (all horse-drawn) were: 
+In many cases, these early forms of public transport developed out of industrial 
+haulage routes or from the omnibus that first ran on public streets, using 
+the newly invented iron or steel rail or 'tramway'. These were local versions 
+of the stagecoach lines and picked up and dropped off passengers on a regular 
+route, without the need to be pre-hired. Horsecars on tramlines were an 
+improvement over the omnibus as the low rolling resistance of metal wheels 
+on iron or steel rails (usually grooved from 1852 on), allowed the animals 
+to haul a greater load for a given effort than the omnibus and gave a smoother 
+ride. The horse-drawn streetcar combined the low cost, flexibility, and 
+safety of animal power with the efficiency, smoothness, and all-weather 
+capability of a railway. In Australia, there were horse-drawn lines or 
+systems in: Adelaide, S.A.; Ballarat, Victoria; Brisbane, Queensland; Gawler, 
+S.A.; Perth, W.A.; Sydney, N.S.W.; Victor Harbor, S.A. - the latter reconstructed 
+and operating as a tourist/heritage line. The first mechanical trams were 
+powered by steam. Generally, there were two types of steam tram. The first 
+and most common had a small steam locomotive (called a tram engine in the 
+UK) at the head of a line of one or more carriages, similar to a small 
+train. Systems with such steam trams included Christchurch, New Zealand; 
+Sydney, Australia; other city systems in New South Wales; Munich, Germany 
+(from August 1883 on),[11] British India (Pakistan) (from 1885) and the 
+Dublin & Blessington Steam Tramway in Ireland. Steam tramways also were 
+used on the suburban tramway lines around Milan and Padua; the last Gamba 
+de Legn ("Peg-Leg") tramway ran on the Milan-Magenta-Castano Primo route 
+in late 1958.[citation needed] Tram engines usually had modifications to 
+make them suitable for street running in residential areas. The wheels, 
+and other moving parts of the machinery, were usually enclosed for safety 
+reasons and to make the engines quieter. Measures were often taken to prevent 
+the engines from emitting visible smoke or steam. Usually the engines used 
+coke rather than coal as fuel to avoid emitting smoke; condensers or superheating 
+were used to avoid emitting visible steam. The other style of steam tram 
+had the steam engine in the body of the tram, referred to as a tram engine 
+or steam dummy. The most notable system to adopt such trams was in Paris. 
+French-designed steam trams also operated in Rockhampton, in the Australian 
+state of Queensland between 1909 and 1939. Stockholm, Sweden, had a steam 
+tram line at the island of Södermalm between 1887 and 1901. A major drawback 
+of this style of tram was the limited space for the engine, so that these 
+trams were usually underpowered. The next motive system for trams was the 
+cable car, which was pulled along a fixed track by a moving steel cable. 
+The power to move the cable was normally provided at a "powerhouse" site 
+a distance away from the actual vehicle. The first practical cable car 
+line was tested in San Francisco, in 1873. Part of its success is attributed 
+to the development of an effective and reliable cable grip mechanism, to 
+grab and release the moving cable without damage. The second city to operate 
+cable trams was Dunedin in New Zealand, from 1881 to 1957. From 1885 to 
+1940, the city of Melbourne, Victoria, Australia operated one of the largest 
+cable systems in the world, at its peak running 592 trams on 75 kilometres 
+(47 mi) of track. There were also two isolated cable lines in Sydney, New 
+South Wales, Australia; the North Sydney line from 1886 to 1900,[12] and 
+the King Street line from 1892 to 1905. New York City developed at least 
+seven cable car lines.[when?] A line in Washington DC ran to Georgetown 
+(where some of the underground cable vaults can still be seen today).[citation 
+needed] Los Angeles also had several cable car lines, including the Second 
+Street Cable Railroad, which operated from 1885 to 1889, and the Temple 
+Street Cable Railway, which operated from 1886 to 1898. The most extensive 
+cable system in the US was in Chicago between 1882 and 1906.[13][when?] 
+In Dresden, Germany, in 1901 an elevated suspended cable car following 
+the Eugen Langen one-railed floating tram system started operating. Cable 
+cars operated on Highgate Hill in North London and Kennington to Brixton 
+Hill In South London.[when?] They also worked around "Upper Douglas" in 
+the Isle of Man from 1897 to 1929 (cable car 72/73 is the sole survivor 
+of the fleet). Cable cars suffered from high infrastructure costs, since 
+an expensive system of cables, pulleys, stationary engines and lengthy 
+underground vault structures beneath the rails had to be provided. They 
+also required physical strength and skill to operate, and alert operators 
+to avoid obstructions and other cable cars. The cable had to be disconnected 
+("dropped") at designated locations to allow the cars to coast by inertia, 
+for example when crossing another cable line. The cable would then have 
+to be "picked up" to resume progress, the whole operation requiring precise 
+timing to avoid damage to the cable and the grip mechanism. Breaks and 
+frays in the cable, which occurred frequently, required the complete cessation 
+of services over a cable route while the cable was repaired. Due to overall 
+wear, the entire length of cable (typically several kilometres) would have 
+to be replaced on a regular schedule. After the development of reliable 
+electrically powered trams, the costly high-maintenance cable car systems 
+were rapidly replaced in most locations. Cable cars remained especially 
+effective in hilly cities, since their nondriven wheels would not lose 
+traction as they climbed or descended a steep hill. The moving cable would 
+physically pull the car up the hill at a steady pace, unlike a low-powered 
+steam or horse-drawn car. Cable cars do have wheel brakes and track brakes, 
+but the cable also helps restrain the car to going downhill at a constant 
+speed. Performance in steep terrain partially explains the survival of 
+cable cars in San Francisco. However, the extensive cable car system of 
+Chicago operated over a large relatively flat area. The San Francisco cable 
+cars, though significantly reduced in number, continue to perform a regular 
+transportation function, in addition to being a well-known tourist attraction. 
+A single cable line also survives in Wellington, New Zealand (rebuilt in 
+1979 as a funicular but still called the "Wellington Cable Car"). A third 
+system, actually two separate cable lines with a shared power station in 
+the middle, operates from the Welsh town of Llandudno up to the top of 
+the Great Orme hill in North Wales, UK. The Opicina Tramway in Trieste 
+operates a hybrid funicular electric system. Conventional electric trams 
+are operated in street running and on reserved track for most of their 
+route. However, on one steep segment of track, they are assisted by cable 
+tractors, which push the trams uphill and act as brakes for the downhill 
+run. For safety, the cable tractors are always deployed on the downhill 
+side of the tram vehicle. Similar systems were used elsewhere in the past, 
+notably on the Queen Anne Counterbalance in Seattle and the Darling Street 
+Wharf line in Sydney. Electric trams were first experimentally installed 
+in Saint Petersburg, Russia, invented and tested by Fyodor Pirotsky as 
+early as 1880.[14][15] These trams, like virtually all others mentioned 
+in this section, used either a trolley pole or a pantograph, to feed power 
+from electric wires strung above the tram route. Nevertheless, there were 
+early experiments with battery-powered trams but these appear to have all 
+been unsuccessful. The first trams in Bendigo, Australia, in 1892, were 
+battery-powered but within as little as three months they were replaced 
+with horse-drawn trams. In New York City some minor lines also used storage 
+batteries. Then, comparatively recently, during the 1950s, a longer battery-operated 
+tramway line ran from Milan to Bergamo. In China there is a Nanjing battery 
+Tram line and has been running since 2014.[16] The first regular electric 
+tram service using pantographs or trolley poles, the Gross-Lichterfelde 
+Tramway, was put into service in Lichterfelde, then a suburb of Berlin, 
+(now part of the southwestern Berlin city district of Steglitz-Zehlendorf), 
+by Siemens & Halske AG (company founder Werner von Siemens), in May 1881. 
+It initially drew current from the rails, with overhead wire being installed 
+in 1883.[17] The company Siemens still exists. Another was by John Joseph 
+Wright, brother of the famous mining entrepreneur Whitaker Wright, in Toronto 
+in 1883. Earlier installations proved difficult or unreliable. Siemens' 
+line, for example, provided power through a live rail and a return rail, 
+like a model train, limiting the voltage that could be used, and providing 
+electric shocks to people and animals crossing the tracks.[18] Siemens 
+later designed his own method of current collection, from an overhead wire, 
+called the bow collector. In 1883, Magnus Volk constructed his 2 feet (610 mm) 
+gauge Volk's Electric Railway along the eastern seafront at Brighton, England. 
+This two kilometer line, re-gauged to 2 feet 9 inches (840 mm) in 1884, 
+remains in service to this day, and is the oldest operating electric tramway 
+in the world. The first tram for permanent service with overhead lines 
+was the Mödling and Hinterbrühl Tram in Austria. It began operating in 
+October 1883, but was closed in 1932. Multiple functioning experimental 
+electric trams were exhibited at the 1884 World Cotton Centennial World's 
+Fair in New Orleans, Louisiana, but they were not deemed good enough to 
+replace the Lamm fireless engines that then propelled the St. Charles Avenue 
+Streetcar in that city. In the United States, electric trams were first 
+tested in service in Richmond, Virginia, in 1888, in the Richmond Union 
+Passenger Railway built by Frank J. Sprague, though the first commercial 
+installation of an electric streetcar in the United States was built in 
+1884 in Cleveland, Ohio and operated for a period of one year by the East 
+Cleveland Street Railway Company.[19] The first electric street tramway 
+in Britain, the Blackpool Tramway, was opened on 29 September 1885 using 
+conduit collection along Blackpool Promenade. Since the closure of the 
+Glasgow Corporation Tramways in 1962, this has been the only first-generation 
+operational tramway in the UK, and is still in operation in a modernised 
+form. Sarajevo built a citywide system of electric trams in 1885.[20] Budapest 
+established its tramway system in 1887, and its ring line has grown to 
+be the busiest tram line in Europe, with a tram running every 60 seconds 
+at rush hour (however Istanbul's line T1, with a minimum headway of two 
+minutes, probably carries more passengers – 265,000 per day). Bucharest 
+and Belgrade[21] ran a regular service from 1894.[22][23] Ljubljana introduced 
+its tram system in 1901 – it closed in 1958.[24] In Australia there were 
+electric systems in Sydney, Newcastle, Geelong, Ballarat, Bendigo, Brisbane, 
+Adelaide, Perth, Fremantle, Kalgoorlie, Leonora, Hobart and Launceston. 
+By the 1970s, the only tramway system remaining in Australia was the extensive 
+Melbourne system other than a few single lines remaining elsewhere: the 
+Glenelg Tram, connecting Adelaide to the beachside suburb of Glenelg, and 
+tourist trams in the Victorian Goldfields cities of Bendigo and Ballarat. 
+An unusual line that operated from 1889 to 1896 connected Box Hill, then 
+an outer suburb of Melbourne, to Doncaster, then a favoured picnic spot. 
+In recent years the Melbourne system, generally recognised as one of the 
+largest in the world, has been considerably moderrnised and expanded. The 
+Adelaide line has also been extended to the Entertainment Centre, and there 
+are plans to expand further. In 1904 trams were put into operation in Hong 
+Kong. The Hong Kong Tramway is still in operation today and uses double-decker 
+trams exclusively. In the late 19th and early 20th centuries a number of 
+systems in various parts of the world employed trams powered by gas, naphtha 
+gas or coal gas in particular. Gas trams are known to have operated between 
+Alphington and Clifton Hill in the northern suburbs of Melbourne, Australia 
+(1886–1888); in Berlin and Dresden, Germany; in Estonia (1920s–1930); between 
+Jelenia Góra, Cieplice, and Sobieszów in Poland (from 1897); and in the 
+UK at Lytham St Annes, Neath (1896–1920), and Trafford Park, Manchester 
+(1897–1908). On 29 December 1886 the Melbourne newspaper The Argus reprinted 
+a report from the San Francisco Bulletin that Mr Noble had demonstrated 
+a new 'motor car' for tramways 'with success'. The tramcar 'exactly similar 
+in size, shape, and capacity to a cable grip car' had the 'motive power' 
+of gas 'with which the reservoir is to be charged once a day at power stations 
+by means of a rubber hose'. The car also carried an electricity generator 
+for 'lighting up the tram and also for driving the engine on steep grades 
+and effecting a start'.[25] Comparatively little has been published about 
+gas trams. However, research on the subject was carried out for an article 
+in the October 2011 edition of "The Times", the historical journal of the 
+Australian Association of Timetable Collectors, now the Australian Timetable 
+Association.[26][27][28][29] A tram system powered by compressed natural 
+gas was due to open in Malaysia in 2012,[30] but as of 2016[update] there 
+was no evidence of anything having happened; news about the project appears 
+to have dried up. In some places, other forms of power were used to power 
+the tram. Hastings and some other tramways, for example Stockholms Spårvägar 
+in Sweden and some lines in Karachi, used petrol trams. Paris operated 
+trams that were powered by compressed air using the Mekarski system. Galveston 
+Island Trolley in Texas operated diesel trams due to the city's hurricane-prone 
+location, which would result in frequent damage to an electrical supply 
+system. Although Portland, Victoria promotes its tourist tram[31] as being 
+a cable car it actually operates using a hidden diesel motor. The tram, 
+which runs on a circular route around the town of Portland, uses 'dummies' 
+(grip-cars) and saloon trailer cars formerly used on the extensive Melbourne 
+cable tramway system and now beautifully restored. In March 2015, China 
+South Rail Corporation (CSR) demonstrated the world's first hydrogen fuel 
+cell vehicle tramcar at an assembly facility in Qingdao. The chief engineer 
+of the CSR subsidiary CSR Sifang Co Ltd., Liang Jianying, said that the 
+company is studying how to reduce the running costs of the tram.[32][33] 
+A double-ended tram has an operator's cab and controls at each end of the 
+vehicle, which allows it to easily be driven at full speed in either direction 
+on a continuous segment of track. Typically at the end of a run, the tram's 
+operator will walk from one end of the tram to the other, and then commence 
+the tram route in the other direction. The tram is usually switched to 
+another track by use of crossover points or Y-points. Conversely, a single-ended 
+vehicle needs a method of turning at termini so that the operator's cab 
+is in the front of the tram for the reverse journey. This usually necessitates 
+a turning loop or triangle. On the other hand, the single cab and controls 
+and fewer door spaces make the tram lighter, increases passenger accommodation 
+(including many more seats) and effects reductions in equipment, weight, 
+first-cost, maintenance cost, and operating expense. A single-ended tram 
+has operator's controls at only one end, and can safely be driven at speed 
+in the forward direction but is also capable of reverse movement, typically 
+at slower speed, using a small set of controls at the rear. The configuration 
+of the doors is usually asymmetrical, favouring the side expected to be 
+closest to the street kerb and footpath. At the end of a run, the tram 
+must be turned around via a balloon loop or some other method, to face 
+in the opposite direction for a return trip. Two single-ended trams with 
+doors on both sides may be coupled into a (semi-)permanently coupled married 
+pair or twinset, with operator's controls at each end of the combination. 
+Such a setup is operated as if it were a double-ended tram, except that 
+the operator must exit one vehicle and enter the other, when reversing 
+at the end of the run. In addition, if overhead electrical power is fed 
+from a trolley pole, the direction of the trolley pole must be reversed 
+at the end of the run, to ensure that the pole is "pulled" behind or "trailing" 
+the vehicle, to avoid 'dewiring'. This was achieved by a member of the 
+crew swinging the pole through 180 degrees (if there was only one pole) 
+or lowering one pole and raising the other if there were two. More commonly 
+nowadays, a bidirectional pantograph may be used to feed power, eliminating 
+the need for an extra procedure when reversing direction. From around the 
+1990s, light rail vehicles not made for the occasional high platform light 
+rail system have usually been of partial or fully low-floor design, with 
+the floor 300 to 360 mm (11.8 to 14.2 in) above top of rail, a capability 
+not found in older vehicles. This allows them to load passengers, including 
+those in wheelchairs, directly from low-rise platforms that are not much 
+more than raised footpaths/sidewalks. This satisfies requirements to provide 
+access to disabled passengers without using expensive wheelchair lifts, 
+while at the same time making boarding faster and easier for other passengers. 
+Various companies have developed particular low-floor designs, varying 
+from part-low-floor (with internal steps between the low-floor section 
+and the high-floor sections over the bogies), e.g. Citytram[34] and Siemens 
+S70, to 100% low-floor, where the floor passes through a corridor between 
+the drive wheels, thus maintaining a relatively constant (stepless) level 
+from end to end of the tram. Prior to the introduction of the Škoda ForCity,[citation 
+needed] this carried the mechanical penalty of requiring bogies to be fixed 
+and unable to pivot (except for less than 5 degrees in some trams) and 
+thus reducing curve negotiation. This creates undue wear on the tracks 
+and wheels. Passengers appreciate the ease of boarding and alighting from 
+low-floor trams and moving about inside 100% low-floor trams. Passenger 
+satisfaction with low-floor trams is high.[35] Low-floor trams are now 
+running in many cities around the world, including Adelaide, Amsterdam, 
+Bratislava, Dublin, Gold Coast, Helsinki, Hiroshima, Houston, Istanbul, 
+Melbourne, Milan, Prague, Riga, Strasbourg, Sydney, Vienna, Zagreb and 
+Zürich. The Ultra Low Floor or (ULF) tram is a type of low-floor tram operating 
+in Vienna, Austria as of 1997 and in Oradea, Romania, with the lowest floor-height 
+of any such vehicle. In contrast to other low-floor trams, the floor in 
+the interior of ULF is at sidewalk height (about 18 cm or 7 inches above 
+the road surface), which makes access to trams easy for passengers in wheelchairs 
+or with baby carriages. This configuration required a new undercarriage. 
+The axles had to be replaced by a complicated electronic steering of the 
+traction motors. Auxiliary devices are installed largely under the car's 
+roof. Articulated trams, invented and first used by the Boston Elevated 
+Railway in 1912–13[36] at a total length of about twelve meters long (40 ft) 
+for each pioneering example of twin-section articulated tram car, have 
+two or more body sections, connected by flexible joints and a round platform 
+at their pivoting midsection(s). Like articulated buses, they have increased 
+passenger capacity. In practice, these trams can be up to 56 metres (184 ft) 
+long (such as CAF Urbos 3 in Budapest, Hungary), while a regular tram has 
+to be much shorter. With this type, the articulation is normally suspended 
+between carbody sections. In the Škoda ForCity, which is the world's first 
+100% low floor tram with pivoting bogies, a Jacobs bogie supports the articulation 
+between the two or more carbody sections. An articulated tram may be low-floor 
+variety or high (regular) floor variety. Newer model trams may be up to 
+72 metres (236 ft) long and carry 510 passengers at a comfortable 4 passengers/m2. 
+At crush loadings this would be even higher.[37] Double decker trams were 
+commonplace in Great Britain and Dublin Ireland before most tramways were 
+torn up in the 1950s and 1960s. New York City's New York Railways experimented 
+in 1912 with a Brill double deck Hedley-Doyle stepless center entrance 
+car, nicknamed the "Broadway Battleship," a term that spread to other large 
+streetcars.[38] Hobart, Tasmania, Australia made extensive use of double 
+decker trams. Arguably the most unusual double-decker tram used to run 
+between the isolated Western Australian outback town of Leonora and the 
+nearby settlement of Gwalia. Double decker trams still operate in Alexandria, 
+Blackpool and Hong Kong. Tram-train operation uses vehicles such as the 
+Flexity Link and Regio-Citadis, which are suited for use on urban tram 
+lines and also meet the necessary indication, power, and strength requirements 
+for operation on main-line railways. This allows passengers to travel from 
+suburban areas into city-centre destinations without having to change from 
+a train to a tram. It has been primarily developed in Germanic countries, 
+in particular Germany and Switzerland. Karlsruhe is a notable pioneer of 
+the tram-train. Since the 19th century goods have been carried on rail 
+vehicles through the streets, often near docks and steelworks, for example 
+the Weymouth Harbour Tramway in Weymouth, Dorset.[39] Belgian vicinal tramway 
+routes were used to haul agricultural produce, timber and coal from Blégny 
+colliery while several of the US interurbans carried freight. In Australia, 
+three different "Freight Cars" operated in Melbourne between 1927 and 1977[40] 
+and the city of Kislovodsk in Russia had a freight-only tram system consisting 
+of one line which was used exclusively to deliver bottled Narzan mineral 
+water to the railway station.[41] Today, the German city of Dresden has 
+a regular CarGoTram service, run by the world's longest tram trainsets 
+(59.4 metres (195 ft)), carrying car parts across the city centre to its 
+Volkswagen factory.[42] In addition to Dresden, the cities of Vienna and 
+Zürich currently use trams as mobile recycling depots[citation needed]. 
+At the turn of the 21st century, a new interest has arisen in using urban 
+tramway systems to transport goods. The motivation now is to reduce air 
+pollution, traffic congestion and damage to road surfaces in city centres. 
+One recent proposal to bring cargo tramways back into wider use was the 
+plan by City Cargo Amsterdam to reintroduce them into the city of Amsterdam. 
+In the spring of 2007 the city piloted this cargo tram operation, which 
+among its aims aimed to reduce particulate pollution in the city by 20% 
+by halving the number of lorries (5,000) unloading in the inner city during 
+the permitted timeframe from 07:00 till 10:30. The pilot involved two cargo 
+trams, operating from a distribution centre and delivering to a "hub" where 
+special electric trucks delivered the trams' small containers to their 
+final destination. The trial was successful, releasing an intended investment 
+of €100 million in a fleet of 52 cargo trams distributing from four peripheral 
+"cross docks" to 15 inner-city hubs by 2012. These specially built vehicles 
+would be 30 feet (9.14 m) long with 12 axles and a payload of 30 tonnes 
+(33.1 short tons; 29.5 long tons). On weekdays, trams are planned to make 
+4 deliveries per hour between 7 a.m. and 11 a.m. and two per hour between 
+11 a.m. and 11 p.m. With each unloading operation taking on average 10 
+minutes, this means that each site would be active for 40 minutes out of 
+each hour during the morning rush hour. In early 2009 the scheme was suspended 
+owing to the financial crisis impeding fund-raising.[43] Specially appointed 
+hearse trams, or funeral trolley cars, were used for funeral processions 
+in many cities in the late 19th and early 20th century, particularly cities 
+with large tram systems. The earliest known example in North America was 
+Mexico City, which was already operating 26 funeral cars in 1886.[44] In 
+the United States, funeral cars were often given names. At the turn of 
+the century, "almost every major city [in the US] had one or more"[44]:93 
+such cars in operation. In Milan, Italy, hearse trams were used from the 
+1880s (initially horse-drawn) to the 1920s. The main cemeteries, Cimitero 
+Monumentale and Cimitero Maggiore, included funeral tram stations. Additional 
+funeral stations were located at Piazza Firenze and at Porta Romana.[45] 
+In the mid-1940s at least one special hearse tram was used in Turin, Italy. 
+It was introduced due to the wartime shortage of automotive fuel.[46] Newcastle, 
+NSW, Australia also operated two hearse trams[47] between 1896 and 1948. 
+In Melbourne a "dog car" was used between 1937 and 1955 for transporting 
+dogs and their owners to the Royal Melbourne Showgrounds.[40] Two former 
+passenger cars from the Melbourne system were converted and used as mobile 
+offices within the Preston Workshops between 1969 and 1974, by personnel 
+from Commonwealth Engineering and ASEA who were connected with the construction 
+of Melbourne's Z Class cars.[40] A number of systems have introduced restaurant 
+trams, particularly as a tourist attraction. This is specifically a modern 
+trend. Systems which have or have had restaurant trams include Adelaide, 
+Bendigo and Melbourne, in Australia; Brussels in Belgium; The Hague in 
+the Netherlands; Christchurch in New Zealand;[48] Milan, Rome and Turin 
+in Italy; Moscow, Russia; Almaty, Kazakhstan [49] and Zurich, Switzerland. 
+Restaurant trams are particularly popular in Melbourne where three of the 
+iconic "W" class trams have been converted. All three often run in tandem 
+and there are usually multiple meal sittings. Bookings often close months 
+in advance. Bistro trams with buffets operated between Krefeld and Düsseldorf 
+in Germany,[50] while Helsinki in Finland has a pub tram. Frankfurt, Germany 
+has a tourist circle line called "Ebbelwei-Express", in which the traditional 
+local drink "Apfelwein" (locally called "Ebbelwei", a type of hard cider) 
+is served.[51] Munich tram No.24, delivered in 1912, was refurbished as 
+a mobile library in 1928. Known as "Städtische Wanderbücherei München", 
+it was in public service until 1970. It was preserved and is now on public 
+display in a railway museum in Hannover.[52] Edmonton, Alberta used a streetcar 
+bookmobile from 1941 to 1956. After World War Two, in both Warsaw and Wrocław, 
+Poland, so-called trams-nurseries[53] were in operation, collecting children 
+from the workplaces of their parents (often tram employees). These mobile 
+nurseries either carried the children around the system or delivered them 
+to the nursery school run by transport company.[54] Most systems had cars 
+that were converted to specific uses on the system, other than simply the 
+carriage of passengers. As just one example, the Melbourne system used 
+or uses the following "technical" cars : a Ballast Motor, Ballast Trailers, 
+a Blow Car, Breakdown Cars, Conductors and/or Drivers' Instruction Cars, 
+a Laboratory Testing Car, a Line Marking Car, a Pantograph Testing Car, 
+Per Way Locomotives, Rail Grinders, a Rail Hardner Loco., a Scrapper Car, 
+Scrubbers, Sleeper Carriers, Track Cleaners, a Welding Car, a Wheel Transport 
+Car and a Workshops Locomotive.[40] Many systems have passenger carrying 
+vehicles with all-over advertising on the exterior and/or the interior. 
+Many systems have retained historical trams which will often run over parts 
+of the system for tourists and/or tram enthusiasts. In Melbourne, Australia, 
+a number of the iconic W class run throughout each day in a set route which 
+circles the Central Business District. They are primarily for the use of 
+tourists, although often also used by regular commuters. There are two 
+main types of tramways, the classic tramway built in the early 20th century 
+with the tram system operating in mixed traffic, and the later type which 
+is most often associated with the tram system having its own right of way. 
+Tram systems that have their own right of way are often called light rail 
+but this does not always hold true. Though these two systems differ in 
+their operation, their equipment is much the same. Tram stops may be similar 
+to bus stops in design and use, particularly in street-running sections, 
+where in some cases other vehicles are legally required to stop clear of 
+the tram doors. Some stops may resemble to railway platforms, particularly 
+in private right-of-way sections and where trams are boarded at standard 
+railway platform height, as opposed to using steps at the doorway or low-floor 
+trams. Trams were traditionally operated with separate levers for applying 
+power and brakes. More modern vehicles use a locomotive-style controller 
+which incorporate a dead man's switch. The success of the PCC streetcar 
+had also seen trams use automobile-style foot controls allowing hands-free 
+operation, particularly when the driver was responsible for fare collection. 
+Tramway track can have different rail profiles to accommodate the various 
+operating environments of the vehicle. They may be embedded into concrete 
+for street-running operation, or use standard ballasted track with railroad 
+ties on high-speed sections. A more ecological solution is to embed tracks 
+into grass turf. Electric trams use various devices to collect power from 
+overhead lines. The most common device found today is the pantograph, while 
+some older systems use trolley poles or bow collectors. Ground-level power 
+supply has become a recent innovation. Another new technology uses supercapacitors; 
+when an insulator at a track switch cuts off power from the tram for a 
+short distance along the line, the tram can use energy stored in a large 
+capacitor to drive the tram past the gap in the power feed.[55] A rather 
+obsolete system for power supply is conduit current collection. Throughout 
+the world there are many tram systems; some dating from the late 19th or 
+early 20th centuries. However a large number of the old systems were closed 
+during the mid-20th century because of such perceived drawbacks as route 
+inflexibility and maintenance expense. This was especially the case in 
+North American, Australian, British, French and other West European cities. 
+Some traditional tram systems did however survive and remain operating 
+much as when first built over a century ago. In the past twenty years their 
+numbers have been augmented by modern tramway or light rail systems in 
+cities that had discarded this form of transport. Source, as of October 
+2015:[56] Tramways with tramcars (British English) or street railways with 
+streetcars (North American English) were common throughout the industrialised 
+world in the late 19th and early 20th centuries but they had disappeared 
+from most British, Canadian, French and US cities by the mid-20th century.[57] 
+By contrast, trams in parts of continental Europe continued to be used 
+by many cities, although there were contractions in some countries, including 
+the Netherlands.[58] Since 1980 trams have returned to favour in many places, 
+partly because their tendency to dominate the roadway, formerly seen as 
+a disadvantage, is now considered to be a merit. New systems have been 
+built in the United States, Great Britain, Ireland, France, Australia and 
+many other countries. In Milan, Italy, the old "Ventotto" trams are considered 
+by its inhabitants a "symbol" of the city. The same can be said of trams 
+in Melbourne in general, but particularly the iconic W class. The Toronto 
+streetcar system had similarly become an iconic symbol of the city, operating 
+the largest network in the Americas as well as the only large-scale tram 
+system in Canada (not including light rail systems, or heritage lines).[59][60] 
+The largest tram ((classic tram, streetcar, straßenbahn) and fast tram, 
+(light rail, stadtbahn)) networks in the world by route length (as of 2016)[61] 
+are Melbourne (256 km (159 mi)),[62] St. Petersburg (205.5 km (127.7 mi)),[63] 
+Cologne (194.8 km (121.0 mi)),[64] Berlin 191.6 km (119.1 mi)),[65] Moscow 
+(183 km (114 mi)),[66] Budapest (172 km (107 mi)),[67] Katowice agglomeration 
+(171 km (106 mi))[68] and Vienna (170 km (110 mi)).[69] Other large systems 
+include (but are not limited to): Dallas Light Rail,[70] modern streetcar[71] 
+and heritage streetcar[72] (155 km (96 mi)), Sofia (153.6 km (95.4 mi)),[61] 
+Leipzig (148.3 km (92.1 mi)),[73] Łódź (145 km (90 mi)),[74] Bucharest 
+(143 km (89 mi)),[75] Prague (142.4 km (88.5 mi)),[76] Kiev (139.9 km (86.9 mi)), 
+Brussels (138.9 km (86.3 mi)), Dresden (134 km (83 mi)), Los Angeles (133.1 km 
+(82.7 mi)),[77] Bonn Stadtbahn and streetcars (125.32 km (77.87 mi)), Stuttgart 
+(124.5 km (77.4 mi)),[78] Warsaw (124 km (77 mi)), Hanover (121 km (75 mi)), 
+Zagreb (116.3 km (72.3 mi)), Bremen (114.6 km (71.2 mi)), Portland metropolitan 
+area light rail and streetcars (108.2 km (67.2 mi)), Paris (104.9 km (65.2 mi)),[79] 
+Mannheim/Ludwigshafen (103.4 km (64.2 mi)),[80][81] Riga (99.52 km (61.84 mi)), 
+Gothenburg (95 km (59 mi)), Kassel (93.3 km (58.0 mi)), Manchester (92.5 km 
+(57.5 mi)), Kraków (90 km (56 mi)),[82] Dnipropetrovsk (87.8 km (54.6 mi)), 
+Halle (Saale) (87.6 km (54.4 mi)), San Diego (86.1 km (53.5 mi)), Pavlodar 
+(86 km (53 mi)),[83] Turin (84 km (52 mi)), Bochum/Gelsenkirchen (84 km 
+(52 mi)), Zurich (84 km (52 mi)),[84] Toronto (83 km (52 mi)),[85] Amsterdam 
+(80.5 km (50.0 mi)),[86] Munich (79 km (49 mi)),[87] Antwerp (79 km (49 mi)),[88] 
+Denver (76 km (47 mi)), Iași (76 km (47 mi)), Salt Lake Valley light rail 
+and streetcar (75.42 km (46.86 mi)), Dortmund (75 km (47 mi)), Rotterdam 
+(75 km (47 mi)),[89] St. Louis Metropolitan Area (74 km (46 mi)), Lviv 
+(73.5 km (45.7 mi)), Mykolaiv (72.83 km (45.25 mi)), Karlsruhe (71.5 km 
+(44.4 mi)), Brno (70.4 km (43.7 mi)), Porto (70 km (43 mi)), Sacramento 
+(69 km (43 mi)),[90] Frankfurt am Main (68 km (42 mi)), San Jose and its 
+suburbs (67.9 km (42.2 mi)), Lyon (66.3 km (41.2 mi)),[91] Ostrava (65.7 km 
+(40.8 mi)), Basel (65.7 km (40.8 mi), Donetsk (65.7 km (40.8 mi)), Poznań 
+(65.6 km (40.8 mi)), Minsk (62.8 km (39.0 mi)), Szczecin (60 km (37 mi)), 
+Graz (59.8 km (37.2 mi)), Montpellier (55.6 km (34.5 mi)),[92][93] Pyongyang 
+(53.5 km (33.2 mi)), Essen (52.4 km (32.6 mi)) and Gdańsk (52.2 km (32.4 mi)). 
+This list is not exhaustive. The length of the following networks is disputed: 
+Philadelphia trolleycar network comprise from Subway–Surface Trolley Lines 
+with line length 31.9 km (19.8 mi)[94] or by another source 100.8 km (62.6 mi) 
+(the sum of all lines (lines 10 (18.7 km (11.6 mi)), 11 (21.4 km (13.3 mi)), 
+13 (18.3 km (11.4 mi)), 34 (16.3 km (10.1 mi)) and 36 (26.1 km (16.2 mi)))[citation 
+needed], light rail routes 101 and 102 with length 19.2 km (11.9 mi)[94] 
+and heritage route 15 (line length 13.7 km (8.5 mi)).[94] Put together, 
+it measures 64.6 km (40.1 mi) or 133.5 km (83.0 mi) of line length. The 
+route length is 86.6 km (53.8 mi).[94] Next, San Francisco light rail and 
+streetcars have route length 50 km (31 mi)[95] or 59.4 km (36.9 mi).[96] 
+Except it, in city is 8.3 km (5.2 mi)[95] of cable car. Next networks with 
+disputed route length are Milan (126.5 km (78.6 mi))[97] or 181 km (112 mi),[98] 
+Düsseldorf Stadtbahn (76 km (47 mi))[99] or 78 km (48 mi)[100]/streetcars 
+72 km (45 mi)[99] or 68.5 km (42.6 mi),[100] The Hague (105 km (65 mi))[101] 
+or by other sources 142 km (88 mi),[102] Strasbourg (40.4 km (25.1 mi))[103] 
+or 57.5 km (35.7 mi),[104] Kolkata (57 km (35 mi))[105] or 68 km (42 mi),[106] 
+Nizhny Novgorod (formerly Gorky) (98 km (61 mi))[citation needed] or 76.5 km 
+(47.5 mi)[citation needed]. This list is not exhaustive. The longest single 
+tram line in the world is the 68 km (42 mi) Belgian Coast Tram, which runs 
+almost the entire length of the Belgian coast. Another fairly long line 
+is the Valley Metro Rail in Phoenix, Arizona, with its 42 km (26 mi).[107][108] 
+Historically, the Paris Tram System was,1 at its peak, the world's largest 
+system, with 1,111 km (690 mi) of track in 1925 (according to other sources, 
+ca. 640 km of route length in 1930, but those five years length reduced 
+to a minimum), before its complete destruction in the 1938.[109] The next 
+largest system appears to have been 857 km (533 mi), in Buenos Aires before 
+the 19 February 1963. The third largest was Chicago, with over 850 km (530 mi) 
+of track,[110] but it was all converted to trolleybus and bus services 
+by 21 June 1958. Before its decline, the BVG in Berlin operated a very 
+large network with 634 km (394 mi) of route. Before its system started 
+to be converted to trolleybus (and later bus) in the 1930s (last tramway 
+closed 6 July 1952), the first-generation London network had 555 km (345 mi) 
+of route in 1931.[111] In 1958 trams in Rio de Jainero rode on (433 km 
+(269 mi)) of route length, before closure the network expect Santa teresa 
+line in 1968.[112] During a period in the 1980s, the world's largest tram 
+system was in Leningrad (now known as St. Petersburg) with 350 km (220 mi), 
+USSR, and was included in Guinness World Records; however Saint Petersburg's 
+tram system has declined in size since the fall of the Soviet Union. Wiena 
+in 1960 have 340 km (211 mi), before enlargement buses and subway (opened 
+1976). Substituting tram subway continues today. 320 km (199 mi) was in 
+Minneapolis-Saint Paul in 1947: There streetcars ended 31 October 1953 
+in Minneapolis and 19 June 1954 in St. Paul.[113] The Sydney tram network, 
+before it was closed 25 February 1961, had 291 km (181 mi) of route, and 
+was thus the largest in Australia. As from 1961, the Melbourne system (currently 
+recognised as the world's largest) took over Sydney's title as the largest 
+network in Australia. Tramway systems were well established in the Asian 
+region at the start of the 20th century, but started a steady decline during 
+the mid to late 1930s. The 1960s marked the end of its dominance in public 
+transportation with most major systems closed and the equipment and rails 
+sold for scrap; however, some extensive original lines still remain in 
+service in Hong Kong and Japan. In recent years there has been renewed 
+interest in the tram with modern systems being built in Japan, the Philippines, 
+and South Korea. In India trams still operate in Calcutta. Trams were discontinued 
+in Chennai in 1954 and in Mumbai in 1960.[114] The Northern and Central 
+areas of the City of Colombo in Sri Lanka had an electric Tram Car system 
+(42" Gauge). This system commenced operations about 1900 and was discontinued 
+by 1960. Other countries with discontinued tram systems include Indonesia, 
+Malaysia, Thailand, Pakistan and Vietnam. However, a tram system is planned 
+for construction in Gwadar, Pakistan where construction started in late 
+2011. Trams are also under construction in DHA City, Karachi. In China 
+the cities of Beijing, Zhuhai, Nanjing and Shenzhen are planning tram networks 
+for the future. The first Japanese tram line was inaugurated in 1895 as 
+the Kyoto Electric Railroad. The tram reached its zenith in 1932 when 82 
+rail companies operated 1,479 kilometers of track in 65 cities. The tram 
+declined in popularity through the remaining years of the 1930s and during 
+the 1960s many of the remaining operational tramways were shut down and 
+dismantled. In many European cities much tramway infrastructure was lost 
+in the mid-20th century, though not always on the same scale as in other 
+parts of the world such as North America. Most of Central and Eastern Europe 
+retained the majority of its tramway systems and it is here that the largest 
+and busiest tram systems in the world are found. Many European cities are 
+rehabilitating, upgrading, expanding and reconstructing their old tramway 
+lines and building new tramway lines. Whereas most systems and vehicles 
+in the tram sector are found in Central and Eastern Europe, in the 1960s 
+and 1970s, tram systems were shut down in many places in Western Europe, 
+however urban transportation has been experiencing a sustained long running 
+revival since the 1990s.[115] In North America, these vehicles are called 
+"streetcars" (or "trolleys"); the term tram is more likely to be understood 
+as a tourist trolley, an aerial tramway, or a people-mover. In most North 
+American cities, streetcar lines were largely torn up in the mid-20th century 
+for a variety of financial, technological and social reasons. Exceptions 
+included Boston, New Orleans, Newark, Philadelphia (with a much shrunken 
+network), Pittsburgh, San Francisco, Cleveland, Toronto and Mexico City. 
+Pittsburgh had kept most of its streetcar system serving the city and many 
+suburbs until severe cutbacks on 27 January 1967, making it the longest-lasting 
+large-network US streetcar system,[citation needed] though Pittsburgh's 
+surviving streetcar lines were converted to light rail in the 1980s. Toronto 
+currently has the largest streetcar system in the Americas in terms of 
+track length and ridership, operated by the Toronto Transit Commission. 
+This is the only large-scale streetcar system existing in Canada, not including 
+the light rail systems that some Canadian cities currently operate, or 
+heritage streetcar lines operating only seasonally. Toronto's system currently 
+uses Canadian Light Rail Vehicles and Articulated Light Rail Vehicles, 
+after a history of using PCCs, Peter Witt cars, and horse-drawn carriages. 
+The TTC has begun accepting delivery of a fleet of 204 of a variant of 
+Bombardier's Flexity Outlook (also used in some European tram systems) 
+as a replacement.[116][117][118][119] Newer light rail lines in Toronto 
+and Kitchener-Waterloo will be using the Flexity Freedom. Streetcars once 
+existed in Edmonton and Calgary, but both Canadian cities shut down their 
+streetcar systems. In the late 1970s and early 1980s, both cities built 
+and expanded new light rail systems. Streetcars also once operated in cities 
+such as Ottawa, Montreal, Quebec City, Kitchener, Hamilton, Kingston, London, 
+Windsor, Peterborough, Regina, and Saskatoon. Some of these cities have 
+restored their old streetcars and now run them as a heritage feature for 
+tourists, such as the Vancouver Downtown Historic Railway. San Francisco's 
+Muni Metro system is the largest surviving streetcar system in the United 
+States, and has even revived previously closed streetcar lines such as 
+the F Market & Wharves heritage streetcar line. In a trend started in the 
+1980s, some American cities have brought back streetcars, examples of these 
+being Memphis, Portland, Tampa, Little Rock, Seattle and Dallas. Prior 
+to 2000, most of these new-generation streetcar systems were heritage streetcar 
+lines, using vintage or replica-vintage vehicles, but following the 2001 
+opening of the Portland Streetcar system – the first to use modern vehicles[120] – 
+most new US systems have been designed to use modern, low-floor cars. Several 
+additional cities are planning or proposing new streetcar systems, and 
+such systems are under construction in Atlanta, Charlotte, Cincinnati, 
+Dallas (a second system), Kansas City, Los Angeles, Milwaukee, Oklahoma 
+City, Tucson, and Washington DC. Alternatively, in the late 20th century, 
+several cities installed modern light rail systems, in part along the same 
+corridors as their old streetcars systems, the first of these being the 
+San Diego Trolley in San Diego in 1981. Historically, there have been trams 
+in the following Australian cities and towns: Brisbane, Queensland; Rockhampton, 
+Queensland; Sydney, New South Wales; Newcastle, NSW; Maitland, NSW; Broken 
+Hill, NSW; Yass, NSW; Camden, NSW; Melbourne, Victoria; Geelong, Victoria; 
+Ballarat, Victoria; Bendigo, Victoria; Sorrento, Victoria; Adelaide, South 
+Australia; Gawler, South Australia; Victor Harbor, South Australia; Moonta-Wallaroo, 
+South Australia; Perth, Western Australia; Fremantle, WA; Kalgoorlie, WA; 
+Laverton, WA; Hobart, Tasmania; and Launceston, Tasmania. These ranged 
+from extensive systems to single lines. The Sydney system, which closed 
+in 1961, was the most extensive and the largest passenger carrier of any 
+Australian public transport system then or since, moving over 400 million 
+passengers at its peak. Virtually all known types of motive power have 
+been utilised at some stage, in Australia. Today, trams can be found in 
+Melbourne (by length, the world's largest system), and to a lesser extent, 
+Adelaide; all other major cities having largely dismantled their networks 
+by the 1970s. Sydney reintroduced its tram in 1997 on a modern light rail 
+network, while Ballarat and Bendigo retained their trams as heritage systems. 
+In 2008 and 2009, the Bendigo Tramway Co. Ltd. conducted trials utilising 
+their heritage trams for regular public transport. Portland, Victoria introduced 
+a tourist tram in 1996 - this uses a former Melbourne cable car dummy and 
+trailer car, but utilising a hidden diesel motor. A completely new publlic 
+transport system opened on the Gold Coast, Queensland on 20 July 2014. 
+The new system is known as the G:link and is the first tram/ light rail 
+system in Queensland,Australia since Brisbane closed their tram network 
+in 1969. As from March 2014, the Sydney line was extended to Dulwich Hill, 
+with a further major line planned from Circular Quay to the Sydney south-eastern 
+suburbs. There are also plans for the reintroduction of trams in Perth, 
+Hobart and the western suburbs of Sydney around Parramatta, and for completely 
+new systems in Canberra, and on the Sunshine Coast, Queensland. (Ironically, 
+Walter Burley Griffin's 1912 prize-winning design for Canberra envisioned 
+an extensive tram system.[121]) The construction of light rail in Canberra, 
+to be known as Capital Metro, became the major issue of the October 2016 
+ACT election, with the ruling ALP strongly supporting Capital Metro, and 
+the coalition of the Liberal Party and the National Party promising not 
+to proceed with the building of light rail but, instead, increase the number 
+of buses. The ALP won the election [122] and it will proceed with its plans 
+for the construction of Stage 1 of the light rail, which is expected to 
+commence shortly. The railway into the centre of Newcastle was truncated 
+to Wickham on 25 December 2014,[123][124] The railway line was to be replaced 
+with a tram but the implementation of this has been postponed a number 
+of times! A bus replacement currently runs from Wickham to Newcastle. A 
+distinctive feature of many Australian trams was the early use of a lowered 
+central section between bogies (wheel-sets). This was intended to make 
+passenger access easier, by reducing the number of steps required to reach 
+the inside of the vehicle. It is believed that the design first originated 
+in Christchurch, New Zealand, in the first decade of the 20th century. 
+Cars with this design feature were frequently referred to as "drop-centres". 
+Trams for Christchurch and Wellington built in the 1920s with an enclosed 
+section at each end and an open-sided middle section were also known as 
+boon cars, but did not have the drop-centre. Trams built since the 1970s 
+have had conventional high or low floors. New Zealand's last public transport 
+tramway system, that of Wellington, closed in 1966. Nevertheless, there 
+had been tramways ranging from large, comprehensive systems to single lines, 
+in Auckland, Christchurch, Dunedin, Gisborne, Invercargill, Napier, New 
+Plymouth, Greymouth, Westport, Hokitika, Ross, Brighton, Charleston, Kamiere 
+and Kamara. An unusual feature of New Zealand's trams was the diversity 
+of gauges. The 15 systems utilised no less than five gauges, thus making 
+swapping of rolling stock from system to system, a bit of a challenge.[125] 
+Christchurch has subsequently reintroduced heritage trams over a new CBD 
+route, but the overhead wiring plus some track was damaged by the earthquake 
+of 2011. In November 2013 a limited circuit was reopened. Auckland has 
+recently introduced heritage trams into the Wynyard area, near the CBD, 
+using former Melbourne trams. Preserved Auckland trams from the MOTAT have 
+made cameo appearances during Heritage Weeks. Heritage lines exist at Auckland's 
+MOTAT, the Wellington Tramway Museum at Queen Elizabeth Park on the Kapiti 
+Coast, the Tramways Trust Wanganui and the Tramway Historical Society at 
+Ferrymead in Christchurch, as well as the Christchurch Tramway Limited 
+in the central city. Buenos Aires in Argentina had once one of the most 
+extensive tramway networks in the world with over 857 km (535 mi) of track, 
+most of it dismantled during the 1960s in favor of bus transportation. 
+A new line, the PreMetro line E2 system feeding the Line E of the Buenos 
+Aires Subway has been operating for the past few years on the outskirts 
+of Buenos Aires. Also in the city Mendoza, in Argentina, a new tramway 
+system is in construction, the Metrotranvía of Mendoza, which will have 
+a route of 12.5 km and will link five districts of the Greater Mendoza 
+conurbation. The opening of the system is scheduled for August 2011.[126] 
+In Medellín, Colombia, a tram line began operation on 15 October 2015,[127][128] 
+as a revival of old Ayacucho tram.[129] There are many references to trams 
+in popular culture, major references include:- Model trams are popular 
+in HO scale (1:87) and O scale (1:48 in the US and generally 1:43,5 and 
+1:45 in Europe and Asia). They are typically powered and will accept plastic 
+figures inside. Common manufacturers are Roco and Lima, with many custom 
+models being made as well. The German firm Hödl[158] and the Austrian Halling[159] 
+specialize in 1:87 scale.[160] In the US, Bachmann Industries is a mass 
+supplier of HO streetcars and kits. Bowser Manufacturing has produced white 
+metal models for over 50 years.[161] There are many boutique vendors offering 
+limited run epoxy and wood models. At the high end are highly detailed 
+brass models which are usually imported from Japan or Korea and can cost 
+in excess of $500. Many of these run on 16.5 mm (0.65 in) gauge track, 
+which is correct for the representation of 4 ft 8 1⁄2 in (1,435 mm) (standard 
+gauge) in HO scale as in US and Japan, but incorrect in 4 mm (1:76.2) scale, 
+as it represents 4 ft 8 1⁄2 in (1,435 mm). This scale/gauge hybrid is called 
+OO scale. O scale trams are also very popular among tram modellers because 
+the increased size allows for more detail and easier crafting of overhead 
+wiring. In the US these models are usually purchased in epoxy or wood kits 
+and some as brass models. The Saint Petersburg Tram Company[162] produces 
+highly detailed polyurethane non-powered O Scale models from around the 
+world which can easily be powered by trucks from vendors like Q-Car.[163] 
+In the US, one of the best resources for model tram enthusiasts is the 
+East Penn Traction Club of Philadelphia [164] and Trolleyville a website 
+of the Southern California Traction Club.[165] It is thought that the first 
+example of a working model tramcar in the UK built by an amateur for fun 
+was in 1929, when Frank E. Wilson created a replica of London County Council 
+Tramways E class car 444 in 1:16 scale, which he demonstrated at an early 
+Model Engineer Exhibition. Another of his models was London E/1 1800, which 
+was the only tramway exhibit in the Faraday Memorial Exhibition of 1931. 
+Together with likeminded friends, Frank Wilson went on to found the Tramway 
+& Light Railway Society[166] in 1938, establishing tramway modelling as 
+a hobby. Mr. Nathan was a passenger by No. 2 tramway car [...] [he] alighted 
+from the car at the southern end, but before he got clear of the rails 
+the car moved onwards [...] he was thus whirled round by the sudden motion 

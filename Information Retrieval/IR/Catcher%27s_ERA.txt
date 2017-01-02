@@ -1,0 +1,20 @@
+Catcher's ERA or CERA in baseball statistics is the earned run average 
+of the pitchers pitching when the catcher in question is catching. Its 
+primary purpose is to measure a catcher's game-calling, rather than his 
+effect on the opposing team's running game.[1] Craig Wright first described 
+the concept of CERA in his 1989 book The Diamond Appraised.[2] With it, 
+Wright developed a method of determining a catcher's effect on a team's 
+pitching staff by comparing pitchers' performance when playing with different 
+catchers.[2] However, Baseball Prospectus writer Keith Woolner found through 
+statistical analysis of catcher performance that "catcher game-calling 
+isn't a statistically significant skill".[2] Sabermetrician Bill James, 
+too, performed research into CERA, finding that while it is possible that 
+catchers may have a significant effect on a pitching staff, there is too 
+much yearly variation in CERA for it to be a reliable indicator of ability.[1] 
+James used simulations of catchers with assigned defensive values to directly 
+compare CERAs, which influenced Woolner to perform similar simulations 
+but instead using weighted events to calculate pitchers' runs per plate 
+appearance.[1] Through this, Woolner concluded that even if catchers do 
+have an effect on pitchers' abilities to prevent runs, it is undetectable 
+and thus has no practical usage.[1] He also stated that "the hypothesis 
+most consistent with the available facts appears to be that catchers do 

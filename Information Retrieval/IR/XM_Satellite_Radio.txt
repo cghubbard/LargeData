@@ -1,0 +1,311 @@
+XM Satellite Radio (XM) was one of the three satellite radio (SDARS) and 
+online radio services in the United States and Canada, operated by Sirius 
+XM Holdings. It provided pay-for-service radio, analogous to cable television. 
+Its service included 73 different music channels, 39 news, sports, talk 
+and entertainment channels, 21 regional traffic and weather channels and 
+23 play-by-play sports channels. XM channels were identified by Arbitron 
+with the label "XM" (e.g., "XM32" for "The Bridge"). The company had its 
+origins in the 1988 formation of the American Mobile Satellite Corporation 
+(AMSC), a consortium of several organizations originally dedicated to satellite 
+broadcasting of telephone, fax, and data signals. In 1992, AMSC established 
+a unit called the American Mobile Radio Corporation dedicated to developing 
+a satellite-based digital radio service; this was spun off as XM Satellite 
+Radio Holdings, Inc. in 1999. The satellite service was officially launched 
+on September 25, 2001. On July 29, 2008, XM and former competitor Sirius 
+Satellite Radio formally completed their merger, following U.S. Federal 
+Communications Commission (FCC) approval, forming Sirius XM Radio, Inc. 
+with XM Satellite Radio, Inc. as its subsidiary.[1] On November 12, 2008, 
+Sirius and XM began broadcasting with their new, combined channel lineups.[2] 
+On January 13, 2011, XM Satellite Radio, Inc. was dissolved as a separate 
+entity and merged into Sirius XM Radio, Inc.[3] Prior to its merger with 
+Sirius, XM was the largest satellite radio company in the United States. 
+While the satellite receiver radio service was its primary product, XM 
+operated several audio and data services, and advertising. XM's primary 
+business was satellite radio entertainment. XM carried music, news (both 
+simulcast and syndicated programming), sports, talk radio, comedy (both 
+stand-up and radio shows), and even radio drama. In addition, XM used to 
+broadcast local weather and traffic conditions in its larger markets. The 
+channel lineup was available on-line.[4] To receive satellite radio programming, 
+a customer was required to purchase a receiver. Prices ranged from less 
+than $50 to over $200. With a service commitment, it was possible to get 
+a simple receiver for free. Monthly packages started at US$14.49/month[5] 
+(changed since 2011 from US$12.95/month) with add-on "family" radios at 
+US$8.99/month. Best-of-Sirius was available on US accounts for an additional 
+monthly fee. Lifetime packages were also available (USA only). Channel 
+quality was in one of two flavors, stereo music channels at 39 kbit/s and 
+mono talk channels at 16 kbit/s using proprietary compression. Many subscribers 
+have complained about the low quality of satellite radio sound. But providers 
+have stuck with the plan for more channels instead of better quality. HD 
+terrestrial digital radio, a competitor has always used this difference 
+as a selling point. XM Radio Online (XMRO), XM's Internet radio product, 
+offered many of XM's music stations and could be accessed from any Internet 
+connected Windows or Macintosh computer, or via the iPhone/iPod Touch SIRIUS 
+XM app. Prior to March 11, 2009, XMRO was included with XM Radio subscriptions, 
+or was available separately for $7.99/month to Internet-only subscribers. 
+XM also provided data services such as weather information for pilots and 
+weather spotters through its Sirius XM Weather & Emergency datacasting 
+service. This up to the minute weather information could be displayed in 
+the cockpit of an aircraft equipped with a satellite weather receiver. 
+Unlike weather radar, which relies on the aircraft's own equipment, the 
+satellite service could give a pilot information about weather anywhere 
+in USA and Canada. The downside is that the various weather streams (radar, 
+cloud coverage, lightning, forecast, TAF, FA, etc...) took around 15 minutes 
+to complete the data download, meaning that the information can somewhat 
+be out-of-date by the time it is shown. In-cockpit radar and lightning 
+receivers returned truly realtime information, but they costed many thousands 
+of dollars, and did not provide forecasts and complete weather reports. 
+FAA Temporary Flight Restrictions ( TFRs) were also available and shown. 
+Certain aircraft had the XM radio service into the aircraft's audio system, 
+as well, which allowed passengers to listen to XM radio while flying.[6][7] 
+In 2005, AirTran Airways began putting XM Satellite Radio on their aircraft, 
+while in January 2006, JetBlue Airways added XM Radio to their aircraft. 
+United Airlines started carrying prerecorded XM content in March 2006. 
+Zipcar, an urban car-sharing service in the United States, initially installed 
+XM receivers in all of their vehicles available for daily or hourly rental. 
+However, citing uncertainty in the satellite radio market, Zipcar announced 
+on May 1, 2007 that all XM radios would be removed from its fleet in the 
+following months. In contrast to its high-quality broadcasts, Sirius/XM's 
+customer service has drawn fire from some state governments. In October 
+2010, Richard Cordray, Ohio's Attorney General, began investigating complaints 
+regarding Sirius XM's policies on billing, customer solicitation as well 
+as subscription renewals and cancellations. The company informed shareholders 
+of the probe shortly thereafter. According to news reports, Arizona, Connecticut, 
+Tennessee, Vermont, and the District of Columbia have expressed interest 
+in participating in the inquiry. According to Reuters, "The investigations 
+come as Sirius XM, home to programs by Howard Stern and Oprah Winfrey, 
+has found its footing and distanced itself from years of huge losses and 
+questions about its business model."[8] In a report obtained in March 2011, 
+The Better Business Bureau reported receiving over 4500 complaints against 
+Sirius XM in the preceding 36 months, around half of which regarded the 
+company's billing and collection practices. [9] In Missouri, some people 
+registered on the state's do-not-call list have complained about receiving 
+repeated calls from Sirius XM workers or agents after cancelling their 
+subscriptions. Some Florida customers have reported being billed for automatic 
+renewals of accounts they had canceled. Further, Sirius XM was sued in 
+federal court by a customer accusing it of deceptively raising prices.[8] 
+The report also stated that "Sirius, in a statement, said it was cooperating 
+with the investigations and that it believed its 'consumer-related practices 
+comply with all applicable federal and state laws and regulations.'"[8] 
+XM provided digital programming directly from two high-powered satellites 
+in geostationary orbit above the equator: XM Rhythm at 85° west longitude 
+and XM Blues at 115° west longitude[29] in addition to a network of ground-based 
+repeaters. The combination of two satellites and a ground-based repeater 
+network was designed to provide gap-free coverage anywhere within the contiguous 
+U.S., the southern tip of Alaska, and in the southern part of Canada. The 
+signal could also be received in the Caribbean Islands and most of Mexico 
+(reports have stated that areas north of Acapulco were able to receive 
+a steady signal[30]), however XM is not yet licensed for reception by paid 
+subscribers living in these areas. The original satellites, XM-1 ("Rock") 
+and XM-2 ("Roll") suffered from a generic design fault on the Boeing 702 
+series of satellites (fogging of the solar panels), which means that their 
+lifetimes were shortened to approximately six years instead of the design 
+goal of 15 years.[31][32] To compensate for this flaw, XM-3 ("Rhythm") 
+was launched ahead of its planned schedule on February 28, 2005 and moved 
+into XM-1's previous location of 85° WL. XM-1 was then moved to be co-located 
+with XM-2 at 115° WL, where each satellite operated only one transponder 
+(thus broadcasting half the bandwidth each) to conserve energy and cut 
+the power consumption in half while XM-4 ("Blues") was readied for launch. 
+Subsequently, XM launched ground-spare XM-4 ("Blues") ahead of schedule 
+on October 30, 2006 into the 115° WL location to complete the satellite 
+replacement program. On December 15, 2006 XM-1 was then powered down and 
+drifted back to its original location at 85° WL, where it will remain as 
+a backup to XM-3. XM-2 as well was powered down and remains as a backup 
+to XM-4. This makes the current active satellites as XM-3 "Rhythm" and 
+XM-4 "Blues" with two in-orbit spares.[12][33] On June 7, 2005, Space Systems/Loral 
+announced that it had been awarded a contract for XM-5.[34][35] XM-5 will 
+feature two large unfurlable antennas. Sirius' Radiosat 5, also to be built 
+by Loral, will have a similar single large antenna. In American and Canadian 
+metropolitan areas, XM and its Canadian licensee "Canadian Satellite Radio" 
+(CSR) and operating as Sirius XM Canada, owned and operated a network of 
+approximately 900 terrestrial repeater stations, meant to compensate for 
+satellite signal blockage by buildings, tunnels, and bridges. In the United 
+States XM owned and operated approximately 800 repeater sites covering 
+60 markets; in Canada CSR was installing approximately 80 to 100 repeaters 
+that was planned to be owned and operated by CSR in the 16 largest Canadian 
+cities. The actual number of repeater sites varies as the signal is regularly 
+tested and monitored for optimal performance. The actual number of sites 
+in the United States has dropped from the original 1,000 installed when 
+the service first launched in 2001. The repeaters transmit in the same 
+frequency band as the satellites. A typical city contains 20 or more terrestrial 
+stations. Typically, the receiver owner is unaware when a terrestrial station 
+is being used, unless he or she checks antenna information from the receiver 
+being used. Due to a FCC filing in October 2006, the latest list of XM's 
+US terrestrial repeater network was made available to the public. The XM 
+signal used 12.5 MHz of the S band: 2332.5 to 2345.0 MHz. XM provided 128 
+kilobits per second of its bandwidth to OnStar Corporation for use with 
+XM-enabled GM vehicles, regardless of whether their owners are XM subscribers. 
+American Honda also retained the right to some of the company's bandwidth 
+to transmit messages to Acura vehicles via a service known as AcuraLink. 
+XM NavTraffic, an optional service, transmitted coded traffic information 
+directly to vehicle navigation systems using TMC technology. Audio channels 
+on XM were digitally compressed using the CT-aacPlus (HE-AAC) codec from 
+Coding Technologies for most channels, and the AMBE codec from Digital 
+Voice Systems for some voice channels, including all of the Traffic and 
+Weather channels. The XM radio signal was broadcast on 6 separate radio 
+carriers within the 12.5 MHz allocation. The entire content of the radio 
+service, including both data and audio content, was represented by only 
+two carriers. The other 4 carriers carried duplicates of the same content 
+to achieve redundancy through signal diversity. The data on each carrier 
+is encoded using time-delayed and error-correction schemes to enhance availability. 
+Effectively the total radio spectrum used for content is a little over 
+4 MHz.[36] Each two-carrier group broadcast 100 8-kilobit-per-second streams 
+in approximately 4 MHz of radio spectrum. These streams were combined using 
+a patented process to form a variable number of channels using a variety 
+of bitrates. Bandwidth is separated into segments of 4-kilobit-per-second 
+virtual "streams" which are combined to form audio and data "channels" 
+of varying bitrates from 4 to 64 kilobits-per-second.[37] XM preprocessed 
+audio content using Neural Audio processors that are optimized for the 
+aacPlus codec, including spectral band replication (SBR). Audio was stored 
+digitally in Dalet audio library systems using an industry-standard MPEG-1 
+Layer II at 384 kbit/s, sometimes known as MUSICAM. The audio is further 
+processed by the Neural Audio processors on the way to broadcast. In the 
+past, the Sirius XM Pops channel, which aired classical music, was broadcast 
+in 5.1 surround sound audio quality. The technology, titled XM HD Surround, 
+is the result of a partnership between XM and Neural Audio Corporation 
+which provides content with six discrete channels of digital audio. The 
+former XM Live channel also broadcast in this format for certain concerts 
+and studio performances. XM manufacturing partners such as Denon, Onkyo, 
+Pioneer Electronics (USA) Inc., and Yamaha introduced home audio systems 
+capable of playing XM HD Surround. It is not known if the XM HD Surround 
+technology is used on the service in 2015. As part of terrestrial radio 
+giant Clear Channel Communications' early investment into XM in 1998, the 
+companies entered into agreements which provided for certain programming 
+and director designation arrangements as long as Clear Channel retained 
+the full amount of its original investment in XM. One positive consequence 
+of this was that XM had (and still has) exclusive programming rights to 
+all Clear Channel content, including popular national shows like Coast 
+to Coast AM, but the shows could only be broadcast inside the bandwidth 
+controlled by Clear Channel. In June 2003, Clear Channel entered into a 
+forward sales agreement relating to its ownership of XM. During the third 
+quarter of 2005, Clear Channel and XM arbitrated the impact of this agreement 
+on the Operational Assistance Agreement and the Director Designation Agreement. 
+The Arbitration Panel decided that the Operational Assistance Agreement 
+would remain in effect, including Clear Channel's right to receive a revenue 
+share of commercial advertising on programming it provides to XM, but declined 
+to enforce the Director Designation Agreement, which forced the Mays family 
+members off the board of directors. Per the original agreement, Clear Channel 
+had the right to program 409.6 kbit/s (or 10%) of XM bandwidth, requiring 
+XM to include commercial advertising on the existing Nashville!, KISS, 
+Mix, and Sunny (now The Music Summit). The amount of advertising on the 
+music channels amounts up to 4 minutes per hour, similar to the amount 
+of advertising XM included before going commercial free. Exceptions include 
+syndicated music shows which carry network spots. Clear Channel advertising 
+on XM is handled by its subsidiary, Premiere Radio Networks. Clear Channel 
+also provided existing talk channel programming (Fox Sports Radio, Extreme 
+XM, Talk Radio). Clear Channel also controlled America Right (formerly 
+Buzz XM), but through a series of show swaps, most non-Clear Channel content 
+was removed and programming control returned to XM Radio. Plans to introduce 
+new regional based talk channels, which would have featured a regional 
+5 minute newscast for each area of the country, were canceled. Instead, 
+Clear Channel chose to introduce other music and talk channels. Newer channels 
+including ReachMD, America's Talk remain on the air. The Pink Channel, 
+National Lampoon Comedy Radio, WSIX-FM, WLW, and Rock@Random were launched 
+and later removed, and replaced by channels like Bollywood & Beyond, The 
+Music Summit, and Sixx Sense, all of which are on the air today. Seen as 
+a blow to XM's 100% commercial-free music channel status, XM Executive 
+Vice President of Programming Eric Logan released a programming announcement 
+to XM subscribers on the company's website that reiterated XM's commitment 
+to commercial-free music while noting that XM still had the most commercial-free 
+music and that more commercial-free music channels will be added in the 
+near future to ensure that XM will still have more commercial-free music 
+than competitor Sirius Satellite Radio. On April 17, 2006, XM launched 
+US Country (XM17), Flight 26 (XM26), XM Hitlist (XM30) and Escape (XM78) 
+to provide commercial free music in the formats of the Clear Channel programmed 
+music channels which were going to begin airing commercials. In response, 
+Sirius has advertised that they are the only satellite radio provider that 
+has 100% commercial-free music channels. Both XM and Sirius air commercials 
+on their news, talk, and sports channels. The Clear Channel forward sales 
+agreement with Bear, Stearns & Co. Inc was terminated on August 2, 2006. 
+The termination resulted in Clear Channel Investments, Inc. paying Bear 
+Stearns a total of $83.1 million, which was the value of Clear Channel's 
+stake in XM. The accreted value of the debt was $92.9 million, and the 
+fair value of the collar was an asset of $6.0 million, which resulted in 
+a net gain of $3.8 million for Clear Channel.[38] In 2006, XM Satellite 
+Radio was sued by the RIAA over XM's new portable devices the Inno and 
+Helix. The RIAA claims these devices are equivalent to a downloading service, 
+whereas XM contends the devices are protected under the 1992 Audio Home 
+Recording Act. In July, XM requested that a federal judge dismiss the case. 
+It should be noted that XM's subscribers can save only songs they hear 
+on the radio and cannot request a specific song to be downloaded or program 
+their radios to record specific artists. XM's portable devices allow the 
+consumer to record a portion of their broadcast much like a VCR, DVR, or 
+cassette player would allow. The content a subscriber records is available 
+only while the subscriber still has an active account with XM Satellite 
+Radio. Once the account is terminated, the recorded content will become 
+inaccessible. Also, If a subscriber fails to listen to a total of 8 hours 
+of programming a month, the recorded content will not be accessible. Recorded 
+content can be accessed only on the portable device; it cannot be transferred 
+to a home computer or separate digital music player. The idea is not new: 
+TimeTrax Technologies Corporation, led by CEO Elliott Frutkin, developed 
+an application to record songs to MP3 and tag them with the artist and 
+title information directly from the XM network. In 2005, XM attempted to 
+thwart this practice by discontinuing the required XM PCR radio. TimeTrax 
+responded by quickly rolling out adaptive interfaces to allow almost any 
+XM subscriber to use their tuner to build music libraries directly from 
+XM broadcasts. There is speculation that these fumbles by XM and its attitude 
+towards the Time Trax technology may have been the warning shot of major 
+troubles between the RIAA and XM. On January 19, 2007, a district judge 
+ruled that the RIAA could proceed with the lawsuit, rejecting XM's defense 
+that the conduct alleged in the complaint—if proved by the RIAA—would be 
+immune under the Audio Home Recording Act of 1991.[39] At the heart of 
+the TimeTrax controversy was the XM PCR: a computer-controlled XM Receiver. 
+Unlike the other receivers, which could be used in the car or home stereo, 
+the XM PCR required a computer to run. A software application on the computer 
+acted as the radio's controls and display, which led to a flurry of third 
+party developers, who wanted to make a PCR replacement. Many of them received 
+Cease and Desist letters from the XM company[not in citation given]. Once 
+the PCR was discontinued, for the reasons listed above, people found that 
+the XM Direct, a receiver intended to be used in satellite-ready car stereos, 
+can be connected to a computer with a very simple adapter cable. Some people 
+have dubbed the entire kit, with receiver, cable, and software, the Direct 
+PCR. While the original PCR software does not control the XM Direct receiver, 
+several community developers have continued to develop PCR replacement 
+software. On February 19, 2007, XM announced a merger deal with Sirius 
+Satellite Radio. The merger combined the two radio services and created 
+a single Satellite Radio network in the United States and Canada.[15] The 
+United States Department of Justice announced on March 24, 2008 that it 
+had closed its investigation of the merger because it "concluded that the 
+evidence does not demonstrate that the proposed merger of XM and Sirius 
+was likely to substantially lessen competition."[40] On June 16, 2008, 
+FCC Chairman Kevin Martin told the Washington Post that he had decided 
+to approve the XM-Sirius Merger after the companies agreed in the previous 
+week to concessions intended to prevent the new company from raising prices 
+or stifling competition. Martin issued an order to approve the merger, 
+according to The Wall Street Journal – setting the stage for a final vote 
+which could have occurred any time after his recommendation was circulated. 
+The XM-Sirius Merger gained its final governmental approval from the Federal 
+Communications Commission on July 25, 2008, with Martin and commissioners 
+Robert M. McDowell and deciding vote Deborah Taylor Tate voting in the 
+affirmative. As a term of the merger, the combined company will be fined 
+almost $20 million for failing to create and market interchangeable radios 
+capable of receiving signals from both companies prior to the merger.[23] 
+XM developed a software application for use on the Apple iPhone and Apple 
+iPod Touch devices that allowed XM subscribers to listen to its programming 
+over the Apple devices. The Sirius XM iPhone App became available in the 
+Apple iTunes Store on June 17, 2009. All SiriusXM Internet Radio subscribers 
+are able to download the application from the Apple iTunes App-Store for 
+free. Listening on an iPhone/iPad/iPod Touch is included with some subscription 
+packages, a separate fee is required with other packages. SiriusXM debuted 
+a new web page [1] to market the application. On February 4, 2010, SiriusXM 
+released an app for the Research In Motion BlackBerry line of smartphones, 
+including the Storm (Series 9500), Bold (Series 9000 and 9700), Tour (Series 
+9600) and Curve (Series 8500 and 8900). Like the Apple iPhone/iPod Touch 
+application, the BlackBerry app is free but requires a SiriusXM subscription. 
+SiriusXM is also available for download on Android devices through Google 
+Play. The applications carry most of the XM music, talk, sports and entertainment 
+programming, as well as some exclusive Internet-only content. The mobile 
+applications also carry a select number of channels from the "Best of SIRIUS/XM" 
+packages, dependent on the subscriber's subscription level. In November 
+2004, Canadian Satellite Radio filed an application with the Canadian Radio-television 
+and Telecommunications Commission to bring the XM service to Canada. Along 
+with Sirius Canada and the consortium of CHUM Limited and Astral Media, 
+CSR was one of three applications for national subscription radio services 
+submitted to the CRTC. On June 16, 2005, the CRTC approved all three applications. 
+The decisions were appealed to the Canadian federal cabinet by a number 
+of broadcasting, labour, and arts and culture organizations, including 
+the Friends of Canadian Broadcasting, CHUM Limited, and the National Campus 
+and Community Radio Association. The groups objected to the satellite radio 
+applicants' approach to and reduced levels of Canadian content and French-language 
+programming, along with the exclusion of Canadian non-commercial broadcasting. 
+After a lengthy debate, Cabinet rejected the appeals on September 9, 2005. 
+XM's Canadian channels appeared on US receivers on November 17, 2005. On 

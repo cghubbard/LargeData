@@ -1,0 +1,40 @@
+Sabermetrics is the empirical analysis of baseball, especially baseball 
+statistics that measure in-game activity. The term is derived from the 
+acronym SABR, which stands for the Society for American Baseball Research. 
+It was coined by Bill James, who is one of its pioneers and is often considered 
+its most prominent advocate and public face.[1] The Sabermetric Manifesto 
+by David Grabiner (1994)[2] begins: Bill James defined sabermetrics as 
+"the search for objective knowledge about baseball." Thus, sabermetrics 
+attempts to answer objective questions about baseball, such as "which player 
+on the Red Sox contributed the most to the team's offense?" or "How many 
+home runs will Ken Griffey hit next year?" It cannot deal with the subjective 
+judgments which are also important to the game, such as "Who is your favorite 
+player?" or "That was a great game." It may, however, attempt to settle 
+questions, such as, "Was Willie Mays faster than Mickey Mantle?" by establishing 
+several possible parameters for examining speed in objective studies (how 
+many triples did each man hit, how many bases each man stole, how many 
+times he was caught stealing) and then reaching a tentative conclusion 
+on the basis of these individual studies. Sabermetricians frequently question 
+traditional measures of baseball skill. For instance, they doubt that batting 
+average is as useful as conventional wisdom says it is because team batting 
+average provides a relatively poor fit for team runs scored.[3] Sabermetric 
+reasoning would say that runs win ballgames, and that a good measure of 
+a player's worth is his ability to help his team score more runs than the 
+opposing team. This may imply that the traditional RBI (runs batted in) 
+is an effective metric; however, sabermetricians also reject RBI, for a 
+number of reasons. Rather, sabermetric measures are usually phrased in 
+terms of either runs or team wins. For example, a player might be described 
+as being worth 54 offensive runs more than a replacement-level player at 
+the same position over the course of a full season, as the sabermetric 
+statistic VORP can indicate. Sabermetrics research began in the middle 
+of the 20th century. Earnshaw Cook was one of the earliest researchers 
+of sabermetrics. Cook gathered the majority of his research into his 1964 
+book, Percentage Baseball. The book was the first of its kind to gain national 
+media attention,[4] although it was widely criticized and not accepted 
+by most baseball organizations. While playing for the Baltimore Orioles 
+in the early 1970s, Davey Johnson used an IBM System/360 at team owner 
+Jerold Hoffberger's brewery to write a FORTRAN baseball computer simulation, 
+and using the results unsuccessfully proposed to manager Earl Weaver that 
+he should bat second in the lineup. He wrote IBM BASIC programs to help 
+him manage the Tidewater Tides, and after becoming manager of the New York 
+Mets in 1984 arranged for a team employee to write a dBASE II application 

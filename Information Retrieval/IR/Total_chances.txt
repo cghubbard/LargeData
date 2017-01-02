@@ -1,0 +1,5 @@
+In baseball statistics, total chances (TC), also called chances offered, 
+represents the number of plays in which a defensive player has participated. 
+It is calculated as follows: Total Chances = assists + putouts + errors. 
+Chances accepted refers to the total of putouts and assists only. Fielding 
+percentage is calculated as chances accepted divided by total chances. 

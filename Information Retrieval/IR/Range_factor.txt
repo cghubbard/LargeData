@@ -1,0 +1,12 @@
+Range Factor (commonly abbreviated RF) is a baseball statistic developed 
+by Bill James. It is calculated by dividing putouts and assists by the 
+number of innings or games played at a given defense position.[1] The statistic 
+is premised on the notion that the total number of outs in which a player 
+participates is more relevant in evaluating that player's defensive play 
+than the percentage of cleanly handled chances as calculated by the conventional 
+statistic fielding percentage. However, some positions (especially first 
+baseman) may have substantially more putouts because of a superior infield 
+around them that commits fewer errors and turns many double plays, allowing 
+them to receive credit for more putouts. Also, catchers who have a lot 
+of strikeout pitchers on their team will have a high range factor, because 
+the catcher gets the putout on a strikeout if the batter does not reach 

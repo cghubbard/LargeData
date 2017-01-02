@@ -1,0 +1,112 @@
+Game Score is a metric devised by Bill James to determine the strength 
+of a pitcher in any particular baseball game. To determine a starting pitcher's 
+game score: The maximum possible game score in a nine-inning game while 
+allowing no baserunners is 114, possible only if a pitcher goes nine innings 
+while striking out every batter he faces and facing three batters per inning. 
+The pitcher receives 50 to begin with, and loses no points because there 
+are no hits, walks, or runs of any kind. He receives 27 points for the 
+27 outs, and 10 points for five innings completed after the fourth inning, 
+for a total of 87. In this "perfect score" scenario, the pitcher would 
+have to strike out every hitter he faced, netting him an additional 27 
+points, for a grand total of 114. The maximum possible score actually involves 
+an extremely unlikely scenario in which three base runners reach base each 
+inning on wild pitches or passed balls on third strikes. If this were to 
+happen such that no one scored, and the pitcher recorded all outs by strikeout, 
+a pitcher could theoretically record six strikeouts per inning, and thus 
+54 for the game, netting him 54 points in addition to the 87 he would have 
+received as described above, for a total of 141. The highest game score 
+for a nine-inning game in the history of baseball is Kerry Wood's one-hit, 
+no walk, 20-strikeout shutout performance for the Chicago Cubs against 
+the Houston Astros on May 6, 1998. His game score was 105 (50 + 27 + 10 
++ 20 – 2). The highest game score for a no-hitter occurred on October 3, 
+2015, when Max Scherzer of the Washington Nationals allowed no hits and 
+no walks, striking out 17, against the New York Mets. This is also the 
+second-highest nine-inning game score in Major League Baseball history 
+at 104 (50 + 27 + 10 + 17). The 100th game score[citation needed] of 100 
+points or higher was pitched by Matt Cain in June 2012. Of the 100 such 
+games, only ten of them were a regulation nine innings. Higher scores have 
+been accomplished in extra-inning games. The two highest game scores ever 
+recorded both occurred in the same game: the famous 26-inning duel from 
+1920, Joe Oeschger scored 153 and Leon Cadore scored 140. Oeschger had 
+earlier scored a 102 in a 14-inning game in 1917 against Jeff Pfeffer, 
+who scored 114. Oeschger's record in these games was 0-0, because both 
+ended in ties and were called by darkness. In all, there have been nine 
+games in which both starting pitchers scored 100 points; all required extra 
+innings and none has occurred since 1971. Juan Marichal and Warren Spahn 
+scored 112 and 97, respectively, during a complete game 16-inning match 
+up; Spahn's score fell below 100 because of Willie Mays' game-winning home 
+run in the bottom of the 16th. 21 pitchers with 100 or more game score 
+points did so in losing games, including Harvey Haddix, who scored a 107 
+for the game in which he took a perfect game into the 13th inning. The 
+highest-ever losing game score was 118, from Art Nehf, who outlasted the 
+opposing starter by six innings but lost in the 21st inning. 17 of the 
+100+ game scores came in suspended tie games. Only seven of the 100 highest 
+game scores were no-hitters. Walter Johnson and Nolan Ryan had the most 
+100-point game scores with four apiece. Johnson had two in 1918, one in 
+1919, and a fourth in 1926; Ryan's came in 1972, 1973, 1990 and 1991. Warren 
+Spahn had three 100-point game scores, in 1948, 1952 and 1960. Juan Marichal 
+had three 100-point game scores, in 1963, 1966 and 1969. Eight pitchers 
+had two 100-point game scores: Art Nehf (1917 and 1918), Joe Oeschger (1917 
+and 1920), Burleigh Grimes (1918 and 1920), Eric Erickson (1918 and 1921), 
+Herb Pennock (1923 and 1925), Jim Maloney (1964 and 1965), Frank Tanana 
+(1975 and 1976), and Max Scherzer (both 2015).[1] Corey Kluber's game score 
+of 98 in an eight-inning, no-run, one-hit, no-walk, 18-strikeout performance 
+against the St. Louis Cardinals on May 13, 2015, is the highest by any 
+pitcher in MLB history in a non-complete game. Indians bench coach Brad 
+Mills removed him after the eighth inning, and Cody Allen pitched the ninth 
+inning to seal a 2-0 win.[2] The previous holder of the record was Matt 
+Harvey, who achieved a game score of 97 for a nine-inning non-complete 
+game against the Chicago White Sox. (Harvey's New York Mets won in ten 
+innings.)[3][4] On June 18, 2014, Clayton Kershaw posted the 2nd highest 
+ever game score for a 9-inning, no-hit effort. Kershaw struck out 15 while 
+walking none, and the only baserunner was the result of a throwing error. 
+His game score of 102 is the third-highest for a 9-inning game in MLB history 
+(50 + 27 +10 + 15).[5] The lowest game score in baseball history was Allan 
+Travers' 26-hit, 24-run start for the Detroit Tigers on May 18, 1912. His 
+game score was a −52. This performance only came about because the regular 
+Tiger players staged a strike in protest of Ty Cobb's suspension. To avoid 
+a forfeit, local college players (including Travers) were enlisted as impromptu 
+fill-ins. The lowest game score since 1957 was Oakland pitcher Mike Oquist's, 
+who allowed 16 hits and 14 earned runs in five innings on August 3, 1998, 
+for a −21. The game score concept expands on Major League Baseball's official 
+definition of a quality start. MLB defines a quality start as six or more 
+innings pitched while allowing three or fewer earned runs. The game score 
+system defines a quality start as a game score at or above 60 hypothetically 
+(50 base + 18 for outs recorded + 4 for the 5th/6th inning - 12 for three 
+earned runs), but as it is rare that an earned run occurs with no walks/hits, 
+the true game score for a baseline quality start would be somewhere between 
+50-60. Furthermore, the game score rewards pitchers for going deeper into 
+the game, even if they give up more earned runs. A baseline quality start 
+would be lost if, after going into deeper innings than the 6th, a pitcher 
+gives up more earned runs. The advantage that the system has over the official 
+definition is that it allows a statistician a better view of the degree 
+of quality in a pitcher's performance. Game scores can be quantified, and 
+a pitcher's performance tracked over time. It is also possible to compare 
+different pitchers. If one averages a 60 and another averages 55, presumably 
+the first pitcher has had a better season. In terms of high scores, the 
+system favors current pitchers. It is difficult to achieve a very high 
+score in a game without amassing a substantial number of strikeouts. In 
+earlier eras, even for the very best pitchers, strikeouts were less plentiful. 
+For instance, Cy Young's two no-hitters earned scores of just 90 and 88 
+due to their low strikeout totals (three and two, respectively). However, 
+most of the all-time high game scores occurred in baseball's earlier era, 
+when starting pitchers were permitted to remain in games longer than today; 
+four of the top six all-time game scores were accomplished in stints of 
+21 innings or more. Thirteen times in Major League Baseball history, a 
+pitcher has achieved a game score of 100 or higher in a 9-inning game.[6] 
+The total number of game scores listed for each pitcher are starts in which 
+he reached 90 points or higher. The parenthetical totals represent the 
+highest score in the pitcher's career, and the number of game scores equal 
+to or greater than 100 (if any). This is not a complete list and includes 
+only pitchers with five or more games of 90 or higher (through 10/9/2015).[6] 
+On December 14, 2014, Tom Tango introduced Game Score Version 2.0[7] in 
+an attempt to, as he claims, "fix the gaps" in the original Game Score 
+calculation devised by James more than thirty years previously.[8] Key 
+changes made by Tango to the original formula included applying a base 
+of 40 points to starting pitchers' game scores (instead of 50); equalizing 
+the penalty for giving up a walk with that of giving up a hit; and introducing 
+home runs given up into the equation.[8] The new 2.0 formula is: Tango 
+subsequently published his new formula on April 11, 2016 on FanGraphs.com,[8] 
+a well-known and respected baseball analysis and statistics website, which 
+at the same time also began including the new measure on their game log 
+pages for individual pitchers for whom the building block data are available. 

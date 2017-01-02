@@ -1,0 +1,145 @@
+Syndication exclusivity (also known as syndex) is a federal law implemented 
+by the Federal Communications Commission (FCC) in the United States that 
+is designed to protect a local television station's rights to syndicated 
+television programs by granting exclusive broadcast rights to the station 
+for that program in their local market, usually defined by a station's 
+Nielsen Designated Market Area. As a result, any airings of the same program 
+on cable networks and, more commonly, superstations must be blocked by 
+the local cable provider upon request from the local station. Broadcast 
+television stations have the option of signing programming deals with or 
+without syndex protection, but stand to have audiences significantly diluted 
+in markets without protection. Syndex protection is rarely enforced in 
+regards to conventional cable networks, which (particularly since the late 
+1990s) often concurrently maintain rights to a particular program during 
+the period of a broadcast syndication deal. The first syndex rule to be 
+passed by the Federal Communications Commission went into effect on March 
+31, 1972.[1][2] The regulations at the time was similar to the present-day 
+law, except that it applied to almost all programming, including shows 
+such as the Jerry Lewis MDA Telethon.[3] WTCG in Atlanta, the original 
+"superstation" (which at the time was distributed only in the Southeastern 
+United States, five years before it became available nationally via satellite 
+transmission), had programming blacked out in some areas where duplication 
+existed. In November 1976, the FCC began to consider making alterations 
+to the syndex rulings.[4] In April 1979, the FCC made a proposal to remove 
+some of the rules. Further debate led the Cable Television Bureau of the 
+FCC to recommend doing away with the rules entirely.[5][6] On July 22, 
+1980, the Commission revoked the syndex rulings in a 4–3 vote, on the basis 
+that "local stations are not adversely affected when a cable system offers 
+subscribers signals from television stations in other cities."[7] In 1980, 
+the FCC lifted the old syndex law, as a way to bolster the growing cable 
+television industry. This led cable systems to begin carrying other superstations 
+and more regional out-of-market independent stations, at a time when the 
+popularity of both was growing. The current syndex law was tied in part 
+to the Satellite Home Viewer Act of 1988. In the run-up to that legislation's 
+passage on May 18, 1988,[8][9][10] Tom Meek (general manager of WOFL in 
+Orlando, Florida), with the assistance of Preston Padden of the Association 
+of Independent Television Stations (INTV), presented a study utilizing 
+custom Nielsen audience data showing significant ratings dilution in the 
+7:00–8:00 p.m. period that was directly attributable to the carriage of 
+identical programming via Chicago superstation WGN-TV on numerous local 
+cable providers, resulting in an estimated loss in advertising revenue 
+of several hundred thousand dollars. The legislation, H.R. 2848, had been 
+blocked by Democratic representative Mike Synar, whose district included 
+Tulsa, Oklahoma, where WGN's satellite carrier United Video Satellite Group 
+was headquartered. After the study was presented to and subsequently validated 
+by Synar's staff, Synar dropped his opposition under pressure from committee 
+chairman Washington Democratic Rep. Al Swift. H.R. 2848, sponsored by Texas 
+Democratic Rep. John Bryant, then passed. The syndex rules went back into 
+effect on January 1, 1990.[11] Before the reimposition of the syndex rules, 
+stations like WGN and WTBS were paying local single market rates for programming 
+acquisitions, even as they were gaining national coverage, and were selling 
+that extended coverage to advertisers. After the syndex law was implemented, 
+in at least some cases, the prices that superstations paid for program 
+content had better[according to whom?] reflected their actual national 
+distribution, depending on arrangements with any given syndicator. Syndex 
+is currently[when?] being used to block superstations offered through a 
+programming tier provided by satellite provider Dish Network from being 
+picked up in certain markets. In this case, the CW and MyNetworkTV affiliates 
+in given markets can invoke the syndex law to keep the superstations that 
+have the same network affiliations as the local station from coming into 
+the market in any form. CW stations are using the law in order to block 
+KTLA in Los Angeles, WPIX/New York City and KWGN-TV/Denver, while WWOR-TV 
+in Secaucus, New Jersey and WSBK-TV/Boston are presently[when?] blocked 
+in markets where MyNetworkTV affiliates are invoking the law. There have 
+been a number of legal cases, most notably in Miami, and efforts in Washington, 
+D.C. by terrestrial broadcasters to keep satellite providers from exploiting 
+a provision in the law whereby satellite providers can offer programming 
+where a broadcast station's signal is not available. In the Miami case, 
+satellite providers were found to have allowed carriage of outside stations 
+in households within a few miles of broadcast transmitters in violation 
+of the law. Syndex is often unpopular[according to whom?] with satellite 
+subscribers and companies who would rather not afford local broadcast stations 
+program rights protection. Throughout the 1970s and 1980s, several local 
+independent stations were uplinked via satellite so that they could be 
+available either nationally or regionally, especially to markets that did 
+not have independent stations, either because the market could not support 
+one due to having lower population densities or because one simply did 
+not exist. Three of those stations, WOR-TV/WWOR-TV in New York City (later 
+moved to Secaucus, New Jersey), WGN-TV in Chicago and WTBS in Atlanta, 
+were available nationally. WTBS aired shows that were generally "syndex 
+proof" (or, in simpler terms, having "full signal rights") due to program 
+contracts that the station was able to negotiate so that it could avoid 
+having any programs blacked out or substituted, save for sports programs. 
+In 1990, when the syndex law was passed, national versions of WWOR-TV and 
+WGN-TV, which aired different programs from the local signals in their 
+native cities, were launched. These feeds replaced programs that had syndication 
+exclusivity claims in certain markets with syndicated programs to which 
+no station held exclusive rights in any market. WWOR's national feed outside 
+of New York City was branded as the "WWOR EMI Service" (the "EMI" referring 
+to Eastern Microwave, Inc., the superstation feed's satellite uplinker). 
+WGN-TV did not have to cover up as many programs as WWOR, and while WGN 
+was able to carry programming from The WB network on its national feed 
+from January 1995 (when its Chicago parent station also affiliated with 
+the network[13]) to October 1999, WWOR was not permitted by UPN to carry 
+that network's programming on the EMI feed. This negatively affected UPN 
+as WGN's carriage of The WB temporarily filled holes where that network 
+did not have a full-time or secondary carrier in some markets until the 
+network found local over-the-air affiliates and later set up a cable-only 
+feed in 1998. UPN's decision to deny WWOR permission to carry its programming 
+nationally left open gaps in market coverage for that network in several 
+large and mid-sized cities. After the national version of WWOR ceased uplinking 
+in January 1997 (after Advance Entertainment Corporation sold WWOR's satellite 
+transponder slot to Discovery Communications to expand national coverage 
+of Animal Planet), the New York City-area feed, which included UPN programs 
+and other shows previously covered up on the EMI feed, was uplinked by 
+the National Programming Service for exclusive distribution to satellite 
+providers. That feed was discontinued in 1999 with its transponder space 
+being turned over to Pax TV, though Dish Network now carries the New York 
+City feed of WWOR. WTBS was separated from the national feed of TBS in 
+October 2007, and now airs only Atlanta-cleared programming as WPCH (the 
+Atlanta station remains a superstation in Canada, although some of its 
+programming is instead substituted with a domestic network feed of the 
+same program under simultaneous substitution regulations). WGN's national 
+superstation feed, later branded as "WGN Superstation" and "Superstation 
+WGN", would be renamed WGN America in 2007; by this point, the number of 
+syndicated programs that WGN-TV both gained full signal rights to and aired 
+on both the Chicago broadcast signal and the national feed had substantially 
+decreased, with WGN America mirroring the former WWOR EMI Service in its 
+scheduling. WGN's national feed was also separated from its parent station, 
+except in name, and converted into a basic cable network on December 16, 
+2014, and as a result no longer carries any Chicago-area programming.[14][15] 
+In any case, national superstations such as WGN were, in later years, still 
+sometimes able to negotiate full signal rights for a syndicated program. 
+Whether or not a particular program could be cleared for full signal rights 
+depends on how it was originally sold to other television stations nationwide. 
+For example, the repackaged American Idol Rewind was allowed to air on 
+WGN's national "Superstation" signal by virtue of Tribune Entertainment 
+(the now-defunct production and distribution unit of the station's owner, 
+the Tribune Company) being a majority partner as well as the distributor 
+of the program. Other studios can also allow full signal rights to superstations 
+for its programming. For example, 20th Television allowed WGN full signal 
+rights to the syndicated version of 24 as did NBCUniversal Television Distribution 
+with 30 Rock, and Sony Pictures Television used the same method for Seinfeld 
+for TBS. However, once one superstation's term of license on a program 
+ends, it can enter into syndex restrictions. For example, for decades TBS 
+had full signal rights to The Andy Griffith Show until Viacom's cable networks 
+were able to negotiate new full signal rights in the mid-1990s (The Andy 
+Griffith Show at the time was distributed by Viacom, then its successor, 
+Paramount Television). Today, TV Land has national rights to The Andy Griffith 
+Show (now distributed through CBS Television Distribution), and under this 
+new contract cannot be seen on any other national network or superstation, 
+but it can still be seen on local over-the-air stations, as stations such 
+as WRAL-TV/WRAZ in Raleigh and WVTV in Milwaukee have done for decades 
+(similarly, the broadcast rights to the program held by some local stations 
+have prevented Me-TV from carrying Andy Griffith on many of its affiliates 
+since it began carrying the sitcom in 2014). Broadcasts on these local 
